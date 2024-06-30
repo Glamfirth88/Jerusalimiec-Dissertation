@@ -10,7 +10,6 @@ Digital Research Services
 University Libraries
 UNC Chapel Hill
 """
-pytesseract.pytesseract.tesseract_cmd = 'C:/Program Files/Tesseract-OCR/tesseract.exe'
 
 import pytesseract
 from PIL import Image, ImageEnhance, ImageOps, ImageFilter
@@ -23,9 +22,6 @@ from random import sample
 from io import StringIO
 from numpy import random
 import csv
-
-#establish tesseract directory
-pytesseract.pytesseract.tesseract_cmd = r"/usr/local/Cellar/tesseract/4.0.0_1/bin/tesseract"
 
 #show more columns in dataframes
 pandas.set_option('display.max_columns', 999)
@@ -238,7 +234,7 @@ def OCRtestImg(img, alltext = False, correct = False, psm = 1, oem = 3):
     tconfig = pconfig + " " + oconfig
     
     #Perform cropping, image adjustments and OCR
-    text = pytesseract.image_to_string(img, config = tconfig, lang="eng+fra+frm+lat")
+    text = pytesseract.image_to_string(img, config = tconfig, lang="fra+frm+lat")
     
     #join hyphenated words that are split between lines
     text = text.replace("-\n","")
@@ -249,10 +245,8 @@ def OCRtestImg(img, alltext = False, correct = False, psm = 1, oem = 3):
     tokens = [token.encode("utf-8", errors = "replace") for token in tokens]
     
     #add NC geonames to spellchecker dictionary
-    #(see geonames.py for script used to create the text file)
-    spell = SpellChecker()
-   # spell.word_frequency.load_text_file("/Users/tuesday/Documents/_Projects/Research/OnTheBooks/OCR/geonames.txt")
-            
+    spell = SpellChecker(language='fr')
+              
     #get unknown words
     unknown = spell.unknown(tokens)
     
@@ -389,7 +383,7 @@ def OCRimg(img, savpath, append = True, psm = 1, oem = 3, adjdoc = True, **kwarg
     
     #open file and perform ocr    
     ocrf = open(savpath, **mode)
-    text = pytesseract.image_to_string(adjustImg(img, **kwargs), config = tconfig, lang="eng+fra+frm+lat")
+    text = pytesseract.image_to_string(adjustImg(img, **kwargs), config = tconfig, lang="fra+frm+lat")
     ocrf.write(text.encode("utf-8", errors = "replace") + "\n\n")
     ocrf.close()
         
@@ -467,7 +461,7 @@ def tsvOCR(img, savpath, tsvfile, p = 1, append = True, psm = 1, oem = 3):
         mode = {"mode": "w"}
         
     #Get TSV data
-    tsvs = pytesseract.image_to_data(img, config = tconfig, lang="eng+fra+frm+lat")
+    tsvs = pytesseract.image_to_data(img, config = tconfig, lang="fra+frm+lat")
     tdf = pandas.read_csv(StringIO(tsvs), 
                           sep = "\t", 
                           engine = "python",
@@ -516,11 +510,12 @@ def tsvOCR(img, savpath, tsvfile, p = 1, append = True, psm = 1, oem = 3):
             r += 1    
     
     #if we aren't left with an empty data frame
-    if tdf.count()[0] != 0:
-        
+    #if tdf.count()[0] != 0:
+    if not tdf.empty:
+            
         #add a column for the image name
         tdf["name"] = name
-        
+                
         #determine if a header is needed
         dirpath = os.path.split(savpath)[0]
         if append == True and os.path.exists(os.path.normpath(os.path.join(dirpath, tsvfile))) == True:   
