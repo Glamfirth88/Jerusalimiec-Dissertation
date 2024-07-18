@@ -1,0 +1,1042 @@
+
+
+      LIVRE ARENA 79 / 9 DE (EVX 9*1 RENONCENT á Dieut,c7
+5	1	7	1	1	3	819	652	38	42	72.939194	4
+5	1	7	1	1	4	883	610	153	81	95.996773	leur
+5	1	7	1	1	5	1071	609	185	111	82.227142	religi
+5	1	7	1	1	6	1271	643	81	43	72.803429	on
+5	1	7	1	1	7	1385	543	412	179	0.000000	paon
+5	1	7	1	1	8	1814	611	138	68	87.697968	tion
+5	1	7	1	1	9	2005	607	236	108	78.397995	expre|
+5	1	7	1	1	10	2206	600	52	114	25.273911	[|
+5	1	7	1	1	11	2258	600	40	80	85.258072	le
+5	1	7	1	1	12	2326	665	16	28	88.770073	1
+5	1	7	1	1	13	2371	621	102	45	42.941132	pm
+2	1	8	0	0	0	2379	679	47	11	-1	
+3	1	8	1	0	0	2379	679	47	11	-1	
+4	1	8	1	1	0	2379	679	47	11	-1	
+5	1	8	1	1	1	2379	679	47	11	25.046295	e
+2	1	9	0	0	0	374	735	1741	132	-1	
+3	1	9	1	0	0	374	735	1741	132	-1	
+4	1	9	1	1	0	374	735	1741	132	-1	
+5	1	9	1	1	1	374	787	28	44	81.748917	5$
+5	1	9	1	1	2	437	746	79	84	90.278458	ils
+5	1	9	1	1	3	551	750	127	117	75.973457	[ont
+5	1	9	1	1	4	709	738	296	124	74.653381	tran/por
+5	1	9	1	1	5	1028	767	119	74	61.566299	[eX
+5	1	9	1	1	6	1173	770	76	45	96.640961	en
+5	1	9	1	1	7	1281	773	176	75	61.965641	COYps
+5	1	9	1	1	8	1475	773	121	77	92.080124	pe
+5	1	9	1	1	9	1634	771	80	40	79.369240	Les
+5	1	9	1	1	10	1753	735	362	73	61.412514	Demons.
+2	1	10	0	0	0	1021	1013	793	64	-1	
+3	1	10	1	0	0	1021	1013	793	64	-1	
+4	1	10	1	1	0	1021	1013	793	64	-1	
+5	1	10	1	1	1	1021	1022	240	55	91.279884	CH
+5	1	10	1	1	2	1210	1013	48	80	92.475395	À
+5	1	10	1	1	3	1327	1017	71	53	92.812599	P.
+5	1	10	1	1	4	1545	1016	18	49	26.845901	I
+5	1	10	1	1	5	1618	1013	196	51	0.000000	TX.
+5	1	10	1	1	6	1756	1009	58	76	17.060707	Le
+2	1	11	0	0	0	311	1229	2173	660	-1	
+3	1	11	1	0	0	311	1229	2173	658	-1	
+4	1	11	1	1	0	321	1229	2157	290	-1	
+5	1	11	1	1	1	321	1277	200	115	32.173218	Deis
+5	1	11	1	1	2	557	1284	48	80	20.763031	a
+5	1	11	1	1	3	746	1284	182	235	84.405121	m
+5	1	11	1	1	4	964	1249	61	81	85.850113	A
+5	1	11	1	1	5	1081	1236	726	92	85.850113	differenced'entre
+5	1	11	1	1	6	1843	1229	100	86	93.290672	les
+5	1	11	1	1	7	2051	1241	279	71	84.435692	Sorciers
+5	1	11	1	1	8	2379	1245	99	65	80.165771	cít
+4	1	11	1	2	0	311	1359	2168	187	-1	
+5	1	11	1	2	1	311	1395	173	123	66.446060	«Ve
+5	1	11	1	2	2	524	1385	296	161	51.647514	AE
+5	1	11	1	2	3	752	1465	51	37	5.657883	VJ»
+5	1	11	1	2	4	963	1378	119	79	94.331825	bie
+5	1	11	1	2	5	1075	1409	60	47	59.219284	n
+5	1	11	1	2	6	1166	1369	121	87	96.427177	fort
+5	1	11	1	2	7	1297	1364	509	100	78.994705	differente,
+5	1	11	1	2	8	1839	1374	71	71	93.242752	&
+5	1	11	1	2	9	1967	1360	272	119	93.300034	qui
+5	1	11	1	2	10	2228	1359	142	80	92.505325	doibt
+5	1	11	1	2	11	2470	1481	9	6	90.649185	|
+4	1	11	1	3	0	325	1396	2158	284	-1	
+5	1	11	1	3	1	325	1520	81	138	84.759369	X
+5	1	11	1	3	2	444	1529	43	119	77.759140	)
+5	1	11	1	3	3	522	1528	205	152	54.912491	Wes
+5	1	11	1	3	4	746	1597	45	48	85.229378	x
+5	1	11	1	3	5	786	1476	140	183	76.608421	3
+5	1	11	1	3	6	969	1506	136	79	96.110672	(tre
+5	1	11	1	3	7	1133	1501	189	83	93.263275	bien
+5	1	11	1	3	8	1354	1493	402	86	92.108200	entendue
+5	1	11	1	3	9	1795	1523	207	103	96.857552	pour
+5	1	11	1	3	10	2003	1457	86	114	80.772614	Ja
+5	1	11	1	3	11	2124	1396	344	174	23.738983	JN
+5	1	11	1	3	12	2448	1520	35	44	69.494736	©
+4	1	11	1	4	0	326	1617	2154	218	-1	
+5	1	11	1	4	1	326	1667	159	111	53.270607	(93
+5	1	11	1	4	2	456	1655	169	180	51.480709	JU
+5	1	11	1	4	3	656	1630	274	162	35.540451	AA
+5	1	11	1	4	4	965	1634	555	116	65.525391	desiugemens
+5	1	11	1	4	5	1550	1660	37	45	94.435600	c
+5	1	11	1	4	6	1559	1656	108	87	96.945702	qu
+5	1	11	1	4	7	1677	1618	254	85	49.548794	faut
+5	1	11	1	4	8	1973	1617	252	83	96.031769	doner
+5	1	11	1	4	9	2202	1648	58	49	30.388687	r:
+5	1	11	1	4	10	2310	1622	170	127	78.626144	mais
+4	1	11	1	5	0	316	1746	2168	143	-1	
+5	1	11	1	5	1	316	1777	283	110	44.769230	NET
+5	1	11	1	5	2	620	1752	197	137	49.035034	LC
+5	1	11	1	5	3	813	1780	117	107	57.189857	24
+5	1	11	1	5	4	966	1761	97	82	80.547974	les
+5	1	11	1	5	5	1106	1758	69	122	79.069969	pi
+5	1	11	1	5	6	1195	1793	78	46	93.223763	us
+5	1	11	1	5	7	1329	1746	459	92	86.258980	dereftables
+5	1	11	1	5	8	1843	1753	343	79	92.800392	Sorciers
+5	1	11	1	5	9	2229	1812	18	33	93.229233	,
+5	1	11	1	5	10	2310	1764	174	64	96.337807	font
+2	1	12	0	0	0	263	1868	2240	1430	-1	
+3	1	12	1	0	0	263	1868	2240	1430	-1	
+4	1	12	1	1	0	965	1868	1509	190	-1	
+5	1	12	1	1	1	965	1922	239	67	83.655579	ceux,
+5	1	12	1	1	2	1236	1894	289	112	89.451836	quiren
+5	1	12	1	1	3	1514	1873	321	90	0.000000	ijocentà
+5	1	12	1	1	4	1873	1884	247	91	85.468376	Dieu,
+5	1	12	1	1	5	2178	1888	41	69	92.849091	&
+5	1	12	1	1	6	2257	1868	37	82	97.008545	à
+5	1	12	1	1	7	2346	1868	128	190	62.218948	ig
+4	1	12	1	2	0	264	1956	2187	255	-1	
+5	1	12	1	2	1	264	2021	314	106	88.587189	feruice,
+5	1	12	1	2	2	614	2019	351	87	81.274353	ous'ilzn
+5	1	12	1	2	3	977	1956	315	146	86.800262	adorent
+5	1	12	1	2	4	1360	2046	109	88	95.588409	pas
+5	1	12	1	2	5	1500	2007	71	84	95.588409	le
+5	1	12	1	2	6	1600	2041	178	80	93.001289	vray
+5	1	12	1	2	7	1801	2011	357	126	93.236359	Dieu,
+5	1	12	1	2	8	2165	2034	59	48	95.960617	ains
+5	1	12	1	2	9	2253	2008	198	203	9.614258	Fe
+4	1	12	1	3	0	263	2097	2132	177	-1	
+5	1	12	1	3	1	263	2184	232	83	68.903419	ayent
+5	1	12	1	3	2	524	2097	207	177	54.803921	quel
+5	1	12	1	3	3	718	2185	154	88	95.784447	que
+5	1	12	1	3	4	926	2145	148	83	66.987404	relié
+5	1	12	1	3	5	1061	2142	473	124	66.001282	zionfuperl
+5	1	12	1	3	6	1481	2111	365	108	61.817646	rítitieufe
+5	1	12	1	3	7	1857	2139	170	115	17.412178	qui
+5	1	12	1	3	8	2063	2161	332	52	95.196945	renonce
+4	1	12	1	4	0	267	2214	2223	280	-1	
+5	1	12	1	4	1	267	2278	32	86	74.763184	à
+5	1	12	1	4	2	333	2277	208	88	63.626427	icelle
+5	1	12	1	4	3	506	2319	158	175	53.854271	p^
+5	1	12	1	4	4	646	2274	690	90	74.634514	ourfedonnerau
+5	1	12	1	4	5	1369	2262	275	139	84.722565	Diable
+5	1	12	1	4	6	1634	2301	13	13	92.860870	e
+5	1	12	1	4	7	1677	2297	131	87	96.755615	par
+5	1	12	1	4	8	1829	2214	315	129	36.000095	NU
+5	1	12	1	4	9	2200	2268	132	72	26.588432	LE
+5	1	12	1	4	10	2365	2288	125	50	70.983170	cx-
+4	1	12	1	5	0	271	2386	2221	209	-1	
+5	1	12	1	5	1	271	2407	282	146	67.968910	prefle.
+5	1	12	1	5	2	579	2420	153	74	90.168465	Caril
+5	1	12	1	5	3	914	2438	115	80	15.195328	n'ya
+5	1	12	1	5	4	1075	2393	429	125	96.611176	religion
+5	1	12	1	5	5	1428	2389	78	133	96.287758	fi
+5	1	12	1	5	6	1488	2429	16	48	83.037354	|
+5	1	12	1	5	7	1561	2386	556	147	85.451210	fuperftitieufe
+5	1	12	1	5	8	2221	2394	136	201	35.507591	-
+5	1	12	1	5	9	2402	2416	90	49	96.299339	ne
+4	1	12	1	6	0	274	2474	2220	148	-1	
+5	1	12	1	6	1	274	2545	904	77	88.916725	retienneaucunement
+5	1	12	1	6	2	1213	2474	102	136	93.411781	les
+5	1	12	1	6	3	1353	2526	377	84	95.415253	hommes
+5	1	12	1	6	4	1774	2554	71	49	93.304230	es
+5	1	12	1	6	5	1884	2517	365	85	76.370605	barrieres
+5	1	12	1	6	6	2289	2514	95	81	96.633736	de
+5	1	12	1	6	7	2433	2506	61	87	96.656380	la
+4	1	12	1	7	0	272	2654	2221	127	-1	
+5	1	12	1	7	1	272	2676	166	105	96.773659	Loy
+5	1	12	1	7	2	469	2669	94	83	93.294983	de
+5	1	12	1	7	3	606	2693	516	88	60.320866	nature;pour
+5	1	12	1	7	4	1149	2654	388	87	90.403336	obeiraux
+5	1	12	1	7	5	1570	2662	316	111	93.306221	peres
+5	1	12	1	7	6	1837	2643	45	134	93.214630	&
+5	1	12	1	7	7	1915	2679	293	67	76.914543	meres,
+5	1	12	1	7	8	2272	2658	35	70	93.295555	&
+5	1	12	1	7	9	2349	2671	144	52	96.838669	aux
+4	1	12	1	8	0	273	2714	2222	264	-1	
+5	1	12	1	8	1	273	2772	325	144	74.144447	magiltr
+5	1	12	1	8	2	605	2825	365	74	24.934555	àtz;auec
+5	1	12	1	8	3	1003	2824	147	48	67.817642	vue
+5	1	12	1	8	4	1179	2819	280	48	96.145988	crainte
+5	1	12	1	8	5	1500	2783	89	81	96.145988	de
+5	1	12	1	8	6	1619	2771	412	89	91.487846	malfaire
+5	1	12	1	8	7	2021	2803	23	50	96.070732	à
+5	1	12	1	8	8	2086	2714	217	264	47.654987	pelo
+5	1	12	1	8	9	2284	2801	211	51	80.570305	nne.
+4	1	12	1	9	0	280	2882	2223	131	-1	
+5	1	12	1	9	1	280	2938	118	75	95.164970	Or
+5	1	12	1	9	2	410	2882	280	127	2.163620	Sacbat
+5	1	12	1	9	3	731	2912	948	93	84.108780	veutarracherducueur
+5	1	12	1	9	4	1704	2905	207	86	96.591766	des
+5	1	12	1	9	5	1906	2933	340	53	93.531929	hommes
+5	1	12	1	9	6	2275	2926	228	54	93.531929	toute
+4	1	12	1	10	0	279	3020	2219	187	-1	
+5	1	12	1	10	1	279	3063	286	75	87.598297	crainte
+5	1	12	1	10	2	600	3045	453	89	91.559540	d'offencer.
+5	1	12	1	10	3	1100	3063	87	68	96.992424	Et
+5	1	12	1	10	4	1220	3072	334	89	96.745514	quant
+5	1	12	1	10	5	1504	3041	53	124	88.673203	à
+5	1	12	1	10	6	1524	3036	645	83	89.564026	ilaconuention
+5	1	12	1	10	7	2193	3020	305	187	41.711838	Sip
+4	1	12	1	11	0	281	3162	2218	136	-1	
+5	1	12	1	11	1	281	3189	66	78	86.343254	fe
+5	1	12	1	11	2	378	3179	231	86	91.471008	clle
+5	1	12	1	11	3	537	3172	65	130	87.251205	fe
+5	1	12	1	11	4	637	3176	129	91	72.882095	fair
+5	1	12	1	11	5	810	3211	104	87	95.871056	qu
+5	1	12	1	11	6	906	3168	452	126	53.011375	iclquesfois
+5	1	12	1	11	7	1403	3162	617	97	30.142990	verballement
+5	1	12	1	11	8	1993	3142	42	121	30.142990	,
+5	1	12	1	11	9	2070	3172	74	68	92.527893	&
+5	1	12	1	11	10	2193	3172	157	64	79.807533	fans
+5	1	12	1	11	11	2396	3146	103	89	62.099857	el-
+2	1	13	0	0	0	2481	3313	21	15	-1	
+3	1	13	1	0	0	2481	3313	21	15	-1	
+4	1	13	1	1	0	2481	3313	21	15	-1	
+5	1	13	1	1	1	2481	3313	21	15	94.960884	y
+2	1	14	0	0	0	282	3279	2224	532	-1	
+3	1	14	1	0	0	282	3279	2223	518	-1	
+4	1	14	1	1	0	282	3279	2207	152	-1	
+5	1	14	1	1	1	282	3319	367	112	66.156792	cripture.
+5	1	14	1	1	2	677	3320	97	75	96.940056	Et
+5	1	14	1	1	3	804	3304	250	126	91.846840	quelq
+5	1	14	1	1	4	1004	3298	348	87	71.972549	auesfois
+5	1	14	1	1	5	1392	3300	318	88	86.214195	Sarhan,
+5	1	14	1	1	6	1754	3323	207	51	93.296425	pour
+5	1	14	1	1	7	2005	3280	316	87	53.920864	s'afleurer
+5	1	14	1	1	8	2328	3279	161	83	89.788383	de
+4	1	14	1	2	0	284	3312	2222	243	-1	
+5	1	14	1	2	1	284	3444	226	117	95.292206	fes
+5	1	14	1	2	2	524	3472	81	48	95.292206	gens
+5	1	14	1	2	3	621	3374	468	181	25.945213	;deuantqu
+5	1	14	1	2	4	1124	3427	94	85	92.248131	ilz
+5	1	14	1	2	5	1249	3429	333	121	80.476532	puiflent
+5	1	14	1	2	6	1623	3419	324	84	94.349037	obtenir
+5	1	14	1	2	7	1986	3448	82	47	96.964188	ce
+5	1	14	1	2	8	2111	3445	104	85	96.977440	qu
+5	1	14	1	2	9	2182	3312	221	207	0.000000	viré
+5	1	14	1	2	10	2371	3444	135	47	89.133202	de-
+4	1	14	1	3	0	286	3508	2219	166	-1	
+5	1	14	1	3	1	286	3515	183	136	44.547749	nad
+5	1	14	1	3	2	499	3508	260	163	6.485023	devis
+5	1	14	1	3	3	773	3565	90	83	93.286499	ilz
+5	1	14	1	3	4	889	3566	307	108	87.704475	(cauent
+5	1	14	1	3	5	1224	3562	262	79	57.106876	efcrire
+5	1	14	1	3	6	1514	3623	18	28	70.214500	,
+5	1	14	1	3	7	1561	3551	307	83	70.214500	illeurfait
+5	1	14	1	3	8	1866	3539	209	90	61.853226	efc
+5	1	14	1	3	9	2093	3520	132	102	67.252701	rire
+5	1	14	1	3	10	2252	3533	253	87	64.077682	l'obli-
+4	1	14	1	4	0	285	3666	2216	145	-1	
+5	1	14	1	4	1	285	3703	277	112	64.808907	cation
+5	1	14	1	4	2	606	3711	75	69	91.029144	&
+5	1	14	1	4	3	724	3691	254	124	58.134254	figner
+5	1	14	1	4	4	1018	3763	7	34	90.601891	,
+5	1	14	1	4	5	1095	3704	38	72	93.254982	&
+5	1	14	1	4	6	1232	3722	78	47	42.465111	que
+5	1	14	1	4	7	1298	3676	454	127	53.160515	-lquesfois
+5	1	14	1	4	8	1773	3708	131	50	94.730804	leur
+5	1	14	1	4	9	1939	3670	129	86	83.552803	fair
+5	1	14	1	4	10	2112	3666	253	124	87.783714	figner
+5	1	14	1	4	11	2405	3666	96	83	96.644623	de
+2	1	15	0	0	0	2454	3368	27	25	-1	
+3	1	15	1	0	0	2454	3368	27	25	-1	
+4	1	15	1	1	0	2454	3368	27	25	-1	
+5	1	15	1	1	1	2454	3368	27	25	48.427731	Lf
+2	1	16	0	0	0	283	3772	2217	630	-1	
+3	1	16	1	0	0	283	3772	2214	173	-1	
+4	1	16	1	1	0	283	3772	2214	173	-1	
+5	1	16	1	1	1	283	3775	168	137	46.646179	[eur
+5	1	16	1	1	2	477	3818	154	127	62.449089	ag,
+5	1	16	1	1	3	650	3772	352	134	0.000000	Mito
+5	1	16	1	1	4	1018	3858	33	44	93.740685	c
+5	1	16	1	1	5	1083	3779	181	122	93.749069	des?
+5	1	16	1	1	6	1294	3793	623	123	0.000000	imciens,quien
+5	1	16	1	1	7	1960	3791	537	123	82.472366	vfoyentainfi
+3	1	16	2	0	0	288	3926	2210	164	-1	
+4	1	16	2	1	0	288	3926	2210	164	-1	
+5	1	16	2	1	1	288	3926	549	164	67.280632	pourafleurer
+5	1	16	2	1	2	862	3949	100	84	93.197403	les
+5	1	16	2	1	3	990	3951	541	80	87.256317	coniurations
+5	1	16	2	1	4	1560	4009	16	32	91.115906	,
+5	1	16	2	1	5	1611	3955	73	68	93.162056	&
+5	1	16	2	1	6	1726	3939	375	108	91.137733	amytiez:
+5	1	16	2	1	7	2138	3934	360	76	95.622559	Comme
+3	1	16	3	0	0	294	4059	2204	109	-1	
+4	1	16	3	1	0	294	4059	2204	109	-1	
+5	1	16	3	1	1	294	4082	277	86	93.301628	nous
+5	1	16	3	1	2	582	4080	267	83	91.959541	lifonsau
+5	1	16	3	1	3	901	4077	286	85	0.000000	fecond
+5	1	16	3	1	4	1228	4072	145	83	0.000000	liurf
+5	1	16	3	1	5	1527	4104	36	46	35.638496	de
+5	1	16	3	1	6	1615	4073	185	79	90.078079	Tite
+5	1	16	3	1	7	1857	4069	233	88	90.762047	Liue;
+5	1	16	3	1	8	2125	4068	192	72	90.037590	&en
+5	1	16	3	1	9	2365	4059	38	78	68.904770	|
+5	1	16	3	1	10	2432	4087	66	47	71.123825	a-
+3	1	16	4	0	0	297	4190	2203	212	-1	
+4	1	16	4	1	0	297	4190	2203	107	-1	
+5	1	16	4	1	1	297	4212	299	83	88.298569	citedes
+5	1	16	4	1	2	629	4208	319	120	78.561935	Rovsd'
+5	1	16	4	1	3	962	4211	425	83	78.561935	Armenie:
+5	1	16	4	1	4	1439	4195	218	89	87.741287	Ainfi
+5	1	16	4	1	5	1694	4196	130	86	93.295883	fait
+5	1	16	4	1	6	1863	4190	179	85	89.728905	Sath
+5	1	16	4	1	7	2014	4221	158	103	65.516617	jan
+5	1	16	4	1	8	2186	4215	184	53	56.514275	auec
+5	1	16	4	1	9	2399	4178	101	84	96.564957	les
+4	1	16	4	2	0	1986	4327	127	75	-1	
+5	1	16	4	2	1	1986	4330	43	72	90.432114	V
+5	1	16	4	2	2	2071	4327	42	67	90.432114	1
+2	1	17	0	0	0	2550	3896	39	124	-1	
+3	1	17	1	0	0	2550	3896	39	124	-1	
+4	1	17	1	1	0	2550	3896	18	124	-1	
+5	1	17	1	1	1	2551	3987	15	33	31.063194	es
+5	1	17	1	1	2	2550	3896	18	40	0.889603	PL”
+4	1	17	1	2	0	2572	3896	17	95	-1	
+5	1	17	1	2	1	2581	3984	8	7	52.277115	-
+5	1	17	1	2	2	2572	3896	6	1	82.640648	j
+2	1	18	0	0	0	2545	4056	121	61	-1	
+3	1	18	1	0	0	2545	4056	121	61	-1	
+4	1	18	1	1	0	2604	4056	9	33	-1	
+5	1	18	1	1	1	2604	4056	9	33	62.848274	]
+4	1	18	1	2	0	2545	4081	121	36	-1	
+5	1	18	1	2	1	2545	4081	121	36	66.035858	Cole
+2	1	19	0	0	0	2655	3872	291	63	-1	
+3	1	19	1	0	0	2655	3872	291	58	-1	
+4	1	19	1	1	0	2772	3872	136	17	-1	
+5	1	19	1	1	1	2772	3881	4	8	42.820820	|
+5	1	19	1	1	2	2906	3872	2	2	80.645386	 
+Foxy, f t $2 
+[4 F2 LA LES 
+n [ , 
+V i HUILE = 
+  
+
+DESOSORCIEBPNS ſiens : Comme on recite d'vn certain Thcophile, 
+qui l'eftoitainfi obligé au Diable, & l'obligatió efcri- 
+pte de fon fang. Etc n'y a pas long temps c eft a dire 
+lan M. D. 1 xxr.entre ceux qui furent deferez Sor- 
+ciers parl'aueugle,quifut pendu à Paris , il y’ eut vn 
+aduocat, queie ne nommeray point, lequel cófeffa 
+qu'ilauoit pallé obligation au Diable renon çeant à 
+Dieu, & icellefignée de fon propre fang. Encores 
+f'eftil verifié par plufieurs procés, que l'obligation 
+reciproque entre le diable, & le Sorcier, cotient quel- 
+quesfois le terme d'vnan , deux ans, ou autres temps: 
+Et tel y à quidemande la puiflance de guerir du mal 
+des dens, & l'autre dela hebure quarte, ou d'autre 
+maladie , à la charge de tuer, ou faire mourir lesau- 
+tres, ou defaircautres facrificesabhominables. Sile 
+diable fe defie de ceux qui fe donnent à luy à iamais, 
+pour paruenir à quelque chole qu'ilz ne quittent fon 
+{eruice , Une fe contente pas de les fairerenoncer ex- 
+preflement à Dieu : ains il veut aufli les marquer. 
+commeanoté Dancauen fon dialogue des Sorciers: 
+mais Ceux qui l'adonnent à luy debon cueur $4 
+qu'il cognoift fermes enleurs promefles. ,il ne les 
+marque poinct, comme dit le mefme autheur . Et 
+quant aux marques ,c'cít bien chofe certaine, & que 
+les iuges voyent ordinairement, fiellesnefont bien 
+cachées : comme i ay Íceu dyn centilhommce de Va- 
+loys ,quily enaqui ont laetarque entre les lebures, 
+lesautresfoubz la paupiere , comme clcrit Dancau, 
+lesautres au fondement quand ilz craignent cftre 
+decouuers , & ordinairement {ur l'efpaulle dextre , 
+
+& les 
+
+  
+
+        LIVRE SEGO ND. go & les femmes fur la cuifle, ou bien foubz l'effelle ou 
+bien aux parties honteufez. Aubert de Poictiers A d- 
+uocat en parlement m'adiét qu'il auoitaffifté àlin- 
+{truction du procés d'vn Sorcier marefchal de Cha£ 
+teauThieri,quife trouua marqué furl'efpaule dextre, 
+& leiourfuyuantle diable [luy auoit effacé la m arque. 
+Eten cas pareil M. Claude Deflay procureur du Roy 
+à Ribemont m'a dict, qu'il auoit veu la marque de 
+Ichanne HeruillierSorciere,de laquelleil m'a enuoyé 
+tout le procez , &leiourfuyuantla marque fc trou- 
+ua effacée.Celuy quifut condamné parle Preuoft de 
+l'Hoftel M. D. rxxr, quisappelloyt Troifefchelles 
+du Mayne,ayant obtenu grace, pour reucler fes có- 
+plices , quand onle menoit es affemblées , il reco- 
+gnoifloit ceux , qu'ilauoit veus aux Sabbats,ou bien 
+par quelque autre marque , qu'ilz (cauent entre eux. 
+Et pour verifier fon dire,il difoit qu'ilz eftoyent mar- 
+quez, & qu'on trouueroytla marque en les defpouil- 
+lant: & defaict on trouuoit qu'ilz eftoyent marquez 
+comme dela patte ou piſte d'vnlieure, qui eftoitin- 
+fenfible , en forte que lesSorciers nefentent pointles 
+poinétures, quand on les perceiufquesaux osau lieu 
+dela marque . Maisil f'en trouuafi grand nombre 
+riches, & pauures queles vns firent efchaper les au- 
+tres:en forte que cefte vermine à toufiours multiplié 
+aucc vntefmoignage perpctuel de l'impieté des ac- 
+
+ufez, & de la fouffrance des Iuges, qui auoyent la 
+commifhon , & charge d'en faireles procés. Encore 
+cft il plus eftrange que la pluſpart des Sorciers ne fe 
+contentent pas de renoncer à Dieu , ains encores ilz 
+
+  
+
+D'ES CSOIRCHIERS 
+itreba iptizerau nom du Diable;& nommer par 
+autre nom , qui eft la raifon ; pourquoy les Sor- 
+1 OT ai M. à ^ 
+contordinairement deux noms. | Et fai&t bien à 
+  | e c vnSorcier , pour cn faire ci inq 
+pra ;lus agreable au ne 
+nceít dd Sia ,c eft d 
+
+UCOUP dein ugetz: Et des de me 
+on mar la mere y! meine fa fille, & quelques 
+M continuent plufieurs rs fiecles ainſi 
+
+€ par inhiniz procés . Comme auf] 
+
+| y auoit des familles en Afric que, & 
+ayfoient mourir en regardant , ou 
+
+es ho ioo ainſi que Solin , Memphod OIC, 
+lius, &Ifigone efcriuenr, Ce que Arifto- 
+IC aux Problemes,x SD robleme 
+
+x, qu'on proteltoit deuant que locür,que 
+ne peut nuyre à pérenne Ce que les Italiens 
+
+: quad ilz voyent qu n loüc quelqu'vna 
+uche: Di gratia n0 gli dus mal d'ochio.ce que 
+iersfont à propos & fans propos. Car tout 
+
+nfi que la louang re cit propre eàDieufeul :auffi cft il 
+
+S | Xp F A 
+tain auefil hoi ne eit [oué [ans rapport ES 
+_ 1 teur,iladui que ceux qui fom loüez par 
+Satban les traf 
+ccipicesdeleurn iyncincui 
+
+LeDocteur Grillad Italien, 
+
+ec Royaume à ceux qui cn. ont 
+cfmementàa Lion ;a.Loches; 
+au Man 
+  
+
+  LIVRE SECOND. 81 au Mans , àPoictiers , àSanlis,à Paris. Ian Charrier, 
+quia compofe l'hiftoire deCharles feptiefme dit,que 
+Guillaume Edeline Docteurde la Sorbonne fut con- 
+damnécomme Sorcierla vigile de Noücl .M. cecc. 
+Lrrr & confeffa quil auoit cfté plufieurs fois la 
+nuiéttran{portéaux a(femblees des Sorciers. &ilec 
+renoncé Dieu, &adoréleDiable en figure de bouc, 
+le baifant au fondemenr,Al eft befoing de verifier ce 
+poinét par exemples notables, pour faire entendrele 
+canon Epifcopi xxvi.q .v.du concile d'Aquilee , fur 
+lequel plufieurs fe font abufez: encores , qu'il ge {oit 
+pas d vn Cocile general, ny approu ué parlesTheolo- 
+viens. Mais pour efclairfir ce que ay digilny à pro- 
+cez plus notable , queleprocez de laSorciere dc Lo- 
+ches, quieft defreíche memoire.Car comme il y eüt 
+vn pauure homme, lequel aperceut; que fa femme 
+f'abfentoitla nui& parfois, &:demeuroit bonne par- 
+tie de la nui& , & fur ce qu'elle difoicallerà fes necef- 
+fités , &tantoft chez fa voifine, pourfaire la lefftue, 
+& quefon mary l'euftconucincue de menterie ayant 
+finiltre opinion qu'elle fe debauchaft,la menafla de 
+la tuer, fielle neluy difoyt ou ellealloit. Se voyant eü 
+danger,elleluy diftla verité , & pouren faire preuve, 
+Si vous voulez, dift elle, vous y viendrez, & luy 
+bailladel'onguét, duquel ilz fe grefferent toux deux: 
+& aprez quelques. paroles , le Diable les tranfpoirta 
+de Lochesaux landes de Bourdeaux, quifont pour lè 
+moins à quinzeiournées de Loches. L'homefe voy- 
+antenlacompagnye de grand nombre de Sorciers & 
+Sorcieres incogneucs , & de Diables hydeux à voir 
+X   
+
+DESOSORCI£nRS 
+en figure humaine , commença a dire , mon Dieu 
+oufommes nous? Anffitol tla compagnie diíparut, 
+&Íetr ounatoucnüd;cirant tout feul parles c champs 
+iufquesat 1 Matin , qu'iitrouua qu clques païlans, qui 
+adi ireflerent au chemin. Eftant de retou rà Loches, 
+il sen va droictau: iugecriminek, lequel ayant ouy 
+| hiltoire,feitpren: drelafemime ; quiconfefla tout de 
+poinét en poinét tout ce que nous-auons dict, & 
+[gs contrainte reno, QUE [a faute ; Il{e trouua auf (à 
+Lyo vne damoyfel lc depui is peu d'Anuers laque le fe 
+leuala tiu i, « allumant de la.chándelle priht vné 
+bóucte ,« solgn It F piis aucc quelques p jXàroles elle 
+“uen np oftec . Son ppitandle üeikiuis cough decques 
+lle ;& 
+cherc he ‘par tout, & “ne la trouuánt poin nt,ains feule- 
+ment hono de grefle par curiolité de fcauoir la 
+aei , rp l'onguent #4 commeilauoitivéufaire, & 
+foudainfurai if tranſporté, & (e troutia au pays de 
+Lorrainc auecla compagnie des Sorciers, ou il eut 
+frayeur :-mais-f1 toft qu LLL eut v5, Dieu en fon 
+ade,toute li compas gnié difparur ; & luy.fe trouua 
+feulrout nud, qui s'en retou aal on ; ou il accufà 
+laSorciere quiconfolla: fut condamnée à eftre bru- 
+(lee. Ilen Ara stant Jrapas lon: g temps à vy gontil 
+home pres de Melü qi ES idi lit pàr fon meuínier, 
+&.: aufft p ar curiofitéallaàla con npaignie didici 
+&d'aur: int qu'iltrembloit de peur ,cncores quil lap- 
+| L, no ie le Diable dift alo JS 
+à peur 1cy?Le gentilhomme vou- 
+outelà co: npaenie dif parut. gg oem 
+qu il £^» 
+À ^ 
+Tit r17011?- 
+pelaft OInct 
+À 
+Di 
+
+à haute voix, Qi 
+| AE 
+Fi 
+
+Le &2 | 
+A + 
+11 
+11 
+* T 
+1 e
+5	1	7	1	1	3	1462	4279	2	2	83.764557	 
+lant le retirer. 
+  
+
+   
+      
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+     
+       
+  L'EVMRNEOD SEE0O ND 82 qu'il fur de retour; il voulut accufer le Sorcier, qui 
+enfuraduerty, & s'enfuit: ce qui elf difinuchaél E 
+peur. Ce peut mieux entendre par n ct aux 
+Sorcieres de Valery enSauoye ou la fille conteffa que 
+{on pere& [à mere là pren niere fois qu ilz la menerént 
+auxaflemblees pour eftre tranfporte zloudain,ilz luy 
+baillereant vn bafton pour mettre entre fes iambesen 
+luy disac; d fur toutes choſes clleneuftaucune peur, 
+& ſoudain elle fur tranfportecauec fes Pere & mére. 
+Le Procés ctt imprimé en la dernieré iris au 
+liure de Daguran ; lequebproce s eft del'an M. D. 
+LXX III. Comme nous dironstantoft. 1l y enaqui 
+portent quelque poille , ou autre vaiffeau de cuyure, 
+ou d'argent pour mieux lolennizer la fefte :a quoy fe 
+rapporte vnarticleaurxv11.chapitre des loix Sali- 
+Mr ouil eft dit,S: quis a ilerum bereburein clamauerit, 
+boc 7 flrioportiu 3 ant qui —— A NE 
+
+DES'SORCIERS | 
+le iour fayuanc il prend vn bäftan:;,8c ne cella de 
+frapper iufques à ce qu'elle eut confefle la veri- 
+té: ce qu'ellefift;requerant pardon.Le mary luy par- 
+donna ,àla charge qu'elle le meneroit en l'affemblée 
+qu'elle difoit, Leiour fuyuant lafemme le fiftoindre 
+dela erefle qu'elleauoit , & fe trouuerent tous deux 
+allant à l'affemblée fur chacun vn bouc bien legere- 
+mét.Mais]a femme aduettitl homme fe garder bien 
+de nommer Dieu, fice n'eftoit par mocquerie , ou 
+enleblafphemant.Carilz demeurent tous d'accord, 
+que le Diable foudainlaifle celuy qu'il porte par les 
+chemins, quimonftre bien que la grefle n'y fair rien, 
+& que le Diable les tranfporte plus foudain que vn 
+traict d'arc, & come dit Saint Auguſtin, Demones 
+Auium volatusincredibil; celeritate-vincunt : Etencotes 
+plusles Anges , auíquels pour cefte cauſe la fain&te 
+efcripture,pour fignifier leur celerité incôprehéfible, 
+donne fix ailes Se voyant en l'aflemblee, la femme le 
+hift cenir vn peu à l’efcart, pour voir tout lemyftere, 
+iufques à ce qu’elle euftfaitla reueréce au chef de l'af- 
+ícmbleé, qui eftoit habillé en prince pompeufemét, 
+& accompagné d'vne grand multitude d'hommes, 
+& de femmes,quitous firent homageau Maiftre. Et 
+puis ilaperceut apresles reueréces,qu'on fift vne dan 
+{een rond lesfacestournees horsle rôdeau, en forte 
+queles perfonnesnefe voyoyét pas en face,comme 
+es danſes ordinaites:àfin peut eftre queles vns n’euf 
+fentloifir de remarquer fiaifement , & recognoiftre 
+lesautresp our les accufer, sjilz eftoyent ris par iufti- 
+ce, Etquandà ce poin@/e Sorcier Troïlelchelles à 
+qui   
+
+  
+       
+    LIVRE SECOND. 8 quile Roy Charles 1 x. donna ja grace pour accuſer 
+fes compagnons, dift au Roy, en prefence de plu- 
+ficurs gradz leigneurs, queles Sorcierseftoyent traf 
+portezauxaffemblecs, ouilfe trouue nombre infini 
+de telles gens , quiadorentle bouc , & le baifentaux 
+parties de derriere, & puis danfent dos à dos [ans {e 
+voir /& aptez ilz le coupletitauecles Diables en figu- 
+rcd Boum , &defemmes. La danſe finie les tables 
+furent couuertes de plufieurs viandes. Alorsla féme 
+hift approcher (on mari, pour faite la reuerence au 
+Prince , & puisil fe metà table auec les autres , & 
+voyant queles viandes n eftoyent falées , & qu il ny 
+auoit poinct de fel fur les tables, il cria tant qu'onluy 
+aporta du fel,comeil luy Gb bla à voir, & deuát que 
+l'auoirgoufté il dift : bor laudato fta Dio , pure venuto 
+nue bie: Orloué ſoir Dieu ,puis quele cl eft venu, 
+Si toft qu'il euftdir,loüefoitDieu,foudain tout dif, 
+rut & perfonnes & viandes, & tables, & demeura cul 
+tout nud,ayát grdan froid, ne fçachant ou il eftoit:le 
+iourvenuiltrouuades bergers au [quels il demäda ou 
+il eftoit,quiluy diréc qu'il eftoitau Coté de Beneuét. 
+Qui eft le plus beau domaine du Papefoubz vn grad 
+noyer, loin de Rômede cent mil,& futcotrainét mà 
+dier pain, & habitz , &l'huitiefmeiourilarriua en fa 
+maiíon fort maigre & defait & allaaccufer fa fem- 
+me,qui fut prife, qui en accula d'autres quifuret bru 
+fées toutes vifues,aprezauoir confeflé la verite./Le 
+mefmeautheur recite encores , qu'il aduint l'an mil 
+D.xxxv. quevng icune UNE de Spolet- 
+te,agec de x111.ans futainfi conduite par vne vielle 
+$ X li] / bod a me — - UMSO mur o — UN E   
+  
+  
+  
+   
+    
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+   
+  
+  
+  
+—    
+
+DESOSORCIERS í 
+Sorciere à l'affemblee, & s’eftonnant de voir telle co- 
+pagnie, elle dift , 
+
+LIVRE SECOND. 34 fouuent fans onétion : tantoftfur vu bouc , tantoft 
+{ur vn cheual volant, tantoft {ur vn ballet, tantoft 
+{ur vnbafton SI lans aucun bafton,ny bike & 
+oi eli Tom UNE & les vns y vont ueri comme 
+fontla plus part pour le eraiffer ainfi que nous auons 
+dic,lesautres veftus,les vnsla nuict,lesautresle iour: 
+mais ordinairemét la nuict,&lep Lois encre la 
+nuict du Lüudi &mardi no? dirôs en fon lieu la raiſon. 
+
+Et à ce propos Paul Grillad au liure des Sortilege s dit 
+que l'anM. D. xx. il fut prié par vn Scigneur 
+d 
+
+frui&z pat 
+latc mpelte . Et fr luy sie lo i qu'ille n allaft aux 
+aflembices auiourprefix, & qu 
+
+DES SORCIERS homme, qu'elles appelloyent leur Peut maiftre, & 
+quelquesfois maiftre martinct,&aprez quelle c eftoit 
+ointe de certain onguét, elle montoitfur vn bouc, le 
+tenant par le p oi}, qui {etrouuoitrout preft à la por- 
+te, &foudainelleeltoit tranſportée foubz le grand 
+noyer de Beneuent , ou il fetrouuoitvne infinité de 
+Sorciers: & aprez auoir faic l'hoómageauPrince, on 
+dáfoit: puis on fe mettoit à rable, & en fin chacun De- 
+mo fe couploitauecceluy ou cellequ'ilauoit en gar- 
+de. Et celafaict chacun s'en retournoitíur fon bouc. 
+Eten outre que particulierement elles adoroyentle 
+Diable enleurs maifons: Apreslefquelles confeflions 
+elles furent confrontées, & encores d’autres accufées 
+& confeflées furent bruflées toutes viues auec leurs 
+poudres, & vnguentz/Nous lifons vnautre hiftoire 
+recente au 111. liure d'Anthoyne de Turquemede 
+Efpaignol , entre plufieurs qu'il efcript,que vn Sor- 
+cier voulant perfuader vn lien compagnon , qu'il 
+croit le plus heureux du monde;s'ilvouloitle croire 
+& aller aux affemblees desSorciers: Le compagnon 
+l'accorda,& la nui& venue,le Sorcier apres quelques 
+paroles le print par la main, & tous deux cleuez en 
+l'air furent tranfportez fortloinen vne compagnie, 
+ouil y aucit nombreinfini d'hommes, &defemmes, 
+& au millieu vn throne, &audeffus vn grand Bouc 
+que chacun alla baiſer (en la parte ma fuzia que tenia) 
+ceux qui entendent l'Efpagnolfcauent bien quelle 
+partie c eit, & quinefe peut dire honneftemét/Ce 
+que voyantlenouucau apprentif dift à fon compa- 
+gnon Sorcier: Ie perds patience : & commença à 
+
+crier 
+
+    
+
+         LIVRE SECOND. T crier dift l'Autheur, (Dios a muy grandes boxes,)c elt à 
+dire, qu'ilappella Dieu à haute voix. Alors il vint vn 
+tourbillon & cempelte impetueufe à: merueïlles , & 
+tout difparut ,. & luy demeura leu, & fut trois ans 
+deuant que de pouuoir eftre de retour eníon pais. 
+Il n'y a pas long temps que au pais du Maine;il en fut 
+bruflé pluf (ieuzs;qui confe (loyent aller. auf fouuent 
+au Sabath la nui& , & faire ls meímes choſes, que 
+i'ay recitécs,dontles regiftres de laluftice font char: 
+gezrecentement , & lé procez enuoyé en pluíteats 
+licux , que Ictrancheray plus court pour eftre:chofe 
+aflez notoire parce qu 1| nyauoit pas moins detrente 
+Sorciers qui s entraccufcrent par enuié lesvns'desaa- 
+tres: Et leurs con£effionss'accordóyentau cranfport; 
+& àladoration du Diable, & aux: danfes:&caux rend: 
+ciations àcoute seligion}N ousauons au fli de fraiche 
+memoire les procez desSorcieres de ValerienSauove 
+fai& l'anx + x 4:duquel Dancauafàái& l'extraiét allez 
+ample ou l'on peut voit quele Diable enroutiieu eft 
+femblablé à foy mefme:car parla confeffiom des Sor- 
+cieres de Valeri.& confrontationdes vnesaux' autres 
+ori voit le tranſport en corps fur vn baftepi (eulemet 
+fans onctio , puis] 'abiuration de Dieu, l'adoratio du 
+Diable,les dl (es;feftins,& le baiferaux parties hotcu- 
+les de Satha en guife de befte puis l'obligatié de faire 
+mille maux, & Tis poudres du'on bailloit àchacun, 
+&'que l'uneauoitfaict xx x.ans ce metier: Et quel- 
+quesfois le Diable fe monftroit en guyfe d'homme 
+fort noir hideüx:f Quantaux viandes; j & perlónes 
+quis euanouilffent,nóus enauons vn o oighape en 
+X      
+
+f , Ad 
+JugoFioriace, 
+LIVRE SECOND. Philoftrate Lemnien , autheur Grec, que Apollonius 
+Thianzuseftancentré en vne maifon, oulesSorciers 
+failoyent defemblablesfeftins,les menaffaaigremén 
+& foudain tout difparut,tables,viädes,perfonnes, & 
+meubles, & ne fe trouua que vnieunc hom e que les 
+Sorciers auoyentnouuellement feduit.Erfansaller 
+fHloin, plufieursfgauent, qui font encores plein de 
+vie, quel vn des Comtes d'Alpremont traiétoir, & 
+teceuoit magnifiquement toutes les compagnies 
+qui venoyent en famaifon ;;& receuoyent vn grand 
+corentenient desviandesexquifes ;du feruice, & de 
+l'abondance de toutes chofes: Neantmoins quand 
+les hommes, & cheuauxauoyentforti defa maion , 
+iz mouroyenrdefaim &:de foi£ Ce que-i'ay fgeu de 
+plufreurspersônes quifünrencores en vic; Tél eftoit 
+le Comte de Maícon , des plus grandz Sorciersdefo 
+temps;lequel noustrouuons en nos hiftoites ^ auoir 
+cité appelé pat Yn homme lors qu'il traittoit à fa cable 
+grade copagnie,&n'ofant defobeir à Sathan,il trou- 
+ua vn cheual noira la porte quil'attendoit fur lequel 
+il fut foudain portéaucc Fhomme; :& difparut ; fans 
+aimais pluseftre veu.Le femblableadainràR omule, 
+comme recite Plutarque lorsqu'il eftoitau champ 
+du Marais de lacheure, il vint vntourbillon de tem- 
+pefte;par lequel il futeíleue , & nefutiamais veu de- 
+puis,ce qui fut certifié & atcefté par les Princes &Sci- 
+gncurs,qui acoftoyent en. grand nombre,mefmes 
+pour confirmatio de fon dire iladioufte deux-autres 
+exéples femblables, l vn d’'Ariftèks-Procoriefien ,& 
+l'autre de Cleomede AÍtypaleá.Philoftrate Lemnien 
+di&     
+
+    ANR SECOND: 86 dit le ne cas. eítre. aduenii à Ap »polionius 
+Thianæ 5 QU Ma voulu dciftei P arce moyen quoy 
+quil friken tpntaridp d:elbce-le pius-erandSorcier 
+de£on aage; & d'autant quil y età quelques, vns qui 
+Le veuientpreualo ir d'vn'Cocil nacional oi. Cocilia- 
+
+Du! cd'Aquilée,quenousatonsreimarqué cy deſſus, 
+
+Lay bien vouluremarquerles-Fheologiens ? qui fot 2-640. 
+d'accord ; quele Diable cranfporte Es Sorcieres cf D a 
+corps le. metz-beaucoup d' authoritez de plufieurs 4quinins. 
+peuples &natiós;à finquelaveriré foit micux cfclar- da 1-95 
+
+cie, & par tant d exemplesfifouuent 6x perimenteZ, |. srt de 
+2 5. 
+ur 61 non par [ones qu reluéries , mais par iugemens eo | fied in 
+traditoires par Mosca pitis des complices; recri- Bii SUA 
+minations ,récolemens;conuictions confrontatios, tit de mirae 
+confefhions,comdemnations,executions: Entte Jef TO d 
+quelles il; yen a d'Almai: gne vnememorable,que re: Demonibys. 
+cite Ioachim de Cábray; auliure de Natura demon, * niei 7: 
+nte n 41,19, 
+qui dir que vn boucher al laut Ja nuict par vn bois; 
+
+DES SORCIERS &vne Sorciere furent condamnez , & bruflés tous 
+vifz,cftàt conueincuz d'auoir fait mourir pluficurs 
+perfonnes & beftes, comme ilz confeflerent auffi , 
+par le moyé du Diable, qui leur adminiftroitles pou- 
+dtes, pourenterrer foubz l'eflueil des eftables, ber- 
+geries,& maifons, & declarerent qu'ilz alloyent trois 
+fois l'an il'áffemblee generale ; ou plufieurs Sorciers 
+fe trouuoyent prez d'vne croix d vn carrefour qui 
+fcruoit d'enfeigne. Etlafe troutioit vn grand bouc 
+noir, qui patloit , comme vhe perfonne aux affiftas, 
+& danfoyencàl'entóur du Bouc: puis vri chacun luy 
+baifoitle derriereauec vne chandelle ardente: & cela 
+fai& , le boucfe confommoiten feu, & dela cendre 
+chacun'en prenoitpoürfaire mourirle bœuf, ou va- 
+che defon ennetriy;à l'autrela brebis, à l'autre le che- 
+ual,à l'autre pour faire lágüirjà l'autre pourfaire mou 
+rirles hommes . Eten fine Diable leur difoit d'vne 
+voix terrible ces motz, Vengez vous où vous mou: 
+rez: cela fact chacun s'en retournoir al'ayde du Dia- 
+ble, commeilzeftoyent venus. Il fai& bien à remar- 
+quer qu'ilz eftoyéttenuz d'allertroisfoisJ'àn faire ce 
+facrifice au Diable, contrefaifant le facrifice du Bouc 
+porté par laloy deDieuau Leuitique chap. xv 1. &le 
+commandement qui portoit , que tous les malles 
+deuoyent compatoiftre deuant Dieutrois fois Tan 
+aux trois feftes folennelles. Le Preſident Saluert ho- 
+med honneur me dift plus qu'il fe trouua es anciens 
+regiftres, qu'il y auoit cent ans qu'on auoit con: 
+damné des Sorciers pour femblable cas, & pour 
+femblables confeffions , &au mefimelieu de la croix 
+
+portéc 
+
+  
+
+      LIVRE SECOND. 7 portée par leprocez. Les deux fe repentirent lesdeux 
+autres moururent opiniaftres J'ay leuauffil'extrai& 
+du procez des Sorcieres de Potez, qui m'a efté com- 
+muniqué par maiftre Adrian de Fer, Lieutenät gene- 
+ralde Laon , qui portela confeffion d'icelles, comme 
+ellesfurenttranfporteesau prez de Longuy au mou- 
+lin fréquis , & en difant certains motz,queie ne met- 
+tray poinét;auec vn balletou ramon, & trouuerent 
+lesautres quiauoyentchacun vn ramon en main, & 
+fix diables auec eux,qui font la nommez. Et apres 
+auoir renoncéà Dieu , elles baiferent les Diables en 
+forme humaine, & toutesfois bien fort hideux à 
+voir, &lesadorerent, puis elles danferent ayant leurs 
+ramonsen main & enfin fe couplerent les Diables 
+auec les femmes; & puis elles demanderent des pou- 
+dres pour fairemourir du beftail, & futarrefté d'y re- 
+tourner huiétiours aprez , qui eftoit leLundiaprez 
+iourfailly ; & furent [a enuirontrois heures, & puys 
+rapportées! l'auoys oublié de dire que chacü Sorcier 
+doit rendre compte du mal qu'ila fai& fur peine 
+d'eftre bien batu :: Ex quant à ce dernier poin®, 
+Bouuin bailly de Chafteau-Roux eftat deputé pour 
+le pais de Berry à Blois me dift qu'il auoit fair bruflet 
+vne Sorciere accuſée ‘par [a hlle, que la mere auoit 
+menéeauxaflemblées ; &l'auoitprefentécau Diable 
+
+outl'inftruire: mais entre autres villenies, elle con- 
+fcffa; qu'elles danferentautour du Bouc,& en fin,que 
+chacun rendroit compte de ce qu'il auoir fai de- 
+
+uis la derniere aflemblee , & en quoy il auoit em- 
+ployéla poudre. L'vn difoitauoirtué vn enfant, l'au 
+
+Y nj   
+
+D'ESOSORCIERS 
+tre Vn cheual l'autre aucirfaict mourir vnarbre.; Et 
+parce qu |, avne quin'auoit rienfaiét de- 
+puis la derniere afemblée,eliceut plufic urscoups de 
+baftonfoubz la plante des pi ds,atiecques vne mo- 
+querie & rifec de rous lesautres: Et difoit qu'il faut 
+auoirfouuent desnouucllespouldres.Ce qui cftco- 
+forme à ce que ray leuen vnautre procés d vine Sor- 
+ciere quiconfefla qu'elle n auoit point de tepos;ftel- 
+le ne faifoit touslesiours quelque mal, quand elle. ne 
+euft café qu'vn vaiffeau: mais, vn iourfamaiftrefle 
+l'ayantt rouuce caflant vn vaïfleau dé terre de propos 
+deliberé,elle confeffala verité, &qu'onla Hit mourir, 
+par ce qu'elle difoit qu'elle n'auoit point de patience; 
+elle ne faifoit mourir quelqu' vn ;.ou qu'elle ne fuit 
+quelque mal./Qui monftre bien que ceneft pas:la 
+pouldre , maisSathan , quine procure & ne cherche 
+que laruinedu genre humain, & quiveutíouuent e- 
+ftre feruy & adoré. Car la pouldre bien fouuent (e 
+trouue vn ou deux pieds{oubs terre:Et me fouuient 
+que Fournier home do&te, & Confeillier d'Orléans, 
+me difoit quele bruit comun &inotoire eftoit,qu’il 
+(c faifoit des affemblees de Sorciers pres deClery,ou 
+les Diables rapportoienttout ce qui auoit efte [air en 
+divers païs:par ce qu'ils minuttent toutes les actions 
+deshommes.:. C'eftle moyen que lesSorciers ont 
+pour deuiner.Las orciere que i'ay ditjn'appella point 
+dela fentence , difant qu'elle aymoit mieux mourir, 
+que d'cftre plus tourmentee du Diable, qui ne luy 
+donn oit point de repos: Mais ilfaict bien à noter que 
+i ne fe faict point :d'affemblée ; ou l'on ne dance, & 
+par la   
+
+  LIVRE SECOND. 88 par la confeffion des Sorcieres de Longuy elles di. 
+loyeacen danfant, ha, har, Diable, Diable , faute icy, 
+faute là,ioüc icy,ioüe là:Etlesautres difoient Sabath, 
+Sabath;c' eft à dire, la fefte & iour de repos ,en hauf- 
+lant les mains .& balets en hault , pour teftifier & doner vn certain tcímoignage d'alleeteffc, & que de 
+bon cueur ils feruent , &adorentle Diable, & auffi 
+pour contrefaire [l'adoration qui eft deué à Dieu. 
+
+Caril eft bien certain que les anciensHebrieux apor- 
+tant leurs oblations au Temple quand ilz appro- 
+choyent de l'autel , ilz daníoyent , commeatrefbien 
+notéDauid Kimhi *furle mor, haga aan qui fignifie 
+fcíte, & dá(e.Et Dauid pour vngràd ligne d'alegref: 
+le dafoit , en diſant le pfalme x 1 vir. & fonnoit.de la 
+harpe deuantl'arche. Eten cas pareil nouslifons que 
+Samucladrefla Saul à la troupe des Prophetes , qui 
+danfoyent enlouant Dieuauecques inftruments de 
+mufique, laquelle eft principalement donnee aux 
+hommes pourlouer Dieu d'vne fi pleineioye & ale- 
+grefle:mais le mouuement ducorps eftoit cel qu'ilny 
+auoit rien d'infolent , ains le doux mouuement du 
+corps eleuoiclecaeurau ciel, qui eft lachofe la plus 
+agreable à Dieu. Caril ne fe peut faire que celuy qui 
+chante louanges à Dieu de telle allegrefTe,qu'il ne [oit 
+raui d'amour & dezele à l'hôneurdefon Createur:& 
+entous les endroitz desPfalmes ou il fetrouuele mot 
+Sela,qui eft frequent: ceux qui le chantoyent efle- 
+uovyent leur voixauec le corps ,come Dauid Kimhi 
+anoté fur les commentaires Hebrieux des PAlmes: 
+lacoit que ce mot fipnific Eternité,côme l'interprete 
+
+1fur le Pal nm. À Le   
+
+DESOSORCIERS. Caldeanàtourne, & Symmachus& Theodocidont 
+rourné Milan ,& Abraham Haben Eíra tourne 
+nos, id efl veré : & neantmoins toufioursles chantres 
+(-leuovent àce mot. Les proceflions qu'on faict , 
+monftrent encores,comme il femble,la marque des 
+danfesanciennes. Auffitous les peuples en víoyent 
+enleurs ctifices& feftes folennelles.Et Moyíe.May- 
+mon efctipt queles filles Perfanes adorát le Soleil da- 
+(oyent toutes nues & chantoyentauec inftrumens; 
+Maisles danfes des Sorciers rendent les hommes fu: 
+ricux , & fontauorterles femmes: comme on peult 
+dire que la volte, que lesSorciers ont amené d Italic 
+en France,outreles mouuemés infolens, & impudi- 
+ques,acelade malheur,que vncinfinité d'hotnicides 
+&auortemens en aduiennent . Quieft vne choſe des 
+plus confiderables en la republique , & qu'on de- 
+uroit defendre le plus rigoureufement, Ec d'autant 
+que la villede.Geneue furtoutes choſes haïtlesdan- 
+fes, Sathanauoitapris ve ieune fille de Gencue à 
+faire danſer, & fautertouteperfonne qu'elle touchoit 
+' auccques vne verge defer , qu'il luy auoit baillee;.& 
+(c moquoitdes Iuges difant ; qu'ilz.ne fçauroyent la 
+faire mourir, & né fe voulut onques repentir, qu'elle 
+ne fuft condamnée à mort. l'ay aprisle fait d'vn ho- 
+me qui eftoit prefenr: mais il me difoit queauffi toft 
+qu'elle fut prife ; elle fur faifie de peur, & tremblemét 
+extreme, diſant que fon maiftre la laifloit,& qu'illuy 
+auoitpromis qu'elle ne mourroir poindt:& n'y auoit 
+qu'elle quilaperceuſt. Quand à la fureur, oh voit 
+euidemiment, que tousles hommesfurieux ; & for- 
+
+cenez vient 
+
+  
+
+   
+   
+   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    
+           LIVRE SECOND 89 
+cenez vfent de telles danſes, & fautz violens: Etn'ya 
+moyen plus expedient pour 14 guerir,que de les un 
+re danfer pofément, San ANE pefante, comme 
+on faict en Allemaigneaux infenfez qui (antf appez 
+dela maladie qu'on did des. Virus, & Modeltus. 
+Pour la fin dece chapitre ie mettray la nou 1on de 
+la difpute relolue deuant l'Empereur Sigifmond, 
+que Vlrich le Monnier à clcript en vn petit liure, qu'il 
+afai&t fur ce poinét, ou il futarrefté infinisexemples 
+&lugemens, que Sathan tranfportoit les Sorciers 
+NI corps , & en ame. Aufft {eroit- ce 
+Íc mocquer de l'hiftoire Euangelique de reuoquer 
+en doubte fi le Diable tranſporte kei Sorciers d vn 
+lieu en l'autre:puys qu'il eft di& enl Euangile que Sa- 
+than tráfporta efus Chrift fur lefommet du temple, 
+uis fur vne montaigne: Car jap lufpart, & plusfaine 
+partie des Theologiens: tienneht qu il fac: veritable- 
+ment tranfporté en corps, & ame.Ilz confeffent auffi 
+que Abac ucle Prophetea à cfté tranf porté en corps, & 
+ame en Babylone: Et [aint Philippel'Apoltre acíté 
+tianfporté voee ,&ame. Sur quoy Thomas 
+d'Aquin conclud sque sil eft poffible en vn ,ileít 
+ofhible en tous P" — nature, & de meíme pois. -Voila fon argument qu'il tire defain& Matthieu,cha. nu. Nouslifons pareillementen PhiloftrateAutheur 
+Grec,que Apollonius Fhianzus fut tr: parre en peu 
+d'heure d' Etiopie prez ia fource du Niliufques à i Ro- 
+me,qui ne [ot pas moins de deux mii cit nq cens lieues 
+à droite ligne:vneaurre tois de Romeen Corinthe, 
+v ne autre foisde Smyrne en.Ephefe. Er lan] M. cc. 
+7 
+4.3 
+  T mn. D 
