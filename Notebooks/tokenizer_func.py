@@ -54,6 +54,8 @@ def convert_tuple_trigrams(tuples_to_convert):
     """Converts NLTK tuples into trigram strings"""
     string_grams = []
     for tuple_grams in tuples_to_convert:
+        if len(tuple_grams) < 3:
+            continue  # Skip tuples that don't have at least three elements
         first_word = tuple_grams[0]
         second_word = tuple_grams[1]
         third_word = tuple_grams[2]
