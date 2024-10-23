@@ -15,11 +15,10 @@ def write_words_to_file(word_list, output_file, words_per_line=20):
             line = " ".join(word_list[i:i + words_per_line])
             outfile.write(line + "\n")
 
-def dictionary_to_file(dictionary, output_folder, name): 
+def dictionary_to_file(dictionary, output_folder, name):
     """
     Saves each nested subdictionary in a dictionary as a separate .csv file
     named after the key of the subdictionary.
-
     Args:
         dictionary (dict): The input dictionary containing subdictionaries.
         output_folder (str): The directory where the .csv files will be saved.
@@ -27,13 +26,13 @@ def dictionary_to_file(dictionary, output_folder, name):
     for key, subdict in dictionary.items():
         # Define the .csv file path
         csv_file_path = os.path.join(output_folder, f"{key}_{name}.csv")
-        output_table = [['token_','count']]
-        # Then, let's iterate through our dictionary using a for loop, filling out the table as we go
-        for word,count in subdict.items():
-            new_row = [word,count]
+        output_table = [['token_', 'count']]
+        # Sort the subdictionary by count in descending order and fill out the table
+        for word, count in sorted(subdict.items(), key=lambda item: item[1], reverse=True):
+            new_row = [word, count]
             output_table.append(new_row)
- 
-        with open(csv_file_path,'w') as output_file:
+        
+        with open(csv_file_path, 'w') as output_file:
             for row in output_table:
                 str_version = [str(i) for i in row]
                 output_str = ",".join(str_version)
