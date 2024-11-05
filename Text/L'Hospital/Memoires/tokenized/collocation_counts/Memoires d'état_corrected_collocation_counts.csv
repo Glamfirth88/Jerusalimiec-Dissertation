@@ -78,6 +78,7 @@ token_,count
 ('mois', 'juillet'),7
 ('mois', 'aoust'),7
 ('droicts', 'royaulx'),7
+('tant', 'seulement'),7
 ('philippes', 'valois'),7
 ('charles', 'vii'),7
 ('tous', 'droicts'),7
@@ -105,7 +106,6 @@ token_,count
 ('tous', 'aultres'),6
 ('bour', 'gongne'),6
 ('ledict', 'duché'),6
-('tant', 'seulement'),6
 ('roy', 'rené'),6
 ('plus', 'demandoit'),6
 ('trente', 'sept'),6
@@ -188,7 +188,6 @@ token_,count
 ('roy', 'baillera'),5
 ('arthois', 'charolois'),5
 ('ressort', 'soubveraineté'),5
-('ar', 'chiduc'),5
 ('roy', 'romains'),5
 ('duché', 'bourgongne'),5
 ('comte', 'dunois'),5
@@ -238,6 +237,7 @@ token_,count
 ('duc', 'anjou'),4
 ('mille', 'esceus'),4
 ('cinquante', 'cinq'),4
+('cinq', 'mille'),4
 ('droict', 'prétendeu'),4
 ('quarante', 'mille'),4
 ('soixante', 'quinze'),4

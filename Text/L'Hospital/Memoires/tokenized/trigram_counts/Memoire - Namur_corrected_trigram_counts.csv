@@ -1,13 +1,10 @@
 token_,count
 ledict comté namur,4
+bauldoin ii empereur,2
 frére dudict othon,2
 ledict duché lorraine,2
 succéda audict duché,2
 donna ledict duché,2
-bl ua ara,1
-ua ara ar,1
-ara ar copie,1
-ar copie mémoire,1
 copie mémoire touchant,1
 mémoire touchant namur,1
 touchant namur lorraine,1
@@ -73,10 +70,9 @@ venir succession ledict,1
 succession ledict comté,1
 comté namur parce,1
 namur parce ledict,1
-parce ledict baul,1
-ledict baul doin,1
-baul doin comte,1
-doin comte haynault,1
+parce ledict bauldoin,1
+ledict bauldoin comte,1
+bauldoin comte haynault,1
 comte haynault filz,1
 haynault filz sœur,1
 filz sœur germaine,1
@@ -131,10 +127,8 @@ roy sainct loys,1
 sainct loys achepta,1
 loys achepta ledict,1
 achepta ledict comté,1
-comté namur baul,1
-namur baul doin,1
-baul doin ii,1
-doin ii empereur,1
+comté namur bauldoin,1
+namur bauldoin ii,1
 ii empereur constantinople,1
 empereur constantinople lequel,1
 constantinople lequel ycelle,1
@@ -154,7 +148,6 @@ roy hiérusalem femme,1
 hiérusalem femme dudict,1
 femme dudict bauldoin,1
 dudict bauldoin ii,1
-bauldoin ii empereur,1
 ii empereur si,1
 empereur si prins,1
 si prins force,1
@@ -448,9 +441,8 @@ geoffroy barbeu lequel,1
 barbeu lequel barbeu,1
 lequel barbeu recouvra,1
 barbeu recouvra force,1
-recouvra force ar,1
-force ar comtes,1
-ar comtes ardennes,1
+recouvra force comtes,1
+force comtes ardennes,1
 comtes ardennes tenoient,1
 ardennes tenoient occupé,1
 tenoient occupé brabant,1
