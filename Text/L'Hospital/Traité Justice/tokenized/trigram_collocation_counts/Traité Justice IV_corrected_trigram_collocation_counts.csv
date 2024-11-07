@@ -1,0 +1,20 @@
+token_,count
+('si', 'grand', 'nombre'),5
+('an', 'mil', 'trois'),4
+('mil', 'trois', 'cent'),4
+('mil', 'quatre', 'cent'),4
+('plus', 'grandes', 'dignitez'),4
+('comme', 'dict', 'cy'),4
+('dict', 'cy', 'dessus'),4
+('bien', 'sou', 'vent'),3
+('cent', 'quatre', 'vingt'),3
+('quatre', 'vingt', 'dix'),3
+('an', 'mil', 'quatre'),3
+('plus', 'meschans', 'hommes'),3
+('plein', 'sé', 'nat'),3
+('beaulx', 'deniers', 'comptans'),3
+('fault', 'bien', 'croire'),3
+('vie', 'sans', 'reproche'),3
+('gens', 'bien', 'honneur'),3
+('soubs', 'telz', 'gouvernemens'),3
+('chose', 'tant', 'petite'),3
