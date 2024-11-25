@@ -11,6 +11,7 @@ token_,count
 ('dira', 'quelqu'),13
 ('proportion', 'geometrique'),13
 ('marc', 'varron'),11
+('hon', 'neur'),11
 ('offenfiue', 'defenfiue'),11
 ('chambre', 'comptes'),11
 ('places', 'fortes'),10
@@ -105,7 +106,6 @@ token_,count
 ('moin', 'dre'),5
 ('cha', 'cun'),5
 ('iournee', 'cannes'),5
-('lesau', 'tres'),5
 ('con', 'feil'),5
 ('magi', 'ftrat'),5
 ('po', 'pulaires'),5
@@ -115,7 +115,6 @@ token_,count
 ('rotu', 'riers'),5
 ('deleze', 'maicfté'),5
 ('touf', 'jours'),5
-('ditcy', 'deffus'),5
 ('parlement', 'bourdeaux'),5
 ('cap', 'cü'),5
 ('mife', 'recepte'),5
@@ -189,6 +188,7 @@ token_,count
 ('guet', 'pend'),4
 ('tri', 'buns'),4
 ('ari', 'ftocratique'),4
+('lesau', 'tres'),4
 ('ariftocra', 'tique'),4
 ('mo', 'narques'),4
 ('monarque', 'feigneurial'),4
@@ -210,6 +210,7 @@ token_,count
 ('priuile', 'ges'),4
 ('mar', 'chans'),4
 ('col', 'lege'),4
+('ditcy', 'deffus'),4
 ('por', 'ter'),4
 ('sultans', 'egypte'),4
 ('beftes', 'fauuages'),4
@@ -285,7 +286,6 @@ token_,count
 ('fansle', 'confentement'),3
 ('priuilege', 'fpecial'),3
 ('doux', 'ployables'),3
-('ayma', 'mieux'),3
 ('fideles', 'loyaux'),3
 ('ap', 'pelloit'),3
 ('afran', 'chis'),3
@@ -309,6 +309,7 @@ token_,count
 ('pre', 'rogatiue'),3
 ('eau', 'froide'),3
 ('cantons', 'proteftans'),3
+('reffort', 'souveraineté'),3
 ('voix', 'dcliberatiue'),3
 ('prime', 'face'),3
 ('tite', 'live'),3
@@ -372,7 +373,6 @@ token_,count
 ('fabius', 'max'),3
 ('enne', 'mi'),3
 ('liuius', 'furnommé'),3
-('prifon', 'nier'),3
 ('principaux', 'points'),3
 ('maximus', 'tyrius'),3
 ('lacede', 'mone'),3
@@ -424,6 +424,7 @@ token_,count
 ('mef', 'chans'),3
 ('reuoquec', 'doubte'),3
 ('he', 'ritiers'),3
+('hon', 'neurs'),3
 ('laiz', 'teftamentaires'),3
 ('col', 'leges'),3
 ('io', 'andr'),3
@@ -443,7 +444,6 @@ token_,count
 ('impoffi', 'ble'),3
 ('verticale', 'foleil'),3
 ('lucas', 'gauric'),3
-('mieux', 'entédu'),3
 ('calcul', 'philon'),3
 ('tau', 'reau'),3
 ('dephilon', 'hebrieu'),3
@@ -460,7 +460,7 @@ token_,count
 ('barbares', 'nations'),3
 ('nobre', 'parfait'),3
 ('der', 'nier'),3
-('ciles', 'gaulois'),3
+('ciés', 'gaulois'),3
 ('marie', 'stuart'),3
 ('fageffe', 'prudence'),3
 ('parti', 'annibal'),3

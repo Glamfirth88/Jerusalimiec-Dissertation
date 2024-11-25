@@ -1,0 +1,1441 @@
+document,term,tfidf
+Discours des raisons_corrected,mémoires,0.33453482043031535
+Discours des raisons_corrected,roy,0.19735622468372038
+Discours des raisons_corrected,hommes,0.1148851979077886
+Discours des raisons_corrected,liberté,0.10806978558334925
+Discours des raisons_corrected,aultres,0.10444108900708055
+Discours des raisons_corrected,subjects,0.09866103105064869
+Discours des raisons_corrected,paix,0.09664929557761043
+Discours des raisons_corrected,péril,0.09566858670311049
+Discours des raisons_corrected,estat,0.09387596422990237
+Discours des raisons_corrected,bien,0.09108261768257674
+Discours des raisons_corrected,guerre,0.08635489165083222
+Discours des raisons_corrected,estrangers,0.08503874373609821
+Discours des raisons_corrected,dieu,0.08423073944306755
+Discours des raisons_corrected,mal,0.07978338410318431
+Discours des raisons_corrected,contre,0.07955125391845269
+Discours des raisons_corrected,prince,0.07833081675531041
+Discours des raisons_corrected,victoire,0.07451980090261975
+Discours des raisons_corrected,bataille,0.07191244869366688
+Discours des raisons_corrected,estre,0.07111579312421477
+Discours des raisons_corrected,majesté,0.06997659379279325
+Discours des raisons_corrected,ennemis,0.06784993519569799
+Discours des raisons_corrected,capituler,0.06770207767606945
+Discours des raisons_corrected,faire,0.06718509776467077
+Discours des raisons_corrected,plustost,0.06718233107097406
+Discours des raisons_corrected,peult,0.0660360936153423
+Discours des raisons_corrected,chacung,0.065803952413662
+Discours des raisons_corrected,nécessité,0.06502222215864942
+Discours des raisons_corrected,droict,0.06429808258484089
+Discours des raisons_corrected,faict,0.06424616631055259
+Discours des raisons_corrected,peuple,0.06424616631055259
+Discours des raisons_corrected,voir,0.06382061332640479
+Discours des raisons_corrected,donc,0.062486487464613605
+Discours des raisons_corrected,servilius,0.05899364918155956
+Discours des raisons_corrected,romain,0.057959845146482024
+Discours des raisons_corrected,dont,0.05770437396730856
+Discours des raisons_corrected,non,0.05762133296341089
+Discours des raisons_corrected,envers,0.0559812750342346
+Discours des raisons_corrected,estats,0.055758647985814265
+Discours des raisons_corrected,fault,0.05522115542935434
+Discours des raisons_corrected,enfans,0.054258202535184784
+Démonomanie Repair_corrected,sorciers,0.4513872551024217
+Démonomanie Repair_corrected,dieu,0.25819852194939785
+Démonomanie Repair_corrected,diable,0.22818305433920363
+Démonomanie Repair_corrected,sathan,0.2269277675166333
+Démonomanie Repair_corrected,sorcier,0.14876706717460095
+Démonomanie Repair_corrected,sorciere,0.12055537649321144
+Démonomanie Repair_corrected,bien,0.11700311970212472
+Démonomanie Repair_corrected,faut,0.10425652458985755
+Démonomanie Repair_corrected,sorcieres,0.09644430119456916
+Démonomanie Repair_corrected,foit,0.09347655323044014
+Démonomanie Repair_corrected,faire,0.0839878812214374
+Démonomanie Repair_corrected,mort,0.08163868885683903
+Démonomanie Repair_corrected,void,0.06633786375798803
+Démonomanie Repair_corrected,diables,0.06537258961396303
+Démonomanie Repair_corrected,dire,0.06525292144750505
+Démonomanie Repair_corrected,preuue,0.0642966987192807
+Démonomanie Repair_corrected,esprits,0.06424618671957068
+Démonomanie Repair_corrected,hebrieux,0.06420522194228512
+Démonomanie Repair_corrected,celuy,0.0621292558587973
+Démonomanie Repair_corrected,quand,0.062035211117233924
+Démonomanie Repair_corrected,neantmoins,0.059568391764496166
+Démonomanie Repair_corrected,verité,0.05817320360315873
+Démonomanie Repair_corrected,hommes,0.056276499872099005
+Démonomanie Repair_corrected,deuant,0.05590264457898871
+Démonomanie Repair_corrected,esprit,0.053693099527342344
+Démonomanie Repair_corrected,puiflance,0.052531545225506
+Démonomanie Repair_corrected,difoit,0.05209797929799895
+Démonomanie Repair_corrected,choses,0.05064900148179225
+Démonomanie Repair_corrected,fort,0.04861123678304068
+Démonomanie Repair_corrected,auons,0.04857115020797379
+Démonomanie Repair_corrected,cas,0.04853211046266381
+Démonomanie Repair_corrected,loy,0.0479949090116913
+Démonomanie Repair_corrected,efcript,0.04796737840962211
+Démonomanie Repair_corrected,lib,0.04796737840962211
+Démonomanie Repair_corrected,elles,0.0478745397617266
+Démonomanie Repair_corrected,mourir,0.04725092039638301
+Démonomanie Repair_corrected,chose,0.04679848210332836
+Démonomanie Repair_corrected,efté,0.04673827661522007
+Démonomanie Repair_corrected,fouuent,0.045926213370914785
+Démonomanie Repair_corrected,come,0.045344537537147234
+Harangue - Fontainebleau_corrected,étoit,0.18038534588876914
+Harangue - Fontainebleau_corrected,national,0.14908045529965583
+Harangue - Fontainebleau_corrected,généraux,0.1350219336310227
+Harangue - Fontainebleau_corrected,convocation,0.13098551499621347
+Harangue - Fontainebleau_corrected,guises,0.13098551499621347
+Harangue - Fontainebleau_corrected,cette,0.12612797932732686
+Harangue - Fontainebleau_corrected,état,0.11892900702547166
+Harangue - Fontainebleau_corrected,royaume,0.11445142033082038
+Harangue - Fontainebleau_corrected,assemblée,0.11030582256523157
+Harangue - Fontainebleau_corrected,concile,0.1064463633793213
+Harangue - Fontainebleau_corrected,étoient,0.10513575983993062
+Harangue - Fontainebleau_corrected,général,0.10283608041992062
+Harangue - Fontainebleau_corrected,noblesse,0.10283608041992062
+Harangue - Fontainebleau_corrected,liv,0.0944071421028966
+Harangue - Fontainebleau_corrected,harangues,0.09322278214138657
+Harangue - Fontainebleau_corrected,chaque,0.08608537967212969
+Harangue - Fontainebleau_corrected,lorraine,0.08608537967212969
+Harangue - Fontainebleau_corrected,remède,0.08608537967212969
+Harangue - Fontainebleau_corrected,estats,0.08253515786009318
+Harangue - Fontainebleau_corrected,cardinal,0.08253094725006775
+Harangue - Fontainebleau_corrected,ministres,0.07928600468364777
+Harangue - Fontainebleau_corrected,ordres,0.07928600468364777
+Harangue - Fontainebleau_corrected,racine,0.07928600468364777
+Harangue - Fontainebleau_corrected,états,0.07630094688721359
+Harangue - Fontainebleau_corrected,adoptés,0.07305332620773113
+Harangue - Fontainebleau_corrected,ajouta,0.07305332620773113
+Harangue - Fontainebleau_corrected,alarmerent,0.07305332620773113
+Harangue - Fontainebleau_corrected,alarmés,0.07305332620773113
+Harangue - Fontainebleau_corrected,alié,0.07305332620773113
+Harangue - Fontainebleau_corrected,appovri,0.07305332620773113
+Harangue - Fontainebleau_corrected,assembleroient,0.07305332620773113
+Harangue - Fontainebleau_corrected,avenir,0.07305332620773113
+Harangue - Fontainebleau_corrected,bulletin,0.07305332620773113
+Harangue - Fontainebleau_corrected,cablé,0.07305332620773113
+Harangue - Fontainebleau_corrected,connoitre,0.07305332620773113
+Harangue - Fontainebleau_corrected,connue,0.07305332620773113
+Harangue - Fontainebleau_corrected,convo,0.07305332620773113
+Harangue - Fontainebleau_corrected,convoqueroit,0.07305332620773113
+Harangue - Fontainebleau_corrected,descovrir,0.07305332620773113
+Harangue - Fontainebleau_corrected,direction,0.07305332620773113
+Harangue - Orléans 2_corrected,roy,0.3010670055456535
+Harangue - Orléans 2_corrected,gabelles,0.20537422633373398
+Harangue - Orléans 2_corrected,despenses,0.18235134253173463
+Harangue - Orléans 2_corrected,estats,0.16152777973858398
+Harangue - Orléans 2_corrected,estat,0.1259769358787282
+Harangue - Orléans 2_corrected,subvenir,0.1232245358002404
+Harangue - Orléans 2_corrected,lesdicts,0.12113965443329609
+Harangue - Orléans 2_corrected,aultres,0.11913159250879667
+Harangue - Orléans 2_corrected,harangues,0.11402768688797062
+Harangue - Orléans 2_corrected,millions,0.11199520479080344
+Harangue - Orléans 2_corrected,faire,0.10947891110751036
+Harangue - Orléans 2_corrected,estoient,0.1079802307531956
+Harangue - Orléans 2_corrected,royaulme,0.1039964439385303
+Harangue - Orléans 2_corrected,aydes,0.10392872872033997
+Harangue - Orléans 2_corrected,trois,0.09932916485723714
+Harangue - Orléans 2_corrected,royne,0.0980427496842867
+Harangue - Orléans 2_corrected,tailles,0.09085474082497207
+Harangue - Orléans 2_corrected,remons,0.08825706878812924
+Harangue - Orléans 2_corrected,six,0.08574363547903044
+Harangue - Orléans 2_corrected,où,0.08509399464914047
+Harangue - Orléans 2_corrected,louis,0.08399640359310258
+Harangue - Orléans 2_corrected,dict,0.08053068273640435
+Harangue - Orléans 2_corrected,xii,0.07812145689047245
+Harangue - Orléans 2_corrected,auxdicts,0.07715959915618652
+Harangue - Orléans 2_corrected,prendroit,0.07715959915618652
+Harangue - Orléans 2_corrected,ordre,0.07421010117182371
+Harangue - Orléans 2_corrected,falloit,0.0729829351649481
+Harangue - Orléans 2_corrected,temps,0.07222664868896593
+Harangue - Orléans 2_corrected,chascung,0.0719868205021304
+Harangue - Orléans 2_corrected,nécessité,0.07063631982451185
+Harangue - Orléans 2_corrected,tel,0.06999607546044401
+Harangue - Orléans 2_corrected,prince,0.06807519571931238
+Harangue - Orléans 2_corrected,aulcung,0.06631078687653262
+Harangue - Orléans 2_corrected,avoir,0.06442454618912348
+Harangue - Orléans 2_corrected,advisé,0.06317844089225767
+Harangue - Orléans 2_corrected,affaires,0.061002215886938826
+Harangue - Orléans 2_corrected,chose,0.061002215886938826
+Harangue - Orléans 2_corrected,faictes,0.060572917401969004
+Harangue - Orléans 2_corrected,selon,0.060572917401969004
+Harangue - Orléans 2_corrected,desdicts,0.060569827216648046
+Harangue - Orléans_corrected,roy,0.2958312801064569
+Harangue - Orléans_corrected,aultres,0.19477181259598247
+Harangue - Orléans_corrected,harangues,0.1812487485886676
+Harangue - Orléans_corrected,roys,0.1568995157023192
+Harangue - Orléans_corrected,estats,0.15405052267010166
+Harangue - Orléans_corrected,bien,0.11323976486444369
+Harangue - Orléans_corrected,cause,0.11323976486444369
+Harangue - Orléans_corrected,faire,0.10876150003913855
+Harangue - Orléans_corrected,royaume,0.1068108523653975
+Harangue - Orléans_corrected,sédition,0.105006763113028
+Harangue - Orléans_corrected,subjects,0.10221811290414311
+Harangue - Orléans_corrected,estre,0.0999939748790923
+Harangue - Orléans_corrected,religion,0.0999939748790923
+Harangue - Orléans_corrected,peuple,0.09216341946828502
+Harangue - Orléans_corrected,nostre,0.08239553391382817
+Harangue - Orléans_corrected,temps,0.07806764507722745
+Harangue - Orléans_corrected,tenir,0.07437569739890959
+Harangue - Orléans_corrected,royaumes,0.07358781627694692
+Harangue - Orléans_corrected,armes,0.07231888964179431
+Harangue - Orléans_corrected,prince,0.07033426565966035
+Harangue - Orléans_corrected,séditions,0.07029616721532377
+Harangue - Orléans_corrected,grand,0.06888321624461247
+Harangue - Orléans_corrected,non,0.06888321624461247
+Harangue - Orléans_corrected,paix,0.06675589813088706
+Harangue - Orléans_corrected,faict,0.06656246961598361
+Harangue - Orléans_corrected,hommes,0.06492393753199416
+Harangue - Orléans_corrected,pays,0.06473934807515071
+Harangue - Orléans_corrected,maulvais,0.06398062090051916
+Harangue - Orléans_corrected,chascung,0.06293328241446196
+Harangue - Orléans_corrected,quand,0.061338205968240335
+Harangue - Orléans_corrected,aulcuns,0.0613231802307891
+Harangue - Orléans_corrected,seigneur,0.06119290661997981
+Harangue - Orléans_corrected,dieu,0.05817837189755262
+Harangue - Orléans_corrected,guerre,0.057891248614211334
+Harangue - Orléans_corrected,peult,0.057891248614211334
+Harangue - Orléans_corrected,feu,0.05776894600128812
+Harangue - Orléans_corrected,chrestiens,0.05776599886325025
+Harangue - Orléans_corrected,choses,0.056619882432221845
+Harangue - Orléans_corrected,grande,0.056619882432221845
+Harangue - Orléans_corrected,hérétiques,0.05611438312405135
+Harangue - Poissy_corrected,évangélistes,0.3937519094707578
+Harangue - Poissy_corrected,harangues,0.1522617434116388
+Harangue - Poissy_corrected,roy,0.14618774024956482
+Harangue - Poissy_corrected,estre,0.13263473306832926
+Harangue - Poissy_corrected,faict,0.11828632795106582
+Harangue - Poissy_corrected,religion,0.11052894422360772
+Harangue - Poissy_corrected,conscience,0.1100412050314924
+Harangue - Poissy_corrected,lesdictz,0.10969489465874535
+Harangue - Poissy_corrected,concile,0.10431597402907043
+Harangue - Poissy_corrected,aujourd,0.10077794631751408
+Harangue - Poissy_corrected,royaulme,0.0972068819985272
+Harangue - Poissy_corrected,ycelle,0.09712399445689843
+Harangue - Poissy_corrected,chose,0.09163863615903658
+Harangue - Poissy_corrected,présentée,0.08838758065366284
+Harangue - Poissy_corrected,fault,0.08410881782332702
+Harangue - Poissy_corrected,foy,0.08332018457016617
+Harangue - Poissy_corrected,huy,0.08332018457016617
+Harangue - Poissy_corrected,hérésie,0.08227117099405902
+Harangue - Poissy_corrected,dieu,0.08145656547469919
+Harangue - Poissy_corrected,pourtant,0.08121206678537764
+Harangue - Poissy_corrected,enseigner,0.07727370042159196
+Harangue - Poissy_corrected,cela,0.07715568560794564
+Harangue - Poissy_corrected,moyen,0.07527311778704188
+Harangue - Poissy_corrected,doulceur,0.07477387992595605
+Harangue - Poissy_corrected,colloque,0.0715912562674105
+Harangue - Poissy_corrected,différendz,0.0715912562674105
+Harangue - Poissy_corrected,con,0.07127449479036178
+Harangue - Poissy_corrected,saincte,0.06954398268604696
+Harangue - Poissy_corrected,besoing,0.06943348714180514
+Harangue - Poissy_corrected,conciles,0.06938827690620995
+Harangue - Poissy_corrected,grandz,0.06938827690620995
+Harangue - Poissy_corrected,bonne,0.06936518475547192
+Harangue - Poissy_corrected,aultres,0.06817586324557277
+Harangue - Poissy_corrected,doibt,0.06817586324557277
+Harangue - Poissy_corrected,bon,0.06751122490695244
+Harangue - Poissy_corrected,salut,0.06718529754500939
+Harangue - Poissy_corrected,peuple,0.0645198152460359
+Harangue - Poissy_corrected,confession,0.06418200277936324
+Harangue - Poissy_corrected,poursuytes,0.06418200277936324
+Harangue - Poissy_corrected,trinité,0.06418200277936324
+Harangue - Rouen_corrected,roy,0.3635601455074992
+Harangue - Rouen_corrected,harangues,0.1851255155262227
+Harangue - Rouen_corrected,juges,0.14412642960202848
+Harangue - Rouen_corrected,calais,0.13640231320178017
+Harangue - Rouen_corrected,majorité,0.11869544145179851
+Harangue - Rouen_corrected,échiquier,0.11869544145179851
+Harangue - Rouen_corrected,normandie,0.1096903375243824
+Harangue - Rouen_corrected,messieurs,0.10735180056591541
+Harangue - Rouen_corrected,dieu,0.10691595276605047
+Harangue - Rouen_corrected,havre,0.10641119530996367
+Harangue - Rouen_corrected,bien,0.10405187492016113
+Harangue - Rouen_corrected,anglois,0.10057085411921858
+Harangue - Rouen_corrected,majeur,0.0976953839665913
+Harangue - Rouen_corrected,temps,0.09594078216979307
+Harangue - Rouen_corrected,aultres,0.09419404694320645
+Harangue - Rouen_corrected,rouen,0.08947788089494811
+Harangue - Rouen_corrected,an,0.08880298840896515
+Harangue - Rouen_corrected,angleterre,0.08354290349426532
+Harangue - Rouen_corrected,loy,0.08197198930058322
+Harangue - Rouen_corrected,estre,0.07940944777047573
+Harangue - Rouen_corrected,parlerai,0.079130294301199
+Harangue - Rouen_corrected,faire,0.075741696980729
+Harangue - Rouen_corrected,nostre,0.07514099019220129
+Harangue - Rouen_corrected,non,0.0746206083542835
+Harangue - Rouen_corrected,jour,0.07102474357367072
+Harangue - Rouen_corrected,royaulme,0.06907076789140777
+Harangue - Rouen_corrected,duché,0.0672840701603472
+Harangue - Rouen_corrected,jugemens,0.0672840701603472
+Harangue - Rouen_corrected,quatorze,0.0672840701603472
+Harangue - Rouen_corrected,faict,0.06537133464744645
+Harangue - Rouen_corrected,debvez,0.06513025597772754
+Harangue - Rouen_corrected,ville,0.06326137799805177
+Harangue - Rouen_corrected,jusques,0.06283496835245023
+Harangue - Rouen_corrected,cens,0.06198605213549882
+Harangue - Rouen_corrected,pays,0.061478991975437415
+Harangue - Rouen_corrected,veult,0.061478991975437415
+Harangue - Rouen_corrected,grace,0.06139623812569579
+Harangue - Rouen_corrected,justice,0.05976388208381934
+Harangue - Rouen_corrected,ordonnance,0.05974082670720942
+Harangue - Rouen_corrected,dict,0.05942848604313314
+Harangue - Saint Germain_corrected,roy,0.2533536235758568
+Harangue - Saint Germain_corrected,harangues,0.17470695575562448
+Harangue - Saint Germain_corrected,dieu,0.16550959691594888
+Harangue - Saint Germain_corrected,estre,0.147959280018546
+Harangue - Saint Germain_corrected,nostre,0.1300056610492061
+Harangue - Saint Germain_corrected,temps,0.11988351060198237
+Harangue - Saint Germain_corrected,évesques,0.10083180763404267
+Harangue - Saint Germain_corrected,faict,0.09253851505131776
+Harangue - Saint Germain_corrected,costé,0.09018757300032988
+Harangue - Saint Germain_corrected,église,0.08735347787781224
+Harangue - Saint Germain_corrected,assemblée,0.08613414205117072
+Harangue - Saint Germain_corrected,dire,0.08454816001059771
+Harangue - Saint Germain_corrected,loyx,0.08210730403945037
+Harangue - Saint Germain_corrected,estant,0.07966881827464233
+Harangue - Saint Germain_corrected,autun,0.07866577594589982
+Harangue - Saint Germain_corrected,messieurs,0.07429415961485623
+Harangue - Saint Germain_corrected,peult,0.073979640009273
+Harangue - Saint Germain_corrected,religion,0.073979640009273
+Harangue - Saint Germain_corrected,assemblées,0.07149704099004058
+Harangue - Saint Germain_corrected,édict,0.07149704099004058
+Harangue - Saint Germain_corrected,avantaige,0.06845389043537857
+Harangue - Saint Germain_corrected,constituendá,0.06845389043537857
+Harangue - Saint Germain_corrected,gentium,0.06845389043537857
+Harangue - Saint Germain_corrected,interprétation,0.06845389043537857
+Harangue - Saint Germain_corrected,souvient,0.06845389043537857
+Harangue - Saint Germain_corrected,vierg,0.06845389043537857
+Harangue - Saint Germain_corrected,adviz,0.06649633515926448
+Harangue - Saint Germain_corrected,royaulme,0.06639068189553526
+Harangue - Saint Germain_corrected,bien,0.0663253727458667
+Harangue - Saint Germain_corrected,peu,0.06455265955491359
+Harangue - Saint Germain_corrected,modes,0.06136933496139375
+Harangue - Saint Germain_corrected,pourroit,0.06080670812209595
+Harangue - Saint Germain_corrected,divisions,0.060499084580425605
+Harangue - Saint Germain_corrected,estatz,0.060499084580425605
+Harangue - Saint Germain_corrected,appaiser,0.05800110050279539
+Harangue - Saint Germain_corrected,plusieurs,0.05685031949645716
+Harangue - Saint Germain_corrected,quand,0.05685031949645716
+Harangue - Saint Germain_corrected,présent,0.05644319095326851
+Harangue - Saint Germain_corrected,quelz,0.05644319095326851
+Harangue - Saint Germain_corrected,soy,0.05644319095326851
+Harangue - lit de justice_corrected,roy,0.2883513383290667
+Harangue - lit de justice_corrected,église,0.20594204175664918
+Harangue - lit de justice_corrected,justice,0.18057399038562078
+Harangue - lit de justice_corrected,harangues,0.16017714358850493
+Harangue - lit de justice_corrected,esdict,0.1463730581501363
+Harangue - lit de justice_corrected,royaulme,0.1356513237171847
+Harangue - lit de justice_corrected,bien,0.1340286747139581
+Harangue - lit de justice_corrected,millions,0.12641952237131035
+Harangue - lit de justice_corrected,esglise,0.12056881277312147
+Harangue - lit de justice_corrected,tournoys,0.12056881277312147
+Harangue - lit de justice_corrected,fault,0.10834439423137246
+Harangue - lit de justice_corrected,reistres,0.10758994608218564
+Harangue - lit de justice_corrected,mille,0.0983733989937576
+Harangue - lit de justice_corrected,armes,0.09656918881794815
+Harangue - lit de justice_corrected,havre,0.09645505021849718
+Harangue - lit de justice_corrected,guerre,0.09135880655335993
+Harangue - lit de justice_corrected,faire,0.0892516047209016
+Harangue - lit de justice_corrected,faict,0.08888249983335027
+Harangue - lit de justice_corrected,fust,0.08757688470675162
+Harangue - lit de justice_corrected,estrangers,0.08689935708523694
+Harangue - lit de justice_corrected,payer,0.08543391525100805
+Harangue - lit de justice_corrected,aultres,0.08538097426427227
+Harangue - lit de justice_corrected,biens,0.08538097426427227
+Harangue - lit de justice_corrected,cent,0.08347773767211365
+Harangue - lit de justice_corrected,recouvrer,0.08285615518476332
+Harangue - lit de justice_corrected,vente,0.08285615518476332
+Harangue - lit de justice_corrected,majestés,0.08069245956163923
+Harangue - lit de justice_corrected,solemnité,0.08069245956163923
+Harangue - lit de justice_corrected,rentes,0.07923938783988538
+Harangue - lit de justice_corrected,roys,0.07684287683784505
+Harangue - lit de justice_corrected,peult,0.07474811445274904
+Harangue - lit de justice_corrected,aliénation,0.07234128766387288
+Harangue - lit de justice_corrected,francz,0.07234128766387288
+Harangue - lit de justice_corrected,édit,0.07234128766387288
+Harangue - lit de justice_corrected,estat,0.07222959615424832
+Harangue - lit de justice_corrected,nécessité,0.07087454091121893
+Harangue - lit de justice_corrected,suisses,0.06951948566818957
+Harangue - lit de justice_corrected,taille,0.06951948566818957
+Harangue - lit de justice_corrected,vendre,0.06768912358508763
+Harangue - lit de justice_corrected,argent,0.06653442009736539
+Harangue - ouverture de parlement_corrected,harangues,0.15811527684957302
+Harangue - ouverture de parlement_corrected,roy,0.14231978005230592
+Harangue - ouverture de parlement_corrected,aultres,0.14159361701763332
+Harangue - ouverture de parlement_corrected,justice,0.13725216655974717
+Harangue - ouverture de parlement_corrected,faict,0.1340004156176037
+Harangue - ouverture de parlement_corrected,non,0.1301980065067049
+Harangue - ouverture de parlement_corrected,court,0.12835549365757787
+Harangue - ouverture de parlement_corrected,fault,0.12477469687249744
+Harangue - ouverture de parlement_corrected,judges,0.12209428281964382
+Harangue - ouverture de parlement_corrected,roys,0.11799468084802775
+Harangue - ouverture de parlement_corrected,dict,0.11166701301466977
+Harangue - ouverture de parlement_corrected,compaignie,0.10832628567011766
+Harangue - ouverture de parlement_corrected,prie,0.10094389250048504
+Harangue - ouverture de parlement_corrected,authorité,0.09794710012543381
+Harangue - ouverture de parlement_corrected,subjectz,0.09354492149016472
+Harangue - ouverture de parlement_corrected,elles,0.09245372441939033
+Harangue - ouverture de parlement_corrected,estre,0.09182248527686762
+Harangue - ouverture de parlement_corrected,chascung,0.08734228781074821
+Harangue - ouverture de parlement_corrected,admoneste,0.08543399469226
+Harangue - ouverture de parlement_corrected,mespriser,0.08543399469226
+Harangue - ouverture de parlement_corrected,dieu,0.08458807256940241
+Harangue - ouverture de parlement_corrected,parce,0.07816690911026883
+Harangue - ouverture de parlement_corrected,mihi,0.0758566637503323
+Harangue - ouverture de parlement_corrected,fraternellement,0.07434350251807947
+Harangue - ouverture de parlement_corrected,opinione,0.07434350251807947
+Harangue - ouverture de parlement_corrected,com,0.07279448407573069
+Harangue - ouverture de parlement_corrected,sed,0.07221752378007844
+Harangue - ouverture de parlement_corrected,doibt,0.07079680850881666
+Harangue - ouverture de parlement_corrected,grand,0.07010661888822571
+Harangue - ouverture de parlement_corrected,garder,0.06603837458527881
+Harangue - ouverture de parlement_corrected,penser,0.06324611073982922
+Harangue - ouverture de parlement_corrected,plaincte,0.06299137907072706
+Harangue - ouverture de parlement_corrected,bien,0.06174158756730292
+Harangue - ouverture de parlement_corrected,quand,0.06174158756730292
+Harangue - ouverture de parlement_corrected,judgez,0.06119036194725716
+Harangue - ouverture de parlement_corrected,judicum,0.06119036194725716
+Harangue - ouverture de parlement_corrected,louez,0.06119036194725716
+Harangue - ouverture de parlement_corrected,mauvais,0.06051469106368458
+Harangue - ouverture de parlement_corrected,temps,0.06009138761847918
+Harangue - ouverture de parlement_corrected,remonstrances,0.05823635895350684
+Harangue - parlement 2_corrected,roy,0.19854879901924094
+Harangue - parlement 2_corrected,court,0.18960074768393234
+Harangue - parlement 2_corrected,estat,0.18431136171057713
+Harangue - parlement 2_corrected,presvostz,0.1830279232207214
+Harangue - parlement 2_corrected,aultres,0.159771551788267
+Harangue - parlement 2_corrected,royaulme,0.15976029552354765
+Harangue - parlement 2_corrected,esdictz,0.13727094241554105
+Harangue - parlement 2_corrected,bien,0.12666915697671577
+Harangue - parlement 2_corrected,faict,0.12371197692380281
+Harangue - parlement 2_corrected,conseil,0.12037474202456412
+Harangue - parlement 2_corrected,dudict,0.11947782337136888
+Harangue - parlement 2_corrected,présidiaulx,0.11276139127674126
+Harangue - parlement 2_corrected,appel,0.11112120553504658
+Harangue - parlement 2_corrected,mareschaulx,0.09877773938562938
+Harangue - parlement 2_corrected,harangues,0.09731687965672928
+Harangue - parlement 2_corrected,conservation,0.09212012955147798
+Harangue - parlement 2_corrected,circonscript,0.0915139616103607
+Harangue - parlement 2_corrected,deslibération,0.0915139616103607
+Harangue - parlement 2_corrected,différentz,0.0915139616103607
+Harangue - parlement 2_corrected,procez,0.09147233539255842
+Harangue - parlement 2_corrected,juger,0.08457104345755595
+Harangue - parlement 2_corrected,dict,0.0824746512825352
+Harangue - parlement 2_corrected,faire,0.08175538783145216
+Harangue - parlement 2_corrected,parlement,0.08129067197416656
+Harangue - parlement 2_corrected,juridiction,0.08087941924910137
+Harangue - parlement 2_corrected,seil,0.08087941924910137
+Harangue - parlement 2_corrected,con,0.07809347182621822
+Harangue - parlement 2_corrected,celuy,0.07262343263103045
+Harangue - parlement 2_corrected,doibt,0.07262343263103045
+Harangue - parlement 2_corrected,juge,0.07168669402282132
+Harangue - parlement 2_corrected,remonstrances,0.07168669402282132
+Harangue - parlement 2_corrected,compaignie,0.06667272332102794
+Harangue - parlement 2_corrected,juges,0.06667272332102794
+Harangue - parlement 2_corrected,regarder,0.06667272332102794
+Harangue - parlement 2_corrected,ungs,0.06503253757933325
+Harangue - parlement 2_corrected,quand,0.06333457848835788
+Harangue - parlement 2_corrected,ladicte,0.06228725419485297
+Harangue - parlement 2_corrected,jugemens,0.062251069510297824
+Harangue - parlement 2_corrected,temps,0.06164180183167842
+Harangue - parlement 2_corrected,chascung,0.06143712057019238
+Harangue - parlement 3_corrected,frére,0.25403874454088166
+Harangue - parlement 3_corrected,fréres,0.2413100208941456
+Harangue - parlement 3_corrected,roy,0.19064765815073864
+Harangue - parlement 3_corrected,amytié,0.16935916302725443
+Harangue - parlement 3_corrected,égal,0.15369173212895798
+Harangue - parlement 3_corrected,estes,0.14063586124039254
+Harangue - parlement 3_corrected,aultres,0.11854681884162223
+Harangue - parlement 3_corrected,faire,0.11121113392126421
+Harangue - parlement 3_corrected,frère,0.11001956157469948
+Harangue - parlement 3_corrected,harangues,0.10590343534169336
+Harangue - parlement 3_corrected,endroicts,0.10246115475263866
+Harangue - parlement 3_corrected,non,0.10062096006859422
+Harangue - parlement 3_corrected,estre,0.0960959942702498
+Harangue - parlement 3_corrected,guerre,0.0960959942702498
+Harangue - parlement 3_corrected,estrangier,0.09537085550438978
+Harangue - parlement 3_corrected,trés,0.09376202418627821
+Harangue - parlement 3_corrected,subject,0.09069431824403507
+Harangue - parlement 3_corrected,jambe,0.08957765919886239
+Harangue - parlement 3_corrected,général,0.0876182887651876
+Harangue - parlement 3_corrected,bien,0.08615346923234674
+Harangue - parlement 3_corrected,celle,0.0859707423226963
+Harangue - parlement 3_corrected,frères,0.08043667363138186
+Harangue - parlement 3_corrected,enfans,0.07698283989281429
+Harangue - parlement 3_corrected,siéges,0.0766941636450861
+Harangue - parlement 3_corrected,chef,0.0746574072578912
+Harangue - parlement 3_corrected,capitaine,0.07334637438313299
+Harangue - parlement 3_corrected,royaulme,0.0724401742484092
+Harangue - parlement 3_corrected,nature,0.07032151813970866
+Harangue - parlement 3_corrected,autheur,0.07031793062019627
+Harangue - parlement 3_corrected,filz,0.0675531780776056
+Harangue - parlement 3_corrected,ycelle,0.0675531780776056
+Harangue - parlement 3_corrected,ez,0.06447805674202224
+Harangue - parlement 3_corrected,naturelle,0.06265510039237042
+Harangue - parlement 3_corrected,subjectz,0.06265510039237042
+Harangue - parlement 3_corrected,abel,0.06224281793694772
+Harangue - parlement 3_corrected,accumulées,0.06224281793694772
+Harangue - parlement 3_corrected,achevée,0.06224281793694772
+Harangue - parlement 3_corrected,antigone,0.06224281793694772
+Harangue - parlement 3_corrected,apanageant,0.06224281793694772
+Harangue - parlement 3_corrected,attendons,0.06224281793694772
+Harangue - parlement_corrected,court,0.26363831729328707
+Harangue - parlement_corrected,procèz,0.19703137366635062
+Harangue - parlement_corrected,faict,0.17017082768242076
+Harangue - parlement_corrected,harangues,0.16762013701321374
+Harangue - parlement_corrected,roy,0.1571615811167636
+Harangue - parlement_corrected,ladicte,0.14528116759404847
+Harangue - parlement_corrected,aultres,0.13290573671910588
+Harangue - parlement_corrected,compagnie,0.11608999541758055
+Harangue - parlement_corrected,édict,0.11575715509716898
+Harangue - parlement_corrected,juges,0.10766077135271301
+Harangue - parlement_corrected,fust,0.10692073329361007
+Harangue - parlement_corrected,conseil,0.10078802458683528
+Harangue - parlement_corrected,combes,0.09851568683317531
+Harangue - parlement_corrected,estatz,0.08706749656318541
+Harangue - parlement_corrected,marchandise,0.08677220355178356
+Harangue - parlement_corrected,concile,0.08373615549655455
+Harangue - parlement_corrected,peult,0.08365350019776323
+Harangue - parlement_corrected,chascung,0.08267208663464572
+Harangue - parlement_corrected,ledict,0.07717143673144598
+Harangue - parlement_corrected,estre,0.07604863654342112
+Harangue - parlement_corrected,trois,0.07604863654342112
+Harangue - parlement_corrected,privé,0.0757130511380804
+Harangue - parlement_corrected,justice,0.07440487797118114
+Harangue - parlement_corrected,desjardins,0.07388676512488149
+Harangue - parlement_corrected,lettres,0.07206117910371317
+Harangue - parlement_corrected,procez,0.06892961305795514
+Harangue - parlement_corrected,bien,0.06818030156574308
+Harangue - parlement_corrected,parlements,0.06701389341025335
+Harangue - parlement_corrected,genz,0.06688248847894339
+Harangue - parlement_corrected,audict,0.0668254583085063
+Harangue - parlement_corrected,arrestz,0.06623994062752646
+Harangue - parlement_corrected,parents,0.06623994062752646
+Harangue - parlement_corrected,statut,0.06623994062752646
+Harangue - parlement_corrected,transaction,0.06623994062752646
+Harangue - parlement_corrected,fault,0.06613766930771657
+Harangue - parlement_corrected,aydes,0.06365613264327842
+Harangue - parlement_corrected,faire,0.06286463244670544
+Harangue - parlement_corrected,veu,0.06254387610310864
+Harangue - parlement_corrected,religion,0.06083890923473689
+Harangue - parlement_corrected,ailleurz,0.060814432303670146
+Harangue - religion_corrected,édictz,0.24124342202891705
+Harangue - religion_corrected,roy,0.17661909141383325
+Harangue - religion_corrected,mal,0.16571892269759814
+Harangue - religion_corrected,faict,0.15012720112873582
+Harangue - religion_corrected,harangues,0.14716599754557005
+Harangue - religion_corrected,fault,0.14194181197355574
+Harangue - religion_corrected,concile,0.13069885355849417
+Harangue - religion_corrected,dieu,0.12028264336439023
+Harangue - religion_corrected,conseil,0.1123672256012237
+Harangue - religion_corrected,faire,0.10793388919734255
+Harangue - religion_corrected,court,0.10619292534714743
+Harangue - religion_corrected,advis,0.10430393821701181
+Harangue - religion_corrected,aucungs,0.10339003801239302
+Harangue - religion_corrected,religion,0.09495988490965021
+Harangue - religion_corrected,peulvent,0.09473429418527213
+Harangue - religion_corrected,lesdictz,0.0883531117556507
+Harangue - religion_corrected,princes,0.08513490687096742
+Harangue - religion_corrected,non,0.08285946134879907
+Harangue - religion_corrected,assemblées,0.08030157939503099
+Harangue - religion_corrected,parmy,0.07739293879318389
+Harangue - religion_corrected,enverz,0.07688367856315931
+Harangue - religion_corrected,faictz,0.07688367856315931
+Harangue - religion_corrected,sortira,0.07688367856315931
+Harangue - religion_corrected,royaulme,0.07456639518923881
+Harangue - religion_corrected,bonne,0.07449304351209649
+Harangue - religion_corrected,roys,0.07321580076706365
+Harangue - religion_corrected,temps,0.07250202868019918
+Harangue - religion_corrected,judges,0.07215200696194676
+Harangue - religion_corrected,quelquesfois,0.07215200696194676
+Harangue - religion_corrected,céans,0.0710507206389541
+Harangue - religion_corrected,és,0.0710507206389541
+Harangue - religion_corrected,avoir,0.06928947744403192
+Harangue - religion_corrected,conventicules,0.06892669200826201
+Harangue - religion_corrected,soubz,0.06794927421455774
+Harangue - religion_corrected,veneu,0.06752917746381486
+Harangue - religion_corrected,cy,0.06637057834196715
+Harangue - religion_corrected,bien,0.06385118015322556
+Harangue - religion_corrected,cela,0.0621445960115993
+Harangue - religion_corrected,aultres,0.061013167305886365
+Harangue - religion_corrected,genz,0.05965311615139105
+Harangue - septembre_corrected,concile,0.2497679326965777
+Harangue - septembre_corrected,patriarche,0.12856036846340732
+Harangue - septembre_corrected,provinciaulx,0.12856036846340732
+Harangue - septembre_corrected,assemblez,0.11880683905402369
+Harangue - septembre_corrected,guérir,0.11880683905402369
+Harangue - septembre_corrected,congnoissant,0.11525516321733385
+Harangue - septembre_corrected,harangues,0.10936992508003718
+Harangue - septembre_corrected,aucthorité,0.1058149698614961
+Harangue - septembre_corrected,hérésie,0.09849258702212915
+Harangue - septembre_corrected,nice,0.09849258702212915
+Harangue - septembre_corrected,estrangiers,0.09705894261625454
+Harangue - septembre_corrected,dieu,0.0914225302884339
+Harangue - septembre_corrected,attendre,0.09048625898651046
+Harangue - septembre_corrected,chercher,0.09048625898651046
+Harangue - septembre_corrected,général,0.09048625898651046
+Harangue - septembre_corrected,bien,0.08897349217166939
+Harangue - septembre_corrected,conciles,0.08306957125958488
+Harangue - septembre_corrected,remédes,0.08306957125958488
+Harangue - septembre_corrected,pourra,0.07950268472746003
+Harangue - septembre_corrected,noz,0.07920455936934913
+Harangue - septembre_corrected,lequel,0.07724119446690231
+Harangue - septembre_corrected,doibvent,0.07481132604217057
+Harangue - septembre_corrected,aussy,0.07262332091154083
+Harangue - septembre_corrected,cardinal,0.07261961596335828
+Harangue - septembre_corrected,convient,0.07261961596335828
+Harangue - septembre_corrected,exécuter,0.06976436601351138
+Harangue - septembre_corrected,fust,0.06976436601351138
+Harangue - septembre_corrected,envoyer,0.06713779067385538
+Harangue - septembre_corrected,tenir,0.06473093328204663
+Harangue - septembre_corrected,assemblée,0.06470596174416969
+Harangue - septembre_corrected,allégeant,0.06428018423170366
+Harangue - septembre_corrected,altercations,0.06428018423170366
+Harangue - septembre_corrected,approcha,0.06428018423170366
+Harangue - septembre_corrected,appuya,0.06428018423170366
+Harangue - septembre_corrected,arrienne,0.06428018423170366
+Harangue - septembre_corrected,assurent,0.06428018423170366
+Harangue - septembre_corrected,avancé,0.06428018423170366
+Harangue - septembre_corrected,baptisez,0.06428018423170366
+Harangue - septembre_corrected,conguoissant,0.06428018423170366
+Harangue - septembre_corrected,croissantes,0.06428018423170366
+La réponse_corrected,fouz,0.23947322191873244
+La réponse_corrected,efcuz,0.23475386122678302
+La réponse_corrected,argent,0.1775260523152548
+La réponse_corrected,cens,0.17321350178985653
+La réponse_corrected,monnoye,0.16167775309223117
+La réponse_corrected,aufsi,0.1543728837187958
+La réponse_corrected,pris,0.14258087636146966
+La réponse_corrected,chofes,0.1381990568225588
+La réponse_corrected,fix,0.1266649302308068
+La réponse_corrected,noz,0.12547524923326922
+La réponse_corrected,mil,0.12286939744292703
+La réponse_corrected,den,0.12142983761021535
+La réponse_corrected,argét,0.11305536605089017
+La réponse_corrected,liures,0.10468089449156497
+La réponse_corrected,deniers,0.10375638006291617
+La réponse_corrected,pois,0.09895697674281781
+La réponse_corrected,dix,0.098359028985479
+La réponse_corrected,peuple,0.09089964131338879
+La réponse_corrected,monnoyes,0.08916068182100569
+La réponse_corrected,quatre,0.08840993359838793
+La réponse_corrected,cinq,0.0851280958230087
+La réponse_corrected,trois,0.08265151421953923
+La réponse_corrected,douze,0.08177569372501946
+La réponse_corrected,ans,0.07976831879626389
+La réponse_corrected,faut,0.07921159797859426
+La réponse_corrected,foit,0.07895890267295011
+La réponse_corrected,bien,0.07732175554765366
+La réponse_corrected,an,0.07635403356224413
+La réponse_corrected,fol,0.07537024403392678
+La réponse_corrected,pays,0.07434471688955349
+La réponse_corrected,erain,0.07303453460388805
+La réponse_corrected,efcu,0.07184196657561974
+La réponse_corrected,poiffon,0.07184196657561974
+La réponse_corrected,denier,0.0714390071802882
+La réponse_corrected,blé,0.07132854545680455
+La réponse_corrected,foixante,0.07118300825426419
+La réponse_corrected,noftre,0.07118300825426419
+La réponse_corrected,peu,0.06898387488524252
+La réponse_corrected,billon,0.06781778213218177
+La réponse_corrected,charté,0.06781778213218177
+Le paradoxe_corrected,bien,0.2733988897575527
+Le paradoxe_corrected,dieu,0.22044756101772653
+Le paradoxe_corrected,foit,0.20385127263416764
+Le paradoxe_corrected,vertus,0.19986721673813526
+Le paradoxe_corrected,chofes,0.1628841647184383
+Le paradoxe_corrected,chofe,0.14311962849667528
+Le paradoxe_corrected,fouuerain,0.14186685314186562
+Le paradoxe_corrected,git,0.13526850722092992
+Le paradoxe_corrected,vertu,0.12139375061136347
+Le paradoxe_corrected,pourquoy,0.11875542339048746
+Le paradoxe_corrected,ariftote,0.11559521367114978
+Le paradoxe_corrected,paradoxe,0.11350867087667349
+Le paradoxe_corrected,ainfi,0.11034088577700658
+Le paradoxe_corrected,encor,0.10363835167000623
+Le paradoxe_corrected,fapience,0.1028755082776182
+Le paradoxe_corrected,celuy,0.09796764226983407
+Le paradoxe_corrected,homme,0.09622711640031945
+Le paradoxe_corrected,vices,0.0932713678111298
+Le paradoxe_corrected,raifon,0.09306253750690262
+Le paradoxe_corrected,felicité,0.09031933298878785
+Le paradoxe_corrected,ame,0.083671652957931
+Le paradoxe_corrected,mal,0.07945791237932383
+Le paradoxe_corrected,puiffance,0.07896255365333808
+Le paradoxe_corrected,faut,0.07780030769506889
+Le paradoxe_corrected,prudence,0.07634277217959907
+Le paradoxe_corrected,amour,0.07529879970398452
+Le paradoxe_corrected,fr,0.07464490653599175
+Le paradoxe_corrected,mediocrité,0.07378282212050724
+Le paradoxe_corrected,plaifir,0.06997959987749226
+Le paradoxe_corrected,celte,0.06909223444667081
+Le paradoxe_corrected,ha,0.0680509626372285
+Le paradoxe_corrected,donc,0.066310179761758
+Le paradoxe_corrected,fil,0.0641570748433372
+Le paradoxe_corrected,dire,0.06353134116780847
+Le paradoxe_corrected,bodin,0.06204169167126842
+Le paradoxe_corrected,rien,0.06180930589830017
+Le paradoxe_corrected,faire,0.06127026542976685
+Le paradoxe_corrected,difoit,0.0606489865604933
+Le paradoxe_corrected,fcience,0.059221915240003566
+Le paradoxe_corrected,infini,0.059221915240003566
+Lettre_corrected,bourbon,0.19593620189544006
+Lettre_corrected,roy,0.19583958768513182
+Lettre_corrected,foit,0.14459762587792657
+Lettre_corrected,iamais,0.14459762587792657
+Lettre_corrected,fils,0.14039627064129126
+Lettre_corrected,nauarre,0.13802570679442017
+Lettre_corrected,party,0.11231701651303301
+Lettre_corrected,cefte,0.10873208783310992
+Lettre_corrected,aifné,0.10525149112838184
+Lettre_corrected,royaume,0.10017040956593061
+Lettre_corrected,monfieur,0.09796810094772003
+Lettre_corrected,bien,0.08849969653844975
+Lettre_corrected,eftat,0.08698567026648794
+Lettre_corrected,maifon,0.08698567026648794
+Lettre_corrected,mefsieurs,0.0859810606529565
+Lettre_corrected,feu,0.08427602412411969
+Lettre_corrected,euft,0.08262721478738662
+Lettre_corrected,oncle,0.08262721478738662
+Lettre_corrected,dom,0.0753438246067248
+Lettre_corrected,outre,0.0753438246067248
+Lettre_corrected,droi,0.07347607571079001
+Lettre_corrected,cardinal,0.07223290688754568
+Lettre_corrected,loy,0.06623399505443779
+Lettre_corrected,catholique,0.06523925269986595
+Lettre_corrected,frere,0.06523925269986595
+Lettre_corrected,trouue,0.06523925269986595
+Lettre_corrected,anthonio,0.06393788373468852
+Lettre_corrected,eflát,0.06393788373468852
+Lettre_corrected,preuoy,0.06393788373468852
+Lettre_corrected,roine,0.06393788373468852
+Lettre_corrected,eftant,0.06197041109053996
+Lettre_corrected,femble,0.06197041109053996
+Lettre_corrected,iugement,0.06197041109053996
+Lettre_corrected,matiere,0.06197041109053996
+Lettre_corrected,neantmoins,0.06197041109053996
+Lettre_corrected,chaftié,0.057320707101971
+Lettre_corrected,iurifconfultes,0.057320707101971
+Lettre_corrected,charles,0.0567951976063347
+Lettre_corrected,ville,0.0567951976063347
+Lettre_corrected,tre,0.056158508256516505
+Lit de justice_corrected,roy,0.2874705931935969
+Lit de justice_corrected,estes,0.1817654088649564
+Lit de justice_corrected,harangues,0.1779379410905539
+Lit de justice_corrected,debvez,0.1589116191741846
+Lit de justice_corrected,faire,0.15605546487652402
+Lit de justice_corrected,justice,0.1512188514300908
+Lit de justice_corrected,ordonnance,0.12956615577106484
+Lit de justice_corrected,dict,0.12566653127683583
+Lit de justice_corrected,voulez,0.12475285954572116
+Lit de justice_corrected,aussy,0.12118312151616346
+Lit de justice_corrected,ordonnances,0.12118312151616346
+Lit de justice_corrected,vostre,0.11680863699541988
+Lit de justice_corrected,quand,0.11580338925588654
+Lit de justice_corrected,ressort,0.11375619513481458
+Lit de justice_corrected,faict,0.10633321877270725
+Lit de justice_corrected,aultres,0.10214422223150854
+Lit de justice_corrected,court,0.10000192192657122
+Lit de justice_corrected,fault,0.09721211877648694
+Lit de justice_corrected,trop,0.09694649721293078
+Lit de justice_corrected,adressant,0.0865443926744246
+Lit de justice_corrected,serois,0.0865443926744246
+Lit de justice_corrected,céans,0.07929895484439126
+Lit de justice_corrected,procez,0.07719302337449978
+Lit de justice_corrected,faictes,0.07270987290969809
+Lit de justice_corrected,poinct,0.07061250646345889
+Lit de justice_corrected,gardez,0.0698475107279482
+Lit de justice_corrected,messieurs,0.0698475107279482
+Lit de justice_corrected,adverty,0.06946501286019287
+Lit de justice_corrected,non,0.06935892371857148
+Lit de justice_corrected,avoir,0.06766659376445006
+Lit de justice_corrected,profict,0.06633119625529262
+Lit de justice_corrected,présent,0.06633119625529262
+Lit de justice_corrected,assistent,0.064356792934216
+Lit de justice_corrected,groz,0.064356792934216
+Lit de justice_corrected,prédécesseurs,0.06251640112067715
+Lit de justice_corrected,servy,0.06251640112067715
+Lit de justice_corrected,présidens,0.06237642977286058
+Lit de justice_corrected,bien,0.06235567113778506
+Lit de justice_corrected,président,0.06039606661150515
+Lit de justice_corrected,estre,0.059615842052552305
+Memoire - Namur_corrected,duché,0.3119062650019262
+Memoire - Namur_corrected,comte,0.29600798290442937
+Memoire - Namur_corrected,ledict,0.2736632758297046
+Memoire - Namur_corrected,brabant,0.264260585256745
+Memoire - Namur_corrected,bauldoin,0.22926335391471014
+Memoire - Namur_corrected,namur,0.21565850613695509
+Memoire - Namur_corrected,othon,0.21565850613695509
+Memoire - Namur_corrected,lorraine,0.21227003693542495
+Memoire - Namur_corrected,louvain,0.19651144621260871
+Memoire - Namur_corrected,duc,0.18698521308263305
+Memoire - Namur_corrected,dudict,0.15393559265420886
+Memoire - Namur_corrected,henry,0.1383131195743973
+Memoire - Namur_corrected,comté,0.1336741135722541
+Memoire - Namur_corrected,frére,0.1336741135722541
+Memoire - Namur_corrected,godefroy,0.1310076308084058
+Memoire - Namur_corrected,empereur,0.10802145320045252
+Memoire - Namur_corrected,barbeu,0.09825572310630436
+Memoire - Namur_corrected,conrard,0.09825572310630436
+Memoire - Namur_corrected,valeran,0.09825572310630436
+Memoire - Namur_corrected,ardennes,0.08808686175224834
+Memoire - Namur_corrected,luxembourg,0.08808686175224834
+Memoire - Namur_corrected,fils,0.08630086757659987
+Memoire - Namur_corrected,flandres,0.0807122894576615
+Memoire - Namur_corrected,fille,0.07400199572610734
+Memoire - Namur_corrected,mémoires,0.07400199572610734
+Memoire - Namur_corrected,état,0.07109239352314126
+Memoire - Namur_corrected,sœur,0.07070307844730214
+Memoire - Namur_corrected,bailla,0.06683705678612704
+Memoire - Namur_corrected,comtes,0.06683705678612704
+Memoire - Namur_corrected,succéda,0.06683705678612704
+Memoire - Namur_corrected,gisilbert,0.0655038154042029
+Memoire - Namur_corrected,lembourg,0.0655038154042029
+Memoire - Namur_corrected,sabris,0.0655038154042029
+Memoire - Namur_corrected,ysabeau,0.0655038154042029
+Memoire - Namur_corrected,geoffroy,0.05872457450149889
+Memoire - Namur_corrected,liége,0.05872457450149889
+Memoire - Namur_corrected,vinrent,0.05872457450149889
+Memoire - Namur_corrected,charles,0.05818619451478939
+Memoire - Namur_corrected,depuis,0.05744117977303912
+Memoire - Namur_corrected,france,0.055897704271156576
+Memoire - le but_corrected,mémoires,0.3418263933356973
+Memoire - le but_corrected,roy,0.23763279665978743
+Memoire - le but_corrected,estat,0.12500255477892747
+Memoire - le but_corrected,hommes,0.11328473417110173
+Memoire - le but_corrected,aultres,0.10835931094627121
+Memoire - le but_corrected,faict,0.10254835640669617
+Memoire - le but_corrected,poinct,0.10214864973282736
+Memoire - le but_corrected,bien,0.09879512201447144
+Memoire - le but_corrected,liberté,0.09465024978437833
+Memoire - le but_corrected,subjects,0.08685295205548872
+Memoire - le but_corrected,paix,0.08609486855393528
+Memoire - le but_corrected,faire,0.0831714788309256
+Memoire - le but_corrected,guerre,0.08144962733697576
+Memoire - le but_corrected,genz,0.07825398879234938
+Memoire - le but_corrected,estre,0.0766584727877419
+Memoire - le but_corrected,chose,0.07503246037347858
+Memoire - le but_corrected,contre,0.07503246037347858
+Memoire - le but_corrected,peuple,0.07458062284123357
+Memoire - le but_corrected,aujourd,0.0728078844495218
+Memoire - le but_corrected,huy,0.07223445119293788
+Memoire - le but_corrected,estrangier,0.07132500865683512
+Memoire - le but_corrected,dieu,0.07061878623386218
+Memoire - le but_corrected,donc,0.06965285743709373
+Memoire - le but_corrected,nostre,0.06965285743709373
+Memoire - le but_corrected,prince,0.06895592514762713
+Memoire - le but_corrected,nécessité,0.06814303242250414
+Memoire - le but_corrected,peult,0.06707616368927416
+Memoire - le but_corrected,envers,0.06600167492282429
+Memoire - le but_corrected,trés,0.06427832753989629
+Memoire - le but_corrected,sang,0.06336613624026739
+Memoire - le but_corrected,peu,0.06270950394991831
+Memoire - le but_corrected,victoire,0.06247716599578296
+Memoire - le but_corrected,voire,0.06029117012897847
+Memoire - le but_corrected,estant,0.0601953759941149
+Memoire - le but_corrected,encore,0.05910507869796612
+Memoire - le but_corrected,france,0.05737776381501302
+Memoire - le but_corrected,déja,0.05735726975483312
+Memoire - le but_corrected,fault,0.05729283760700843
+Memoire - le but_corrected,repoz,0.05672207679203878
+Memoire - le but_corrected,ruyne,0.05672207679203878
+Memoire au roi_corrected,voz,0.21235682306911258
+Memoire au roi_corrected,mémoires,0.20403331723411441
+Memoire au roi_corrected,roy,0.1580514336704348
+Memoire au roi_corrected,manuscrit,0.12716256402873455
+Memoire au roi_corrected,justice,0.10392522240712569
+Memoire au roi_corrected,parait,0.1032015468329982
+Memoire au roi_corrected,sommerset,0.1032015468329982
+Memoire au roi_corrected,souligné,0.1032015468329982
+Memoire au roi_corrected,contre,0.10274492299214219
+Memoire au roi_corrected,partial,0.09252082322635934
+Memoire au roi_corrected,étre,0.08744285024319189
+Memoire au roi_corrected,indique,0.08494272922764502
+Memoire au roi_corrected,majestez,0.08494272922764502
+Memoire au roi_corrected,mesmoire,0.08494272922764502
+Memoire au roi_corrected,rends,0.08494272922764502
+Memoire au roi_corrected,sceaux,0.08494272922764502
+Memoire au roi_corrected,moy,0.08252368350203808
+Memoire au roi_corrected,biens,0.08189843879511226
+Memoire au roi_corrected,estant,0.08007283178021614
+Memoire au roi_corrected,cruaulté,0.07906470286105785
+Memoire au roi_corrected,espérant,0.07906470286105785
+Memoire au roi_corrected,original,0.07906470286105785
+Memoire au roi_corrected,écrit,0.07906470286105785
+Memoire au roi_corrected,toutesfois,0.07541569102896369
+Memoire au roi_corrected,correction,0.07426200562100616
+Memoire au roi_corrected,espaigne,0.07426200562100616
+Memoire au roi_corrected,fraische,0.07426200562100616
+Memoire au roi_corrected,tousjours,0.07127178591971094
+Memoire au roi_corrected,vostre,0.07024218892695411
+Memoire au roi_corrected,lettre,0.0702013829630111
+Memoire au roi_corrected,cest,0.06736749550460946
+Memoire au roi_corrected,scachant,0.06668391162229184
+Memoire au roi_corrected,mémoire,0.06584734615443523
+Memoire au roi_corrected,église,0.06584734615443523
+Memoire au roi_corrected,grands,0.06373268808742522
+Memoire au roi_corrected,foibles,0.06358128201436727
+Memoire au roi_corrected,offense,0.06358128201436727
+Memoire au roi_corrected,faict,0.062005195251767474
+Memoire au roi_corrected,loyx,0.06189276262652856
+Memoire au roi_corrected,genz,0.06005462383516211
+Memoires d'État Refuge_corrected,estat,0.2462861626257964
+Memoires d'État Refuge_corrected,conseil,0.20425500693217816
+Memoires d'État Refuge_corrected,estre,0.1941895052366074
+Memoires d'État Refuge_corrected,fault,0.1641907750838643
+Memoires d'État Refuge_corrected,affaires,0.13913659526070177
+Memoires d'État Refuge_corrected,conseiller,0.13575842242398095
+Memoires d'État Refuge_corrected,bien,0.1354093868345595
+Memoires d'État Refuge_corrected,raisons,0.1296382478792761
+Memoires d'État Refuge_corrected,adviz,0.11878861962098333
+Memoires d'État Refuge_corrected,mémoires,0.11841461464387515
+Memoires d'État Refuge_corrected,résouldre,0.1070689747096115
+Memoires d'État Refuge_corrected,vieillards,0.1070689747096115
+Memoires d'État Refuge_corrected,faire,0.10701618005328965
+Memoires d'État Refuge_corrected,aussy,0.10526280532170045
+Memoires d'État Refuge_corrected,expérience,0.10181881681798571
+Memoires d'État Refuge_corrected,aultres,0.09981576353696167
+Memoires d'État Refuge_corrected,fortune,0.09836548381877004
+Memoires d'État Refuge_corrected,poinct,0.08944812369669763
+Memoires d'État Refuge_corrected,nécessaire,0.08917010480003633
+Memoires d'État Refuge_corrected,conseillers,0.08197123651564171
+Memoires d'État Refuge_corrected,doibvent,0.08132563290475855
+Memoires d'État Refuge_corrected,estant,0.08132563290475855
+Memoires d'État Refuge_corrected,établissement,0.08030173103220863
+Memoires d'État Refuge_corrected,moins,0.07551814092534732
+Memoires d'État Refuge_corrected,ailleurs,0.07430842066669693
+Memoires d'État Refuge_corrected,envers,0.07430842066669693
+Memoires d'État Refuge_corrected,esprit,0.07430842066669693
+Memoires d'État Refuge_corrected,officiers,0.07430842066669693
+Memoires d'État Refuge_corrected,moyen,0.0734712000018486
+Memoires d'État Refuge_corrected,jeunes,0.07298391309493313
+Memoires d'État Refuge_corrected,vieulx,0.07129973766791144
+Memoires d'État Refuge_corrected,hospitai,0.06987747634537327
+Memoires d'État Refuge_corrected,irrésolution,0.06987747634537327
+Memoires d'État Refuge_corrected,préveoyance,0.06987747634537327
+Memoires d'État Refuge_corrected,celles,0.06578925332606277
+Memoires d'État Refuge_corrected,peult,0.06472983507886915
+Memoires d'État Refuge_corrected,quelques,0.06472983507886915
+Memoires d'État Refuge_corrected,magistrats,0.0634143840645233
+Memoires d'État Refuge_corrected,ayent,0.061375425695504505
+Memoires d'État Refuge_corrected,conseils,0.059207307321937575
+Memoires d'état_corrected,roy,0.36471485091596534
+Memoires d'état_corrected,mil,0.2482819245581863
+Memoires d'état_corrected,mémoires,0.24465892359377678
+Memoires d'état_corrected,cent,0.2425155038006289
+Memoires d'état_corrected,état,0.23867408205206153
+Memoires d'état_corrected,duc,0.23433529297373637
+Memoires d'état_corrected,ledict,0.2017058674511278
+Memoires d'état_corrected,comte,0.18160249998713326
+Memoires d'état_corrected,an,0.16420770592155
+Memoires d'état_corrected,comté,0.15338868566860817
+Memoires d'état_corrected,quatre,0.15264378296932818
+Memoires d'état_corrected,hommaige,0.12908948793892766
+Memoires d'état_corrected,vingt,0.12156661063222612
+Memoires d'état_corrected,audict,0.10903892073444436
+Memoires d'état_corrected,dudict,0.10493368826937285
+Memoires d'état_corrected,traicté,0.10193185420377796
+Memoires d'état_corrected,charles,0.0967800117913465
+Memoires d'état_corrected,terres,0.09327438957277587
+Memoires d'état_corrected,jean,0.09080124999356663
+Memoires d'état_corrected,cinq,0.08573689854146957
+Memoires d'état_corrected,duché,0.08504719205388175
+Memoires d'état_corrected,mariaige,0.0808546817274837
+Memoires d'état_corrected,trois,0.07996805156316329
+Memoires d'état_corrected,mille,0.07675493774188706
+Memoires d'état_corrected,loys,0.0757854415278804
+Memoires d'état_corrected,philippes,0.07498022786006135
+Memoires d'état_corrected,bretaigne,0.0690814451721212
+Memoires d'état_corrected,mois,0.06837633177501903
+Memoires d'état_corrected,feit,0.067426660500366
+Memoires d'état_corrected,jehan,0.06426180946243833
+Memoires d'état_corrected,sainct,0.06373135582967726
+Memoires d'état_corrected,faict,0.062374534409552124
+Memoires d'état_corrected,arthois,0.05804780996929892
+Memoires d'état_corrected,dix,0.05798777803504902
+Memoires d'état_corrected,lettres,0.05715793236097972
+Memoires d'état_corrected,marquis,0.05696579848981806
+Memoires d'état_corrected,ladicte,0.056731084961705515
+Memoires d'état_corrected,huict,0.05573100393093823
+Memoires d'état_corrected,france,0.05271044753497963
+Memoires d'état_corrected,archiduc,0.05204021964455257
+Recueil_corrected,eftats,0.4194907999801106
+Recueil_corrected,deputez,0.39019021361487555
+Recueil_corrected,eftat,0.26741076693993276
+Recueil_corrected,roy,0.20785016483443478
+Recueil_corrected,tiers,0.16689295355551298
+Recueil_corrected,ledit,0.14962269102591477
+Recueil_corrected,dudit,0.12415499893639736
+Recueil_corrected,iour,0.12415499893639736
+Recueil_corrected,affemblee,0.1194103140121456
+Recueil_corrected,prefident,0.11473252649028665
+Recueil_corrected,ladite,0.10785447717226053
+Recueil_corrected,nobleffe,0.09680556922617936
+Recueil_corrected,bodin,0.09374253569173663
+Recueil_corrected,france,0.08652858843136287
+Recueil_corrected,cayers,0.08423889232212844
+Recueil_corrected,auoyent,0.08276999929093158
+Recueil_corrected,deputé,0.07971628020088854
+Recueil_corrected,faire,0.07883971769582009
+Recueil_corrected,royaume,0.07576380427968132
+Recueil_corrected,cayer,0.0748790153974475
+Recueil_corrected,lefdits,0.06712949911653772
+Recueil_corrected,faite,0.06350300804924094
+Recueil_corrected,dé,0.06262650833704977
+Recueil_corrected,auis,0.060951654697964784
+Recueil_corrected,depute,0.0608392000104261
+Recueil_corrected,fuft,0.06048576871260384
+Recueil_corrected,efte,0.05730230720141417
+Recueil_corrected,eftoyent,0.05411884569022449
+Recueil_corrected,nauarre,0.053881613531810514
+Recueil_corrected,clerge,0.05147932308574516
+Recueil_corrected,depurez,0.05147932308574516
+Recueil_corrected,dits,0.05007529297283525
+Recueil_corrected,trois,0.04913207356390564
+Recueil_corrected,domaine,0.04887987372882666
+Recueil_corrected,paix,0.04735175020606202
+Recueil_corrected,ur,0.04613209725090073
+Recueil_corrected,feroit,0.04490697347009673
+Recueil_corrected,religion,0.04335182961521087
+Recueil_corrected,refponce,0.04302469743385749
+Recueil_corrected,bien,0.042753099148524244
+Remonstrances - Royaume_corrected,aultres,0.25295862866786845
+Remonstrances - Royaume_corrected,roy,0.15646518602974588
+Remonstrances - Royaume_corrected,officierz,0.13738838821218638
+Remonstrances - Royaume_corrected,faict,0.12890407753736152
+Remonstrances - Royaume_corrected,court,0.12700166882721836
+Remonstrances - Royaume_corrected,harangues,0.11733567135356429
+Remonstrances - Royaume_corrected,debtes,0.11329769301831742
+Remonstrances - Royaume_corrected,royaume,0.11204299770918436
+Remonstrances - Royaume_corrected,corrompeuz,0.10991071056974909
+Remonstrances - Royaume_corrected,mal,0.10735395653341362
+Remonstrances - Royaume_corrected,peult,0.10410353135826182
+Remonstrances - Royaume_corrected,fault,0.10288220030335209
+Remonstrances - Royaume_corrected,ledict,0.09603685517930088
+Remonstrances - Royaume_corrected,compagnie,0.09029343101128327
+Remonstrances - Royaume_corrected,aussi,0.08578022578287237
+Remonstrances - Royaume_corrected,veoyt,0.08243303292731181
+Remonstrances - Royaume_corrected,justice,0.08230576024268166
+Remonstrances - Royaume_corrected,édict,0.0800307126494174
+Remonstrances - Royaume_corrected,meurs,0.0792175842625698
+Remonstrances - Royaume_corrected,gens,0.07846767081713993
+Remonstrances - Royaume_corrected,religion,0.07571165916964497
+Remonstrances - Royaume_corrected,procès,0.0756811985797732
+Remonstrances - Royaume_corrected,juges,0.07443313761910453
+Remonstrances - Royaume_corrected,séditions,0.07223474480902661
+Remonstrances - Royaume_corrected,uns,0.06925219980630418
+Remonstrances - Royaume_corrected,usé,0.06925219980630418
+Remonstrances - Royaume_corrected,aulcuns,0.06616502254446596
+Remonstrances - Royaume_corrected,désire,0.06616502254446596
+Remonstrances - Royaume_corrected,payez,0.06616502254446596
+Remonstrances - Royaume_corrected,avoir,0.06445203876868076
+Remonstrances - Royaume_corrected,icelle,0.06318008037320684
+Remonstrances - Royaume_corrected,faire,0.06258607441189835
+Remonstrances - Royaume_corrected,mectre,0.06254714032509841
+Remonstrances - Royaume_corrected,congnoissent,0.06129947264174604
+Remonstrances - Royaume_corrected,deuz,0.06129947264174604
+Remonstrances - Royaume_corrected,doyt,0.06129947264174604
+Remonstrances - Royaume_corrected,esperit,0.06129947264174604
+Remonstrances - Royaume_corrected,haro,0.06129947264174604
+Remonstrances - Royaume_corrected,malladies,0.06129947264174604
+Remonstrances - Royaume_corrected,préluyre,0.06129947264174604
+Remonstrances - parlement_corrected,judges,0.26865370530030047
+Remonstrances - parlement_corrected,harangues,0.21211503342372515
+Remonstrances - parlement_corrected,roy,0.193282135069003
+Remonstrances - parlement_corrected,aultres,0.17588043757686594
+Remonstrances - parlement_corrected,procez,0.15507028041115772
+Remonstrances - parlement_corrected,partyes,0.1479221808841952
+Remonstrances - parlement_corrected,bien,0.1380461054682678
+Remonstrances - parlement_corrected,estre,0.13116584006086618
+Remonstrances - parlement_corrected,céans,0.12516492228662673
+Remonstrances - parlement_corrected,faict,0.1109656976103709
+Remonstrances - parlement_corrected,justice,0.10539240078577435
+Remonstrances - parlement_corrected,roys,0.09966558129355738
+Remonstrances - parlement_corrected,judge,0.09645101722676906
+Remonstrances - parlement_corrected,chambres,0.09020195035586305
+Remonstrances - parlement_corrected,présidens,0.08353717329261219
+Remonstrances - parlement_corrected,estes,0.08346102259228252
+Remonstrances - parlement_corrected,dict,0.08322427320777817
+Remonstrances - parlement_corrected,édictz,0.08278852805085003
+Remonstrances - parlement_corrected,compaignie,0.08073446356991157
+Remonstrances - parlement_corrected,fault,0.08059418883618037
+Remonstrances - parlement_corrected,temps,0.07961865153001817
+Remonstrances - parlement_corrected,offices,0.07614305581857377
+Remonstrances - parlement_corrected,jay,0.07538025227150248
+Remonstrances - parlement_corrected,moy,0.07384299067197986
+Remonstrances - parlement_corrected,soyent,0.07015707249900459
+Remonstrances - parlement_corrected,non,0.06966632008876589
+Remonstrances - parlement_corrected,chose,0.06829616966444423
+Remonstrances - parlement_corrected,plainctes,0.06751571205873834
+Remonstrances - parlement_corrected,elles,0.06562362605640545
+Remonstrances - parlement_corrected,genz,0.06448495034848434
+Remonstrances - parlement_corrected,mois,0.06284889879221485
+Remonstrances - parlement_corrected,suffisance,0.06281687689291872
+Remonstrances - parlement_corrected,peult,0.06273148872476209
+Remonstrances - parlement_corrected,quand,0.06135382465256346
+Remonstrances - parlement_corrected,avoir,0.061031133685703995
+Remonstrances - parlement_corrected,chambre,0.06091444465485901
+Remonstrances - parlement_corrected,encore,0.058626812525621984
+Remonstrances - parlement_corrected,ez,0.057397215436258656
+Remonstrances - parlement_corrected,royaulme,0.05731995586531941
+Remonstrances - parlement_corrected,aprez,0.05689314649392123
+République_corrected,sujets,0.2662195526675103
+République_corrected,republique,0.2560897716322662
+République_corrected,foit,0.17320674524810453
+République_corrected,bien,0.169669997977094
+République_corrected,roy,0.16101876061861384
+République_corrected,estat,0.12840981285872005
+République_corrected,peuple,0.12362215156397759
+République_corrected,puissance,0.11542429630120245
+République_corrected,prince,0.11530227717034791
+République_corrected,loix,0.09765535653865239
+République_corrected,magistrats,0.09430188880743445
+République_corrected,republiques,0.0940522269956191
+République_corrected,empereur,0.08795545776657143
+République_corrected,faire,0.08766837768374966
+République_corrected,royaume,0.08452087536377599
+République_corrected,senat,0.08450229970095942
+République_corrected,neantmoins,0.08378096425380015
+République_corrected,fouuerain,0.08101877231832356
+République_corrected,fuget,0.07749479192087987
+République_corrected,iuftice,0.07631513432961017
+République_corrected,fouueraineté,0.07586567563063765
+République_corrected,celte,0.07576651914513063
+République_corrected,és,0.07563376516062374
+République_corrected,chofe,0.07510480282071902
+République_corrected,faut,0.07448180155808429
+République_corrected,mil,0.0740013719619858
+République_corrected,droit,0.07218684408710692
+République_corrected,fust,0.07135985554038517
+République_corrected,an,0.07096927159097317
+République_corrected,euft,0.07070875706526394
+République_corrected,iufques,0.07011456582942138
+République_corrected,loy,0.06985789597321744
+République_corrected,princes,0.0693699541616776
+République_corrected,come,0.06912149461821249
+République_corrected,vns,0.06911849700071983
+République_corrected,charle,0.06868982870466563
+République_corrected,populaire,0.06836573572750186
+République_corrected,fouuent,0.06782592325219118
+République_corrected,estats,0.06753108532261953
+République_corrected,cens,0.06627205000114254
+Théatre_corrected,foit,0.257088094662277
+Théatre_corrected,corps,0.16184154188945837
+Théatre_corrected,eau,0.1543290990694609
+Théatre_corrected,nature,0.14815224885656678
+Théatre_corrected,animaux,0.145226339289051
+Théatre_corrected,terre,0.14129424596692244
+Théatre_corrected,mouvement,0.13578511795304357
+Théatre_corrected,ame,0.12609755409770967
+Théatre_corrected,pourquoy,0.11786967800530118
+Théatre_corrected,pource,0.11172843061079792
+Théatre_corrected,soleil,0.10681454530829372
+Théatre_corrected,fois,0.1030762382458483
+Théatre_corrected,chose,0.10192183951831972
+Théatre_corrected,air,0.10174670191775423
+Théatre_corrected,matiere,0.09984471969060289
+Théatre_corrected,efté,0.09888003640856807
+Théatre_corrected,grand,0.09392576408192783
+Théatre_corrected,faut,0.0928092001732888
+Théatre_corrected,plantes,0.09093131188449068
+Théatre_corrected,celà,0.0897875217978933
+Théatre_corrected,elles,0.08858898209622579
+Théatre_corrected,mefine,0.08632334852845688
+Théatre_corrected,encor,0.08487063479089457
+Théatre_corrected,fuft,0.08479999531913116
+Théatre_corrected,lune,0.08417448488491841
+Théatre_corrected,auons,0.08392744553702851
+Théatre_corrected,cefte,0.08327664210980545
+Théatre_corrected,choses,0.08224632239709478
+Théatre_corrected,monde,0.0792769149479162
+Théatre_corrected,aucune,0.07916838945948493
+Théatre_corrected,plufieurs,0.07892151597521832
+Théatre_corrected,ariftote,0.07720583084532227
+Théatre_corrected,moins,0.07375915086124057
+Théatre_corrected,rien,0.07243263681796525
+Théatre_corrected,eftant,0.06945719630650635
+Théatre_corrected,où,0.06776966468577612
+Théatre_corrected,fortes,0.06683906773259277
+Théatre_corrected,foyent,0.06601197240411408
+Théatre_corrected,là,0.06476283552726567
+Théatre_corrected,quand,0.06406120588718439
+Traite Justice VII_corrected,créanciers,0.29799590905106066
+Traite Justice VII_corrected,partyes,0.25880978675228916
+Traite Justice VII_corrected,justice,0.22457210700719865
+Traite Justice VII_corrected,réformation,0.1543787055656341
+Traite Justice VII_corrected,despends,0.13758676844865594
+Traite Justice VII_corrected,héritier,0.13758676844865594
+Traite Justice VII_corrected,judges,0.13141066950229607
+Traite Justice VII_corrected,faire,0.13105354689015505
+Traite Justice VII_corrected,bien,0.12921372046090893
+Traite Justice VII_corrected,advocats,0.11641957330270887
+Traite Justice VII_corrected,procez,0.10575116993812178
+Traite Justice VII_corrected,avoir,0.09815332783975672
+Traite Justice VII_corrected,ordonnance,0.0939706630468491
+Traite Justice VII_corrected,aultres,0.09383759434973259
+Traite Justice VII_corrected,playder,0.08964207505119842
+Traite Justice VII_corrected,cause,0.08614248030727263
+Traite Justice VII_corrected,traite,0.08443070203809876
+Traite Justice VII_corrected,article,0.07909758171818546
+Traite Justice VII_corrected,consignations,0.07779359853667941
+Traite Justice VII_corrected,debtes,0.07668438125993753
+Traite Justice VII_corrected,poinct,0.07397469583495898
+Traite Justice VII_corrected,fort,0.0720628028777463
+Traite Justice VII_corrected,débiteur,0.07151901817225456
+Traite Justice VII_corrected,contre,0.07081087476991352
+Traite Justice VII_corrected,partye,0.07047799728513683
+Traite Justice VII_corrected,soubs,0.07030896152727596
+Traite Justice VII_corrected,faict,0.07010951988554052
+Traite Justice VII_corrected,deffunct,0.06974244087641046
+Traite Justice VII_corrected,exploict,0.06974244087641046
+Traite Justice VII_corrected,sergens,0.0671746751372759
+Traite Justice VII_corrected,judge,0.06500156023816173
+Traite Justice VII_corrected,aussy,0.06445316954009832
+Traite Justice VII_corrected,payer,0.06353849700989765
+Traite Justice VII_corrected,traité,0.06264710869789941
+Traite Justice VII_corrected,adjudication,0.062234878829343525
+Traite Justice VII_corrected,fault,0.05744867853672524
+Traite Justice VII_corrected,procureurs,0.05687636520839151
+Traite Justice VII_corrected,ruyne,0.05687636520839151
+Traite Justice VII_corrected,ladicte,0.056478664008797905
+Traite Justice VII_corrected,peuple,0.05608761590843241
+Traite Justice VI_corrected,justice,0.280613336483206
+Traite Justice VI_corrected,bien,0.2335868036087458
+Traite Justice VI_corrected,réformation,0.2019650237049966
+Traite Justice VI_corrected,judges,0.1668040884524039
+Traite Justice VI_corrected,faire,0.1495661362434348
+Traite Justice VI_corrected,poinct,0.13287092562165065
+Traite Justice VI_corrected,présens,0.13236915495413412
+Traite Justice VI_corrected,aultres,0.13020262489509327
+Traite Justice VI_corrected,faict,0.12322028505192202
+Traite Justice VI_corrected,soubs,0.1103310818869969
+Traite Justice VI_corrected,jamais,0.10582623004339313
+Traite Justice VI_corrected,partyes,0.1034886120550503
+Traite Justice VI_corrected,dict,0.09622917499292959
+Traite Justice VI_corrected,fault,0.09310068640330667
+Traite Justice VI_corrected,temps,0.0926214691144058
+Traite Justice VI_corrected,argent,0.09179928863475147
+Traite Justice VI_corrected,estre,0.09046661287667221
+Traite Justice VI_corrected,traité,0.08651091346021493
+Traite Justice VI_corrected,aussy,0.08385590022307804
+Traite Justice VI_corrected,judge,0.08364208052429152
+Traite Justice VI_corrected,procez,0.08277883405129687
+Traite Justice VI_corrected,avoir,0.08214685670128136
+Traite Justice VI_corrected,honneur,0.08081684083649383
+Traite Justice VI_corrected,traite,0.07843489158153961
+Traite Justice VI_corrected,grand,0.07683371869717755
+Traite Justice VI_corrected,fort,0.07599195481640465
+Traite Justice VI_corrected,vertu,0.07502896335749089
+Traite Justice VI_corrected,non,0.07472868530821376
+Traite Justice VI_corrected,parce,0.0727586445068492
+Traite Justice VI_corrected,rien,0.06806453840963311
+Traite Justice VI_corrected,bon,0.06736106844684059
+Traite Justice VI_corrected,charges,0.06714982262599548
+Traite Justice VI_corrected,gens,0.06714982262599548
+Traite Justice VI_corrected,avarice,0.06451036951681786
+Traite Justice VI_corrected,quelque,0.06380380283757409
+Traite Justice VI_corrected,estat,0.06294130911772845
+Traite Justice VI_corrected,peuple,0.06219690578811302
+Traite Justice VI_corrected,grands,0.06031107525111481
+Traite Justice VI_corrected,magistrats,0.058494568815322306
+Traite Justice VI_corrected,homme,0.058235352492697096
+Traite Justice V_corrected,justice,0.2858060242124442
+Traite Justice V_corrected,bien,0.20441795030252433
+Traite Justice V_corrected,faict,0.17429383914862
+Traite Justice V_corrected,réformation,0.17313786094531017
+Traite Justice V_corrected,aultres,0.14111749324551373
+Traite Justice V_corrected,faire,0.13270567863105973
+Traite Justice V_corrected,poinct,0.1267661336181322
+Traite Justice V_corrected,soubs,0.10640604030675482
+Traite Justice V_corrected,traité,0.10618780741199257
+Traite Justice V_corrected,injustice,0.10214979869448464
+Traite Justice V_corrected,dieu,0.09644907516946964
+Traite Justice V_corrected,peuple,0.09280581045575871
+Traite Justice V_corrected,non,0.09135659572172992
+Traite Justice V_corrected,estre,0.08841156221275728
+Traite Justice V_corrected,mal,0.08729630257854191
+Traite Justice V_corrected,fault,0.08093621924600192
+Traite Justice V_corrected,trop,0.07945389684559107
+Traite Justice V_corrected,outraiges,0.07688297039654549
+Traite Justice V_corrected,hommes,0.07414647950188011
+Traite Justice V_corrected,aussy,0.07377861849947741
+Traite Justice V_corrected,royaulme,0.07307829864464858
+Traite Justice V_corrected,grands,0.07212522180514411
+Traite Justice V_corrected,envers,0.0705119824842572
+Traite Justice V_corrected,nostre,0.07024972640318378
+Traite Justice V_corrected,celuy,0.06936283566304913
+Traite Justice V_corrected,grand,0.06902498343419594
+Traite Justice V_corrected,jamais,0.0688607367504336
+Traite Justice V_corrected,rien,0.06790669057738444
+Traite Justice V_corrected,veoire,0.06659323333435317
+Traite Justice V_corrected,moins,0.06514536163045273
+Traite Justice V_corrected,outraige,0.06349924410985242
+Traite Justice V_corrected,tort,0.06154212813391484
+Traite Justice V_corrected,traite,0.06133342769882859
+Traite Justice V_corrected,estat,0.06070216443450143
+Traite Justice V_corrected,quelque,0.06049102610993067
+Traite Justice V_corrected,soyt,0.060348413868131764
+Traite Justice V_corrected,monde,0.05959042263419329
+Traite Justice V_corrected,injure,0.059587382571782706
+Traite Justice V_corrected,temps,0.058874250576225945
+Traite Justice V_corrected,avoir,0.0588524651670665
+Traité Justice III_corrected,justice,0.36439141703099315
+Traité Justice III_corrected,bien,0.2281027990360933
+Traité Justice III_corrected,faict,0.19841742104996
+Traité Justice III_corrected,réformation,0.17417132794021187
+Traité Justice III_corrected,faire,0.14021252758899105
+Traité Justice III_corrected,traité,0.13823977819979644
+Traité Justice III_corrected,dieu,0.13765259066830396
+Traité Justice III_corrected,soubs,0.11820704683598043
+Traité Justice III_corrected,injustice,0.10712513619510726
+Traité Justice III_corrected,jamais,0.10458678896289177
+Traité Justice III_corrected,grand,0.10395527256847517
+Traité Justice III_corrected,jugurtha,0.10226809232097743
+Traité Justice III_corrected,peuple,0.1021555039069101
+Traité Justice III_corrected,homme,0.09175363665699307
+Traité Justice III_corrected,poinct,0.07892715862045195
+Traité Justice III_corrected,aultres,0.07888229799818186
+Traité Justice III_corrected,fault,0.07682951563906483
+Traité Justice III_corrected,cause,0.07603426634536443
+Traité Justice III_corrected,estre,0.07471267872661684
+Traité Justice III_corrected,contre,0.07440680576665079
+Traité Justice III_corrected,bon,0.07224010466622852
+Traité Justice III_corrected,rien,0.07072304116632237
+Traité Justice III_corrected,prince,0.07057889820889957
+Traité Justice III_corrected,vertu,0.06895762859370452
+Traité Justice III_corrected,dict,0.06875851224503565
+Traité Justice III_corrected,non,0.06871619712153443
+Traité Justice III_corrected,miséricorde,0.06760851438185206
+Traité Justice III_corrected,judges,0.06750772870475086
+Traité Justice III_corrected,honneur,0.0666356323777934
+Traité Justice III_corrected,david,0.06513078887362464
+Traité Justice III_corrected,ruyne,0.06488735746792207
+Traité Justice III_corrected,avoir,0.06482945440246217
+Traité Justice III_corrected,vie,0.06259710920338167
+Traité Justice III_corrected,faveur,0.062314112717055385
+Traité Justice III_corrected,temps,0.05990642825979925
+Traité Justice III_corrected,quelque,0.05974120927135776
+Traité Justice III_corrected,grands,0.058558586028969954
+Traité Justice III_corrected,hommes,0.05812379852497611
+Traité Justice III_corrected,injustices,0.057795924849959684
+Traité Justice III_corrected,lieu,0.05734602291062067
+Traité Justice II_corrected,justice,0.40491974374743855
+Traité Justice II_corrected,bien,0.24899065416453073
+Traité Justice II_corrected,réformation,0.1602538736107424
+Traité Justice II_corrected,faict,0.1398669660332595
+Traité Justice II_corrected,faire,0.13504595727416527
+Traité Justice II_corrected,traité,0.12249422802131656
+Traité Justice II_corrected,poinct,0.1083614009169828
+Traité Justice II_corrected,dieu,0.10835756112314673
+Traité Justice II_corrected,estre,0.10455543497003841
+Traité Justice II_corrected,injustice,0.10161231869491043
+Traité Justice II_corrected,jamais,0.09670364228881095
+Traité Justice II_corrected,homme,0.0958843644790137
+Traité Justice II_corrected,aultres,0.09069091270549576
+Traité Justice II_corrected,grand,0.08267925579099075
+Traité Justice II_corrected,juste,0.0798875400139021
+Traité Justice II_corrected,force,0.07725522193431121
+Traité Justice II_corrected,dict,0.07629107238177789
+Traité Justice II_corrected,monde,0.07571500209299248
+Traité Justice II_corrected,mesmes,0.07435289680074746
+Traité Justice II_corrected,rien,0.07311227769920382
+Traité Justice II_corrected,non,0.07127522050947478
+Traité Justice II_corrected,fault,0.06748662395790643
+Traité Justice II_corrected,hommes,0.06717845385592279
+Traité Justice II_corrected,entre,0.0610482743075609
+Traité Justice II_corrected,raison,0.0603970989689075
+Traité Justice II_corrected,estat,0.06038276880444259
+Traité Justice II_corrected,aussy,0.05977500165236248
+Traité Justice II_corrected,grands,0.05881243217064661
+Traité Justice II_corrected,quand,0.05858603627400723
+Traité Justice II_corrected,gens,0.05805075049124078
+Traité Justice II_corrected,aristide,0.057583763932311495
+Traité Justice II_corrected,subjects,0.05499919785895609
+Traité Justice II_corrected,finances,0.054616963566706034
+Traité Justice II_corrected,soubs,0.05379475695612905
+Traité Justice II_corrected,parmy,0.05325836000926807
+Traité Justice II_corrected,sforze,0.05290790988950287
+Traité Justice II_corrected,dire,0.05227771748501921
+Traité Justice II_corrected,fort,0.05227771748501921
+Traité Justice II_corrected,honneur,0.05227771748501921
+Traité Justice II_corrected,vertu,0.051805001432047484
+Traité Justice IV_corrected,justice,0.31434862195655877
+Traité Justice IV_corrected,bien,0.20077752901724344
+Traité Justice IV_corrected,réformation,0.1872977861458403
+Traité Justice IV_corrected,traité,0.1684793474124634
+Traité Justice IV_corrected,soubs,0.1485665274415439
+Traité Justice IV_corrected,aultres,0.12649681915189953
+Traité Justice IV_corrected,faire,0.10578510445619067
+Traité Justice IV_corrected,judges,0.10471345523250686
+Traité Justice IV_corrected,estoient,0.10433698941536843
+Traité Justice IV_corrected,grand,0.10414774995794307
+Traité Justice IV_corrected,faict,0.10295336018679196
+Traité Justice IV_corrected,temps,0.10200037367015043
+Traité Justice IV_corrected,procez,0.10197003626720084
+Traité Justice IV_corrected,poinct,0.09910717317280793
+Traité Justice IV_corrected,jamais,0.09104632845653984
+Traité Justice IV_corrected,offices,0.09036001908751413
+Traité Justice IV_corrected,espices,0.08403328715463629
+Traité Justice IV_corrected,dict,0.08379924666366789
+Traité Justice IV_corrected,non,0.08267398708001666
+Traité Justice IV_corrected,aussy,0.08254117060651801
+Traité Justice IV_corrected,gens,0.08161767202466536
+Traité Justice IV_corrected,vénalité,0.08132253595609965
+Traité Justice IV_corrected,argent,0.07885965302183051
+Traité Justice IV_corrected,estre,0.07752053848233084
+Traité Justice IV_corrected,parce,0.07302505780691058
+Traité Justice IV_corrected,bon,0.07301079378494978
+Traité Justice IV_corrected,peu,0.07193710564105346
+Traité Justice IV_corrected,partyes,0.07119856967713738
+Traité Justice IV_corrected,fault,0.07089564665403239
+Traité Justice IV_corrected,avoir,0.07063079361652007
+Traité Justice IV_corrected,grands,0.07013763005544218
+Traité Justice IV_corrected,injustice,0.06978124773769484
+Traité Justice IV_corrected,fort,0.06890714531762741
+Traité Justice IV_corrected,hommes,0.06704331415050677
+Traité Justice IV_corrected,charges,0.06704308773454654
+Traité Justice IV_corrected,vertu,0.06603293648521442
+Traité Justice IV_corrected,veoir,0.062301172857338646
+Traité Justice IV_corrected,quelque,0.06177770123607491
+Traité Justice IV_corrected,honneur,0.06152423689073877
+Traité Justice IV_corrected,feust,0.06147940921472321
+Traité Justice I_corrected,justice,0.3430735271838552
+Traité Justice I_corrected,bien,0.2015914435578227
+Traité Justice I_corrected,réformation,0.16679524489365577
+Traité Justice I_corrected,dieu,0.13082548098349045
+Traité Justice I_corrected,traité,0.12860294182306062
+Traité Justice I_corrected,prince,0.12571723506707783
+Traité Justice I_corrected,aultres,0.12166184038749467
+Traité Justice I_corrected,faict,0.11513751481252575
+Traité Justice I_corrected,monde,0.09622578262685749
+Traité Justice I_corrected,royaulme,0.09416864158832541
+Traité Justice I_corrected,grand,0.08949628899961545
+Traité Justice I_corrected,fault,0.0857683817959638
+Traité Justice I_corrected,jamais,0.0833965173407372
+Traité Justice I_corrected,injustice,0.07938222070062417
+Traité Justice I_corrected,non,0.07916979411504443
+Traité Justice I_corrected,toute,0.0788968654310606
+Traité Justice I_corrected,faire,0.07826290130036327
+Traité Justice I_corrected,juste,0.07716176509383636
+Traité Justice I_corrected,trop,0.076980626101486
+Traité Justice I_corrected,peuple,0.0767583432083505
+Traité Justice I_corrected,subjects,0.07661915903191395
+Traité Justice I_corrected,grands,0.07495202215950757
+Traité Justice I_corrected,ordre,0.07073383984485007
+Traité Justice I_corrected,bon,0.06884329923047343
+Traité Justice I_corrected,estat,0.06861470543677105
+Traité Justice I_corrected,désordre,0.0677463088622517
+Traité Justice I_corrected,fort,0.06706233561640151
+Traité Justice I_corrected,soubs,0.06494908966414704
+Traité Justice I_corrected,peult,0.06311749234484848
+Traité Justice I_corrected,mal,0.06195896930742608
+Traité Justice I_corrected,loyx,0.06129532722553116
+Traité Justice I_corrected,princes,0.06012376386812256
+Traité Justice I_corrected,judges,0.05994707332758319
+Traité Justice I_corrected,soy,0.05793751069969642
+Traité Justice I_corrected,nostre,0.05734935143119079
+Traité Justice I_corrected,soing,0.05546260320945911
+Traité Justice I_corrected,temps,0.05507463938437874
+Traité Justice I_corrected,estant,0.05451868723534629
+Traité Justice I_corrected,feit,0.05434311512079436
+Traité Justice I_corrected,avoir,0.053730840245845346
