@@ -1,0 +1,1 @@
+These notebooks and files comprise the replication materials for the text analysis portion of Lucas Jerusalimiec's PhD dissertation.

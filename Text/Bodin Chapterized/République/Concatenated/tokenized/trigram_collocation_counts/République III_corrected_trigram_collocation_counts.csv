@@ -60,7 +60,7 @@ token_,count
 ('', '', 'appelle'),8
 ('', '', 'fçauoir'),8
 ('', 'lors', ''),8
-('cy', 'deflus', ''),8
+('cy', 'dessus', ''),8
 ('', 'autrement', ''),8
 ('tiltre', '', 'office'),8
 ('', 'celte', 'cause'),8
@@ -227,6 +227,7 @@ token_,count
 ('', 'difficulté', ''),4
 ('ferment', '', ''),4
 ('', '', 'be'),4
+('auons', 'cy', 'dessus'),4
 ('', 'def', ''),4
 ('peines', '', ''),4
 ('', 'prefence', ''),4
@@ -441,7 +442,6 @@ token_,count
 ('', '', 'appartient'),3
 ('', 'be', ''),3
 ('publices', '', ''),3
-('auons', 'cy', 'deflus'),3
 ('', 'ae', ''),3
 ('ae', '', ''),3
 ('philippe', '', ''),3

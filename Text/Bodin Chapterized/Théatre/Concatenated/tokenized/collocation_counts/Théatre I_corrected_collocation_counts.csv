@@ -148,6 +148,7 @@ token_,count
 ('', 'effe'),6
 ('pro', ''),6
 ('mx', ''),6
+('physicien', ''),6
 ('', 'finon'),6
 ('', 'z'),6
 ('durée', ''),6
@@ -210,7 +211,6 @@ token_,count
 ('volontaire', ''),5
 ('', 'deuant'),5
 ('loix', ''),5
-('phyficien', ''),5
 ('mo', ''),5
 ('ca', ''),5
 ('principes', 'nature'),5
@@ -219,6 +219,7 @@ token_,count
 ('', 'autrement'),5
 ('mouvements', ''),5
 ('priuation', ''),5
+('corps', 'physicien'),5
 ('depart', ''),5
 ('nie', ''),5
 ('', 'hors'),5
@@ -287,7 +288,6 @@ token_,count
 ('effence', ''),4
 ('princi', ''),4
 ('naturelle', ''),4
-('corps', 'phyficien'),4
 ('terme', 'dont'),4
 ('mence', ''),4
 ('creé', ''),4

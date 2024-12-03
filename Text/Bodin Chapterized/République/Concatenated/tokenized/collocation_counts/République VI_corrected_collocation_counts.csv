@@ -99,6 +99,7 @@ token_,count
 ('dol', ''),7
 ('tite', 'liue'),6
 ('monftré', 'cy'),6
+('cy', 'dessus'),6
 ('cens', 'foixante'),6
 ('fonds', 'finances'),6
 ('faut', 'donc'),6
@@ -194,7 +195,6 @@ token_,count
 ('of', ''),4
 ('crai', ''),4
 ('nombre', 'sujets'),4
-('cy', 'deflus'),4
 ('occa', ''),4
 ('', 'ions'),4
 ('caffiodore', ''),4

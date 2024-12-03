@@ -9,9 +9,9 @@ token_,count
 ('', 'neantmoins'),28
 ('', 'ains'),27
 ('', 'ordre'),27
+('cinquiesme', ''),26
 ('', 'afrique'),24
 ('', 'euft'),21
-('cinqviesme', ''),20
 ('', 'come'),20
 ('con', ''),19
 ('estat', 'populaire'),18
@@ -88,7 +88,6 @@ token_,count
 ('fept', 'mil'),6
 ('có', ''),6
 ('', 'tions'),6
-('cinquiesme', ''),6
 ('', 'difant'),6
 ('cens', 'ans'),6
 ('roy', 'france'),6
@@ -121,6 +120,7 @@ token_,count
 ('places', 'fortes'),6
 ('', 'é'),5
 ('', 'f'),5
+('', 'galien'),5
 ('', 'fieft'),5
 ('fieft', ''),5
 ('mai', ''),5

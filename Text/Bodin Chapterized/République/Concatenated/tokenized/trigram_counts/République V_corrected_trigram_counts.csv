@@ -9,14 +9,15 @@ token_,count
 bien  ,18
  estat populaire,17
   autant,17
+ cinquiesme ,15
   moins,15
   estat,14
 peuple  ,13
   pourquoy,13
   peuples,13
  autruy ,13
- cinqviesme ,12
   empereur,12
+cinquiesme  ,12
  foit ,12
 sujets  ,12
  ordre ,12
@@ -29,7 +30,6 @@ france  ,11
 armes  ,11
 afrique  ,10
  italie ,10
-cinqviesme  ,10
 paix  ,10
 ennemis  ,10
  autant ,10
@@ -109,6 +109,7 @@ prince  ,6
  em ,6
   an,6
  eglife ,6
+  cinquiesme,6
 biens  ,6
   loyers,6
 monarchie  ,6
@@ -163,7 +164,6 @@ menu peuple ,5
   sujets,5
  empereur charle,5
  mourir ,5
-  cinqviesme,5
  estat ariftocratique,5
 estat ariftocratique ,5
 royaume  ,5
@@ -492,7 +492,6 @@ mefchans  ,3
  amende ,3
   ac,3
  nature ,3
- cinquiesme ,3
 quelque chofe ,3
 meubles  ,3
 autruy  ,3
@@ -859,8 +858,8 @@ tacite  ,2
  femme ,2
 roy poulongne ,2
 horreur  ,2
- p cinqviesme,2
-p cinqviesme ,2
+ p cinquiesme,2
+p cinquiesme ,2
  hom ,2
   femmes,2
  eftragers ,2
@@ -1207,7 +1206,7 @@ anjou  maine,2
 bien faire ,2
 vandofme  ,2
  duché ,2
-cy deflus ,2
+cy dessus ,2
 pren  dre,2
 chaf  fer,2
 ferdinand  an,2
@@ -1425,7 +1424,6 @@ foubs  empereur,2
  sil bon,2
  armer ,2
   entretenir,2
-cinquiesme  ,2
 pourra  ,2
   belle,2
   affeurant,2
@@ -2144,8 +2142,8 @@ how  pen,1
  pen do,1
 pen do ,1
 do  ,1
-jr  cinqviesme,1
-cinqviesme  infinie,1
+jr  cinquiesme,1
+cinquiesme  infinie,1
  infinie eltre,1
 infinie eltre entre,1
 eltre entre peuples,1
@@ -3993,8 +3991,8 @@ ae pr pr,1
 pr pr sh,1
 pr sh hmm,1
 sh hmm boos,1
-hmm boos cinqviesme,1
-boos cinqviesme ,1
+hmm boos cinquiesme,1
+boos cinquiesme ,1
   fubtiliffimi,1
  fubtiliffimi ,1
 fubtiliffimi  ,1
@@ -6755,9 +6753,9 @@ mefchant  ,1
 ncantmoins homme ,1
 homme  bien,1
 bien  aufli,1
- aufli macciauel,1
-aufli macciauel ,1
-macciauel  bien,1
+ aufli macciavel,1
+aufli macciavel ,1
+macciavel  bien,1
  bien abusé,1
 bien abusé dire,1
 abusé dire ,1
@@ -8374,8 +8372,8 @@ peuples sina ,1
 sina  ti,1
  ti oicnt,1
 ti oicnt ,1
-oicnt  cinqviesme,1
-cinqviesme  foyent,1
+oicnt  cinquiesme,1
+cinquiesme  foyent,1
 foyent  bien,1
  bien ingenicux,1
 bien ingenicux hommes,1
@@ -9897,8 +9895,8 @@ roy  fuyrent,1
  fuyrent ,1
 fuyrent  ,1
  coup ferir,1
-coup ferir cinqviesme,1
-ferir cinqviesme ,1
+coup ferir cinquiesme,1
+ferir cinquiesme ,1
  coup feiir,1
 coup feiir quitterét,1
 feiir quitterét ville,1
@@ -10707,7 +10705,7 @@ mef  lf,1
 lf lnd p,1
 lnd p didi,1
 p didi ,1
-didi  cinqviesme,1
+didi  cinquiesme,1
   ene,1
  ene melignecicar,1
 ene melignecicar lalignee,1
@@ -14030,7 +14028,7 @@ ml  ,1
  vo cx,1
 vo cx ,1
 cx  ,1
-cinqviesme  vns,1
+cinquiesme  vns,1
  vns disent,1
 vns disent ,1
 disent  lesautres,1
@@ -14757,7 +14755,7 @@ oa  p,1
  p lu,1
 p lu ,1
 lu  ,1
-cinqviesme  juftinian,1
+cinquiesme  juftinian,1
  juftinian ,1
 juftinian  où,1
  où pluftoft,1
@@ -15366,8 +15364,8 @@ fruit  ,1
   parlé,1
  parlé sujets,1
 parlé sujets cy,1
-sujets cy deflus,1
-deflus  faut,1
+sujets cy dessus,1
+dessus  faut,1
  faut pren,1
 faut pren ,1
  dre garde,1
@@ -16773,9 +16771,9 @@ condamner  innocent,1
  innocent coupable,1
 innocent coupable leze,1
 coupable leze maicité,1
-leze maicité cinqviesme,1
-maicité cinqviesme ét,1
-cinqviesme ét maiefté,1
+leze maicité cinquiesme,1
+maicité cinquiesme ét,1
+cinquiesme ét maiefté,1
 ét maiefté diuine,1
 maiefté diuine ,1
 diuine  humaine,1
@@ -18620,7 +18618,7 @@ funcrailles conful fabri,1
 conful fabri ,1
 fabri  cius,1
  cius ,1
-cius  cinqviesme,1
+cius  cinquiesme,1
   ciis,1
  ciis ,1
 ciis  my,1
@@ -19359,7 +19357,7 @@ hm ciadc ,1
 ciadc  ,1
 we  ,1
 we  p,1
-cinqviesme  ciade,1
+cinquiesme  ciade,1
  ciade ,1
 ciade  ,1
  princes ontfait,1
@@ -20092,7 +20090,7 @@ cœur sujets ,1
  chaífa throfne,1
 chaífa throfne royal,1
 throfne royal ,1
-royal  cinqviesme,1
+royal  cinquiesme,1
   lisons,1
  lisons ,1
 lisons  ,1
@@ -22175,7 +22173,7 @@ ve  an,1
  an vw,1
 an vw nn,1
 vw nn ,1
-cinqviesme  dire,1
+cinquiesme  dire,1
  dire couftume,1
 dire couftume anciens,1
 couftume anciens romains,1
@@ -22291,9 +22289,9 @@ merite  autrement,1
 autrement prince furhaufle,1
 prince furhaufle hom,1
 furhaufle hom indigne,1
-hom indigne deflusies,1
-indigne deflusies gens,1
-deflusies gens bien,1
+hom indigne dessusies,1
+indigne dessusies gens,1
+dessusies gens bien,1
 bien  quile,1
  quile inet,1
 quile inet rang,1
@@ -22777,7 +22775,6 @@ sujets fortifier villes,1
  entretenir guerre,1
 entretenir guerre ,1
 guerre  chap,1
-  cinquiesme,1
   lv,1
  lv este,1
 lv este queftion,1
@@ -23537,8 +23534,8 @@ seigneurs  ray,1
 ray remon ,1
 remon  ,1
  tre cy,1
-tre cy deflus,1
-deflus  ,1
+tre cy dessus,1
+dessus  ,1
  pourquoy roys,1
 pourquoy roys ,1
 roys  angleterre,1
@@ -24159,9 +24156,9 @@ hautlieu magistrats ,1
 magistrats  veut,1
  veut rid,1
 veut rid eftant,1
-rid eftant cinqviesme,1
-eftant cinqviesme eftt,1
-cinqviesme eftt roy,1
+rid eftant cinquiesme,1
+eftant cinquiesme eftt,1
+cinquiesme eftt roy,1
 eftt roy ,1
 roy  veut,1
  veut feul,1
@@ -25589,9 +25586,9 @@ ls ve ,1
 ve  ve,1
 ve  po,1
  po ur,1
-po ur cinqviesme,1
-ur cinqviesme ,1
-cinqviesme  difficulté,1
+po ur cinquiesme,1
+ur cinquiesme ,1
+cinquiesme  difficulté,1
 difficulté  refiftance,1
  refiftance aucunc,1
 refiftance aucunc ,1
@@ -26272,8 +26269,8 @@ aufquels  estar,1
  estar populaire,1
 estar populaire fanaturceft,1
 populaire fanaturceft io,1
-fanaturceft io cinqviesme,1
-io cinqviesme ,1
+fanaturceft io cinquiesme,1
+io cinquiesme ,1
  sujets guerriers,1
 guerriers mutins deleur,1
 mutins deleur naturel,1
@@ -26900,9 +26897,9 @@ peuuent donne ,1
  occafion sujets,1
 occafion sujets reuolter,1
 sujets reuolter ,1
- feront cinqviesme,1
-feront cinqviesme ,1
-cinqviesme  soi,1
+ feront cinquiesme,1
+feront cinquiesme ,1
+cinquiesme  soi,1
  soi euuent,1
 soi euuent refifter,1
 euuent refifter canon,1
@@ -27654,9 +27651,9 @@ lle  an,1
 an ile ard,1
 ile ard sre,1
 ard sre aat,1
-sre aat cinqviesme,1
-aat cinqviesme ,1
-cinqviesme  rempefte,1
+sre aat cinquiesme,1
+aat cinquiesme ,1
+cinquiesme  rempefte,1
  rempefte ,1
 rempefte  furgir,1
  furgir port,1
@@ -28362,7 +28359,7 @@ nature  ayantla,1
 ayantla  hi,1
  hi reputation,1
 hi reputation ,1
-reputation  cinqviesme,1
+reputation  cinquiesme,1
   reputation,1
  reputation vaillant,1
 reputation vaillant prince,1
@@ -29151,7 +29148,7 @@ feparoié  art,1
 art militaire vacations,1
 militaire vacations ,1
 vacations  ,1
-cinqviesme  permis,1
+cinquiesme  permis,1
  permis republiqu,1
 permis republiqu cde,1
 republiqu cde crete,1
@@ -29724,7 +29721,7 @@ cofté lacedemoniens ,1
 lacedemoniens  quand,1
  quand da,1
 quand da ,1
-da  cinqviesme,1
+da  cinquiesme,1
   feprefenta,1
  feprefenta ,1
 feprefenta  doubter,1
@@ -30492,9 +30489,9 @@ cre  ,1
 rend mc ,1
 mc  misaux,1
  misaux fu,1
-misaux fu cinqviesme,1
-fu cinqviesme ot,1
-cinqviesme ot oreslatierce,1
+misaux fu cinquiesme,1
+fu cinquiesme ot,1
+cinquiesme ot oreslatierce,1
 ot oreslatierce partie,1
 oreslatierce partie finances,1
 partie finances ,1

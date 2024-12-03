@@ -6,14 +6,15 @@ token_,count
 ('', 'afrique', ''),20
 ('', 'estat', 'populaire'),17
 ('', '', 'autant'),17
+('', 'cinquiesme', ''),15
 ('', '', 'moins'),15
 ('', '', 'estat'),14
 ('peuple', '', ''),13
 ('', '', 'pourquoy'),13
 ('', '', 'peuples'),13
 ('', 'autruy', ''),13
-('', 'cinqviesme', ''),12
 ('', '', 'empereur'),12
+('cinquiesme', '', ''),12
 ('', 'foit', ''),12
 ('sujets', '', ''),12
 ('', 'ordre', ''),12
@@ -25,7 +26,6 @@ token_,count
 ('armes', '', ''),11
 ('afrique', '', ''),10
 ('', 'italie', ''),10
-('cinqviesme', '', ''),10
 ('paix', '', ''),10
 ('ennemis', '', ''),10
 ('', 'autant', ''),10
@@ -95,6 +95,7 @@ token_,count
 ('', 'em', ''),6
 ('', '', 'an'),6
 ('', 'eglife', ''),6
+('', '', 'cinquiesme'),6
 ('biens', '', ''),6
 ('', '', 'loyers'),6
 ('monarchie', '', ''),6
@@ -144,7 +145,6 @@ token_,count
 ('', 'estats', ''),5
 ('', 'empereur', 'charle'),5
 ('', 'mourir', ''),5
-('', '', 'cinqviesme'),5
 ('', 'estat', 'ariftocratique'),5
 ('estat', 'ariftocratique', ''),5
 ('royaume', '', ''),5
@@ -296,6 +296,7 @@ token_,count
 ('', 'grandeur', ''),3
 ('', 'lifons', 'és'),3
 ('', '', 'propres'),3
+('midy', '', ''),3
 ('', '', 'efprit'),3
 ('', '', 'lors'),3
 ('', 'vaincus', ''),3
@@ -436,7 +437,6 @@ token_,count
 ('mefchans', '', ''),3
 ('', 'amende', ''),3
 ('', '', 'ac'),3
-('', 'cinquiesme', ''),3
 ('quelque', 'chofe', ''),3
 ('meubles', '', ''),3
 ('autruy', '', ''),3

@@ -110,6 +110,7 @@ token_,count
 ('', '', 'roit'),5
 ('', 'trou', ''),5
 ('quatre', 'cens', 'mil'),5
+('cy', 'dessus', ''),5
 ('', 'parce', 'moyen'),5
 ('feditions', '', ''),5
 ('', 'ges', ''),5
@@ -159,7 +160,6 @@ token_,count
 ('cinq', 'cens', 'cinquante'),4
 ('tite', 'liue', ''),4
 ('monftré', 'cy', 'deuant'),4
-('cy', 'deflus', ''),4
 ('', 'colleges', ''),4
 ('', 'feditions', ''),4
 ('', 'dira', ''),4

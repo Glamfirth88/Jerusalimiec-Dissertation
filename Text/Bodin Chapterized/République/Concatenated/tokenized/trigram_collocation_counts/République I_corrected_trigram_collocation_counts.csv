@@ -103,6 +103,7 @@ token_,count
 ('iurifdi', '', 'tion'),5
 ('', '', 'enfuit'),5
 ('prote', '', 'tion'),5
+('cy', 'dessus', ''),5
 ('mil', 'efcus', ''),5
 ('', 'teur', ''),5
 ('roy', 'romains', ''),5
@@ -218,7 +219,6 @@ token_,count
 ('toutesfois', '', 'empereur'),4
 ('pou', '', 'uoit'),4
 ('file', 'prince', 'souverain'),4
-('cy', 'deflus', ''),4
 ('souverain', '', 'come'),4
 ('certain', 'temps', ''),4
 ('', 'alphons', 'roy'),4

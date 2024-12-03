@@ -182,6 +182,7 @@ token_,count
 ('mobile', '', ''),4
 ('', 'ble', ''),4
 ('', 'engendrées', ''),4
+('corps', 'physicien', ''),4
 ('', '', 'matiere'),4
 ('principes', '', ''),4
 ('', 'quel', ''),4
@@ -296,7 +297,6 @@ token_,count
 ('', 'faut', 'donc'),3
 ('priuation', '', ''),3
 ('', 'creation', ''),3
-('corps', 'phyficien', ''),3
 ('', 'mence', ''),3
 ('', '', 'eflence'),3
 ('', 'puiffance', ''),3

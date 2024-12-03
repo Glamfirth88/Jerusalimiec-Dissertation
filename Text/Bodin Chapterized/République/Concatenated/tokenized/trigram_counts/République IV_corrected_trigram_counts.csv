@@ -18,8 +18,8 @@ peuple  ,23
   depuis,22
  accord ,22
  bien ,21
+ quatriesme ,21
   non,20
- qvatriesme ,20
   peu,19
  honneur ,19
  autant ,19
@@ -56,6 +56,7 @@ estats  ,13
  magistrats ,12
   republique,12
   roy,12
+  quatriesme,12
  efpaigne ,12
   dire,12
   magistrats,12
@@ -69,7 +70,6 @@ romains  ,11
 princes  ,11
   autát,11
  forte ,11
-  qvatriesme,11
 ennemis  ,11
 magistrats  ,11
 nature  ,11
@@ -127,7 +127,7 @@ premier  ,8
  sujets ,8
   prefque,8
 p  ,8
-cy deflus ,8
+cy dessus ,8
   feroit,8
 septembre  ,8
  degrez ,8
@@ -205,6 +205,7 @@ monarchie  ,6
   ncantmoins,6
  aduient ,6
  afie ,6
+quatriesme  ,6
  bien certain,6
 doux  ,6
  an p,6
@@ -346,6 +347,7 @@ cens cinquante ,5
 monde  forte,5
   tre,5
  neant ,5
+dessus  ,5
   ruines,5
  tire foy,5
   tousjours,5
@@ -390,7 +392,6 @@ rome  iufques,5
   quand,5
 force loy ,5
  danger ,5
-qvatriesme  ,5
 honneur  ,5
  parties ,5
 maiefté  ,5
@@ -499,7 +500,6 @@ lieu monde ,4
  cofté ,4
 empereurs  ,4
 partie  ,4
-deflus  ,4
 bonne paix ,4
 vie  biens,4
   honneur,4
@@ -1664,7 +1664,7 @@ iacoit  ,2
 fucceflif  ,2
 euft efté ,2
  commei ,2
-remarqué cy deflus,2
+remarqué cy dessus,2
  gers ,2
  obli ,2
 obli  ,2
@@ -4281,7 +4281,7 @@ plaifant  gaftel,2
 voulu dire ,2
   corcs,2
  corcs ,2
-qvatriesme  cores,2
+quatriesme  cores,2
  non cause,2
 non cause plaint,2
 nombres platon ,2
@@ -5575,7 +5575,7 @@ estat romains ,2
  prince tient,2
 querelles  ,2
   differends,2
- cy deflus,2
+ cy dessus,2
  vaut mieux,2
  neurs ,2
 neurs  magistrats,2
@@ -5586,6 +5586,7 @@ neurs  magistrats,2
   hommage,2
 prince  lequel,2
  iufques là,2
+  dessus,2
 briefue iuftice ,2
  appellations ,2
  requeftes ciuiles,2
@@ -6227,7 +6228,6 @@ vneuftfaittuerl  ,1
   donc,1
  donc quatriesme,1
 donc quatriesme ,1
-quatriesme  ,1
   fanshoirs,1
  fanshoirs legitimes,1
 fanshoirs legitimes procreez,1
@@ -7616,9 +7616,9 @@ befoin éclarciray ,1
 éclarciray  exemples,1
 exemples  ,1
   monftrécy,1
- monftrécy deflus,1
-monftrécy deflus ,1
-deflus  republiques,1
+ monftrécy dessus,1
+monftrécy dessus ,1
+dessus  republiques,1
  republiques lo,1
 republiques lo mo,1
 lo mo os,1
@@ -7653,9 +7653,9 @@ ans  nm,1
 nm  wm,1
 wm  da,1
  da eo,1
-da eo qvatriesme,1
-eo qvatriesme ,1
-qvatriesme  commencé,1
+da eo quatriesme,1
+eo quatriesme ,1
+quatriesme  commencé,1
  commencé partyrannics,1
 commencé partyrannics violentes,1
 partyrannics violentes ,1
@@ -8440,9 +8440,9 @@ we  ,1
 arbre treferos ,1
 treferos  aautant,1
  aautant racines,1
-aautant racines qvatriesme,1
-racines qvatriesme ,1
-qvatriesme  lufieurs,1
+aautant racines quatriesme,1
+racines quatriesme ,1
+quatriesme  lufieurs,1
  lufieurs ,1
 lufieurs  defquels,1
  defquels cômancement,1
@@ -9215,8 +9215,6 @@ bm  ceo,1
  ceo we,1
 ceo we ur,1
 we ur ,1
-  quatriesme,1
- quatriesme ,1
 quatriesme  rene,1
  rene ,1
 rene  andronic,1
@@ -9987,7 +9985,7 @@ ic wr ,1
 wr  dcum,1
  dcum ,1
 dcum  ,1
-qvatriesme  bienaigrement,1
+quatriesme  bienaigrement,1
  bienaigrement fils,1
 bienaigrement fils come,1
 fils come plutarque,1
@@ -10732,7 +10730,7 @@ op eaée ,1
 eaée  el,1
  el ,1
 el  ,1
-qvatriesme  aij,1
+quatriesme  aij,1
  aij neral,1
 aij neral ,1
 neral  armee,1
@@ -13062,8 +13060,8 @@ droite ariftocratie ,1
 ariftocratie  republiques,1
 republiques  laycottees,1
  laycottees cy,1
-laycottees cy deflus,1
-deflus  eftoienttelles,1
+laycottees cy dessus,1
+dessus  eftoienttelles,1
  eftoienttelles ,1
 eftoienttelles  ,1
 venize  lu,1
@@ -13418,7 +13416,7 @@ gneurs  pefte,1
 pefte craindre ,1
 ariftocratique  com,1
  meiay cy,1
-meiay cy deflus,1
+meiay cy dessus,1
  quelquesfois moindre,1
 quelquesfois moindre occalion,1
 moindre occalion ,1
@@ -13477,9 +13475,9 @@ kp qc ,1
 qc  ent,1
 ent  ,1
   mà,1
- mà qvatriesme,1
-mà qvatriesme ,1
-qvatriesme  yne,1
+ mà quatriesme,1
+mà quatriesme ,1
+quatriesme  yne,1
  yne heritiere,1
 yne heritiere mere,1
 heritiere mere vouloit,1
@@ -14844,7 +14842,7 @@ ux  ,1
   xa,1
  xa h,1
 xa h ,1
-qvatriesme  stat,1
+quatriesme  stat,1
  stat demeuré,1
 stat demeuré entier,1
 demeuré entier ,1
@@ -15003,8 +15001,8 @@ almaigne  pure,1
 pure ariftocratic ,1
 ariftocratic  auons,1
 auons monftré cy,1
-monftré cy deflus,1
-deflus  iacoit,1
+monftré cy dessus,1
+dessus  iacoit,1
  aque trois,1
 aque trois cens,1
 trois cens ansou,1
@@ -15134,7 +15132,7 @@ contraintles confirmer ,1
 confirmer  commei,1
 commei  remarqué,1
  remarqué cy,1
-deflus  lefquelles,1
+dessus  lefquelles,1
  lefquelles appert,1
 lefquelles appert eui,1
 appert eui ,1
@@ -16039,9 +16037,9 @@ ml  mec,1
 mec omg pee,1
 omg pee ,1
   oa,1
- oa livreiqvatriesmeg,1
-oa livreiqvatriesmeg ,1
-livreiqvatriesmeg  gáuric,1
+ oa livreiquatriesmeg,1
+oa livreiquatriesmeg ,1
+livreiquatriesmeg  gáuric,1
  gáuric ,1
 gáuric  venir,1
  venir àíon,1
@@ -16410,8 +16408,8 @@ oo  us,1
 us aw ,1
 aw  jh,1
  jh ,1
-jh  qvatriesme,1
-qvatriesme  desarches,1
+jh  quatriesme,1
+quatriesme  desarches,1
  desarches fauuer,1
 desarches fauuer ,1
 fauuer  toulozele,1
@@ -16903,9 +16901,9 @@ conioinc  ,1
 kk hd ,1
 hd  eee,1
  eee ap,1
-eee ap qvatriesme,1
-ap qvatriesme céioincte,1
-qvatriesme céioincte ,1
+eee ap quatriesme,1
+ap quatriesme céioincte,1
+quatriesme céioincte ,1
 céioincte  oppolice,1
  oppolice ,1
 oppolice  voyons,1
@@ -17516,8 +17514,8 @@ foit  tiénela,1
 tiénela maxime ftrologuces,1
 maxime ftrologuces ,1
 ftrologuces  difent,1
-jamais  qvatriesme,1
-qvatriesme  jamais,1
+jamais  quatriesme,1
+quatriesme  jamais,1
  jamais planettene,1
 jamais planettene ruina,1
 planettene ruina maifon,1
@@ -17878,8 +17876,8 @@ sat  ,1
   em,1
  em mi,1
 em mi ii,1
-mi ii qvatriesme,1
-ii qvatriesme ,1
+mi ii quatriesme,1
+ii quatriesme ,1
  cores personne,1
 cores personne ,1
 personne  quiayt,1
@@ -18147,8 +18145,8 @@ parfois laiffat cours,1
 cours ordinaire causes,1
 ordinaire causes naturelles,1
 naturelles  paffe,1
- paffe deflus,1
-paffe deflus ,1
+ paffe dessus,1
+paffe dessus ,1
 fin  nc,1
 penfe  toutcs,1
  toutcs chofes,1
@@ -18820,8 +18818,8 @@ dele  ptenaires,1
 ptenaires  ,1
   cos,1
  cos ,1
-cos  qvatriesme,1
-qvatriesme  monarchie,1
+cos  quatriesme,1
+quatriesme  monarchie,1
  monarchie changee,1
 monarchie changee estat,1
 changee estat populaire,1
@@ -19318,7 +19316,7 @@ feptiefie moys ,1
 faut pie clure,1
 pie clure ,1
 clure  ,1
-qvatriesme  clure,1
+quatriesme  clure,1
 abib deflors auantferoit,1
 deflors auantferoit premier,1
 auantferoit premier ,1
@@ -20111,7 +20109,7 @@ plancttes foit ,1
 foit  conioin,1
  conioin ,1
 conioin  ,1
-qvatriesme  céioincte,1
+quatriesme  céioincte,1
  céioincte ,1
 céioincte  oppofite,1
  oppofite ,1
@@ -21362,9 +21360,9 @@ cours ordinaire dcs,1
 ordinaire dcs causes,1
 dcs causes naturelles,1
 naturelles  pafe,1
- pafe deflus,1
-pafe deflus ,1
-deflus  fin,1
+ pafe dessus,1
+pafe dessus ,1
+dessus  fin,1
  fin uü,1
 fin uü ,1
 uü  nc,1
@@ -21419,9 +21417,9 @@ nóbre p ,1
 p  cexxix,1
  cexxix ,1
 cexxix  folide,1
- folide qvatriesme,1
-folide qvatriesme folide,1
-qvatriesme folide neufitire,1
+ folide quatriesme,1
+folide quatriesme folide,1
+quatriesme folide neufitire,1
 folide neufitire foy,1
 neufitire foy bien,1
 republiques  quat,1
@@ -21660,9 +21658,9 @@ accomply  changement,1
 changement aduint ,1
 aduint  an,1
 an  nec,1
- nec qvatriesme,1
-nec qvatriesme ,1
-qvatriesme  nee,1
+ nec quatriesme,1
+nec quatriesme ,1
+quatriesme  nee,1
  nee fayuanteau,1
 nee fayuanteau cens,1
 fayuanteau cens quarante,1
@@ -22185,9 +22183,9 @@ ec ptenaires fete,1
 ptenaires fete al,1
 fete al ge,1
 al ge gu,1
-ge gu qvatriesme,1
-gu qvatriesme ,1
-qvatriesme  tenaires,1
+ge gu quatriesme,1
+gu quatriesme ,1
+quatriesme  tenaires,1
  tenaires entiers,1
 tenaires entiers ,1
   defaite,1
@@ -22898,7 +22896,7 @@ voiás  em,1
  em gal,1
 em gal ,1
 gal  ,1
-qvatriesme  romains,1
+quatriesme  romains,1
  romains fiauifez,1
 romains fiauifez ,1
 fiauifez  ,1
@@ -23607,9 +23605,9 @@ ac  ,1
   ll,1
  ll oe,1
 ll oe he,1
-oe he qvatriesme,1
-he qvatriesme ,1
-qvatriesme  ment,1
+oe he quatriesme,1
+he quatriesme ,1
+quatriesme  ment,1
 ment  quand,1
  quand lanecefficé,1
 quand lanecefficé requiert,1
@@ -24214,8 +24212,8 @@ capitainesen chef ,1
 chef  jay,1
  jay monitré,1
 jay monitré cy,1
-monitré cy deflus,1
-deflus  quád,1
+monitré cy dessus,1
+dessus  quád,1
 quád faut faire,1
 faut faire quelque,1
 faire quelque loy,1
@@ -24974,7 +24972,7 @@ k  ur,1
 ur vo ca,1
 vo ca ,1
 ca  ,1
-qvatriesme  gerlesloix,1
+quatriesme  gerlesloix,1
  gerlesloix ia,1
 gerlesloix ia receués,1
 ia receués ,1
@@ -26061,8 +26059,8 @@ aduerti  ,1
 dor acom ,1
 acom  ,1
  p sr,1
-p sr qvatriesme,1
-sr qvatriesme ,1
+p sr quatriesme,1
+sr quatriesme ,1
   commiffió,1
  commiffió marius,1
 commiffió marius ,1
@@ -26546,8 +26544,8 @@ efpaule gens bien,1
 bien  xa,1
  xa om,1
 xa om fy,1
-om fy qvatriesme,1
-fy qvatriesme ,1
+om fy quatriesme,1
+fy quatriesme ,1
   laconduite,1
  laconduite estats,1
 laconduite estats maniez,1
@@ -29746,9 +29744,9 @@ rá  wr,1
  wr sj,1
 wr sj ,1
 sj  sn,1
- sn qvatriesme,1
-sn qvatriesme ,1
-qvatriesme  rincipal,1
+ sn quatriesme,1
+sn quatriesme ,1
+quatriesme  rincipal,1
  rincipal deuant,1
 rincipal deuant yeux,1
 yeux  eflire,1
@@ -30479,8 +30477,8 @@ senats entremelloit ,1
 entremelloit  accorder,1
  accorder confuls,1
 accorder confuls ,1
-confuls  qvatriesme,1
-qvatriesme  confuls,1
+confuls  quatriesme,1
+quatriesme  confuls,1
  confuls ,1
 confuls  tribuns,1
  tribuns ,1
@@ -31155,8 +31153,8 @@ deiuftice pardeffustous princes,1
 pardeffustous princes terre,1
 princes terre ,1
 terre  iufques,1
-iufques là qvatriesme,1
-là qvatriesme ,1
+iufques là quatriesme,1
+là quatriesme ,1
   cesaux,1
  cesaux princes,1
 cesaux princes ,1
@@ -31201,9 +31199,8 @@ iugeoit  laloy,1
  laloy viue,1
 laloy viue ,1
 viue  ,1
-  deflus,1
- deflus toutesles,1
-deflus toutesles loix,1
+ dessus toutesles,1
+dessus toutesles loix,1
 toutesles loix ciui,1
 loix ciui ,1
 ciui  leseftantaccompaigné,1
@@ -31919,9 +31916,9 @@ efpaigne  commé,1
  commé ,1
 commé  ,1
   cerent,1
- cerent qvatriesme,1
-cerent qvatriesme ,1
-qvatriesme  cerét,1
+ cerent quatriesme,1
+cerent quatriesme ,1
+quatriesme  cerét,1
  cerét diuers,1
 cerét diuers temps,1
 diuers temps ,1
@@ -34062,8 +34059,8 @@ efbranla fifort ,1
  fft ,1
 fft  h,1
  h ,1
-h  qvatriesme,1
-qvatriesme  couleur,1
+h  quatriesme,1
+quatriesme  couleur,1
  couleur ,1
 couleur  ,1
   contenance,1
@@ -34805,9 +34802,9 @@ bienfaits  per,1
  per cg,1
 per cg so,1
 cg so won,1
-so won qvatriesme,1
-won qvatriesme ,1
-qvatriesme  bienfaits,1
+so won quatriesme,1
+won quatriesme ,1
+quatriesme  bienfaits,1
 bienfaits  feront,1
  feront cótraints,1
 feront cótraints ,1
@@ -35540,7 +35537,7 @@ ees fr dpi,1
 fr dpi ccc,1
 dpi ccc ,1
 ccc  ,1
-qvatriesme  nom,1
+quatriesme  nom,1
  nom pairs,1
 nom pairs ,1
  non nom,1
@@ -36315,8 +36312,8 @@ eet res nd,1
 res nd ,1
 nd  paci,1
  paci ,1
-paci  qvatriesme,1
-qvatriesme  amour,1
+paci  quatriesme,1
+quatriesme  amour,1
 amour  doibuent,1
  doibuent prince,1
 doibuent prince naturel,1
@@ -36642,7 +36639,7 @@ chef outre incôueniens,1
 outre incôueniens queiay,1
 incôueniens queiay remarqué,1
 queiay remarqué cy,1
-deflus  ceftuy,1
+dessus  ceftuy,1
 ceftuy  cy,1
  cy grands,1
 cy grands ,1
@@ -36967,8 +36964,8 @@ lcs magistrats exercent,1
 magistrats exercent puissance,1
 exercent puissance ,1
   couts,1
- couts qvatriesme,1
-couts qvatriesme ,1
+ couts quatriesme,1
+couts quatriesme ,1
   cours,1
 ordinaire  autrement,1
  autrement ficeux,1
@@ -37601,8 +37598,8 @@ peuple  feigneurs,1
  feigneurs nefoient,1
 feigneurs nefoient faction,1
 nefoient faction ,1
-faction  qvatriesme,1
-qvatriesme  puife,1
+faction  quatriesme,1
+quatriesme  puife,1
  puife commander,1
 puife commander furplus,1
 commander furplus ,1
@@ -38468,8 +38465,8 @@ iugemét  ,1
  emporterle fruit,1
 emporterle fruit ,1
 fruit  accord,1
-accord  qvatriesme,1
-qvatriesme  jo,1
+accord  quatriesme,1
+quatriesme  jo,1
  jo deleur,1
 jo deleur amitié,1
 deleur amitié ,1
@@ -40123,8 +40120,8 @@ agrippa refifterent ,1
 refifterent  vs,1
 vs  ,1
   emporterent,1
- emporterent deflus,1
-emporterent deflus ,1
+ emporterent dessus,1
+emporterent dessus ,1
  meíme agrippa,1
 meíme agrippa moyen,1
 agrippa moyen ,1
@@ -40720,9 +40717,7 @@ per  cy,1
  cy efus,1
 cy efus ,1
 efus  ,1
-  dessus,1
  dessus ,1
-dessus  ,1
   iladuient,1
  iladuient ,1
 iladuient  prince,1
@@ -41419,8 +41414,8 @@ accordentlesautres  ,1
 accorderoyent iamais entre,1
 iamais entre ,1
  peur ,1
-peur  qvatriesme,1
-qvatriesme  sit,1
+peur  quatriesme,1
+quatriesme  sit,1
  sit pourquoy,1
 sit pourquoy solon,1
 pourquoy solon publia,1
@@ -42382,7 +42377,7 @@ incurables  outre,1
 outre caufes feditions,1
 caufes feditions ,1
 feditions  cy,1
-deflus  ena,1
+dessus  ena,1
  ena depend,1
 ena depend licence,1
 depend licence ,1
@@ -42672,7 +42667,7 @@ empietale royaume perfe,1
 royaume perfe ,1
  paslong temps,1
 paslong temps ,1
-qvatriesme  sis,1
+quatriesme  sis,1
  sis remps,1
 sis remps ,1
 remps  ,1

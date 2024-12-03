@@ -3,7 +3,7 @@ token_,count
 ('estat', 'populaire', ''),39
 ('', '', 'autant'),28
 ('', 'accord', ''),22
-('', 'qvatriesme', ''),20
+('', 'quatriesme', ''),21
 ('', 'honneur', ''),19
 ('', 'autant', ''),19
 ('estats', 'populaires', ''),16
@@ -28,7 +28,7 @@ token_,count
 ('', 'angleterre', ''),9
 ('', '', 'eftà'),9
 ('peu', 'peu', ''),8
-('cy', 'deflus', ''),8
+('cy', 'dessus', ''),8
 ('', 'degrez', ''),8
 ('', 'roy', 'france'),8
 ('', 'peu', 'peu'),7

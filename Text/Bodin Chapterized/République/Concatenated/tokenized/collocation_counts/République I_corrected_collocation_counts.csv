@@ -81,6 +81,7 @@ token_,count
 ('deflors', 'auant'),6
 ('feigneurs', 'ligues'),6
 ('estats', 'peuple'),6
+('cy', 'dessus'),6
 ('duché', 'milan'),6
 ('mil', 'efcus'),6
 ('duc', 'milan'),6
@@ -150,7 +151,6 @@ token_,count
 ('faire', 'guerre'),5
 ('parle', 'peuple'),5
 ('duc', 'bourgongne'),5
-('cy', 'deflus'),5
 ('certain', 'temps'),5
 ('puissance', 'loix'),5
 ('àla', 'charge'),5
@@ -230,7 +230,7 @@ token_,count
 ('faire', 'iuftice'),4
 ('prince', 'obligé'),4
 ('quand', 'dy'),4
-('deflus', 'princes'),4
+('dessus', 'princes'),4
 ('roy', 'defrance'),4
 ('roy', 'catholique'),4
 ('traité', 'alliance'),4

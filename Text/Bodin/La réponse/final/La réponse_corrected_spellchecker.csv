@@ -1,4 +1,4 @@
-Readability,84.02
+Readability,84.03
 ,
 word,count
 "&,",1
@@ -258,7 +258,6 @@ argentfin,1
 arget,1
 argets,1
 argumentauqu,1
-argét,1
 arichemét,1
 arien,1
 ariſtophane,1
@@ -312,12 +311,6 @@ auenues,1
 aueux,1
 aueuz,1
 auez,1
-aufsi,1
-aufsibien,1
-aufsieftil,1
-aufsiil,1
-aufsila,1
-aufsitrouuos,1
 auguſte,1
 auifez,1
 auignon,1
@@ -351,6 +344,11 @@ auroitbien,1
 auroyent,1
 auroyétbon,1
 aus,1
+aussibien,1
+aussieftil,1
+aussiil,1
+aussila,1
+aussitrouuos,1
 autat,1
 autrechofe,1
 autremét,1
@@ -645,9 +643,8 @@ chifré,1
 chil,1
 cho,1
 chofe,1
-chofes,1
-chofesil,1
 chois,1
+chosesil,1
 choſe,1
 choſes,1
 chreftiens,1
@@ -880,7 +877,7 @@ damas,1
 danemarch,1
 danrecs,1
 dante,1
-daufsi,1
+daussi,1
 dc,1
 dcro,1
 deb,1
@@ -910,7 +907,7 @@ deceux,1
 dechair,1
 dechet,1
 dechiquetu,1
-dechofes,1
+dechoses,1
 deci,1
 declarez,1
 decou,1
@@ -1209,8 +1206,6 @@ efcrits,1
 efcriuent,1
 efcu,1
 efcus,1
-efcuz,1
-efcuzau,1
 eff,1
 effay,1
 efforcet,1
@@ -1329,7 +1324,7 @@ emportegran,1
 emportoyent,1
 emyl,1
 ena,1
-enaaufsi,1
+enaaussi,1
 enauoir,1
 enauoit,1
 enauons,1
@@ -1397,6 +1392,8 @@ ere,1
 erofió,1
 eroit,1
 erád,1
+escuz,1
+escuzau,1
 etfionn,1
 ethio,1
 etnepuis,1
@@ -1733,7 +1730,6 @@ fouuerains,1
 fouuerais,1
 fouuét,1
 fouyr,1
-fouz,1
 foy,1
 foye,1
 foyent,1
@@ -2066,9 +2062,9 @@ intereft,1
 intole,1
 iofeph,1
 ioint,1
-iointaufsi,1
-iointaufsique,1
-ioitaufsi,1
+iointaussi,1
+iointaussique,1
+ioitaussi,1
 iouir,1
 iour,1
 iourd,1
@@ -2435,7 +2431,7 @@ miere,1
 mierement,1
 mift,1
 milcinq,1
-milefcuz,1
+milescuz,1
 miliars,1
 milions,1
 milliures,1
@@ -2801,7 +2797,7 @@ parlebillon,1
 parnozcouftu,1
 paroir,1
 parthes,1
-particaufsi,1
+particaussi,1
 particu,1
 particulieres,1
 partiele,1
@@ -3418,6 +3414,7 @@ siles,1
 sms,1
 so,1
 solidus,1
+souz,1
 ss,1
 stambol,1
 strabon,1
@@ -3813,7 +3810,7 @@ yabié,1
 yalent,1
 yaplus,1
 yatrois,1
-yauoitentrelesefcuz,1
+yauoitentrelesescuz,1
 yavn,1
 yfonttrompez,1
 yn,1
