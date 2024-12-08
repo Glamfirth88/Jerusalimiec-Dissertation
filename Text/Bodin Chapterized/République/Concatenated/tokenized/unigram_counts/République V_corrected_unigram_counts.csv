@@ -1,6 +1,6 @@
 token_,count
 ,12431
-bien,204
+bien,198
 peuple,115
 roy,111
 peuples,110
@@ -19,7 +19,6 @@ moyen,53
 biens,53
 moins,52
 faut,51
-és,47
 empereur,45
 ville,44
 entre,44
@@ -29,6 +28,7 @@ rien,43
 princes,42
 honneur,42
 paix,41
+septentrion,40
 mil,40
 ans,40
 villes,39
@@ -51,13 +51,12 @@ combien,34
 où,34
 quand,33
 tousjours,33
-neantmoins,32
 enfans,32
 naturel,31
 estats,31
-septentrion,31
 meridional,31
 deuant,31
+neantmoins,31
 dieu,31
 nombre,31
 nature,30
@@ -66,23 +65,24 @@ grande,30
 quelque,30
 temps,30
 mieux,30
+uns,30
 armes,30
 iamais,30
 vie,29
+doit,29
 cinquiesme,29
-vns,29
 ains,29
 republiques,28
 grands,28
 populaire,28
 afrique,28
 toute,28
-aufli,28
 contre,28
 ordre,28
 chofe,27
 lieux,27
 midy,27
+aufli,27
 capitaine,27
 lieu,26
 force,26
@@ -111,22 +111,21 @@ femmes,22
 loyers,22
 fin,21
 caufe,21
-toft,21
 pourquoy,21
-celte,21
 partie,21
 feroit,21
 peine,21
 eftoyent,21
 con,20
-charle,20
 prix,20
 murailles,20
 cefte,19
 quel,19
 bon,19
 monde,19
+charles,19
 duc,19
+seulement,19
 alliez,19
 quelques,18
 iufques,18
@@ -165,7 +164,6 @@ couftume,16
 bataille,16
 ennemi,16
 humeur,15
-doit,15
 orient,15
 vers,15
 froid,15
@@ -174,13 +172,11 @@ vray,15
 extreme,15
 homme,15
 foyent,15
-iuftice,15
+iustice,15
 auons,15
 firent,15
-feulement,15
 cinq,15
 lequel,15
-com,15
 nc,15
 voit,15
 part,15
@@ -191,10 +187,8 @@ heritages,15
 autruy,15
 filles,15
 prefque,14
-parlant,14
 euffent,14
 angleterre,14
-fept,14
 italie,14
 empire,14
 res,14
@@ -204,16 +198,18 @@ peuuent,14
 menu,14
 foy,14
 dix,14
-doibt,14
 fois,14
 jamais,14
+com,14
 files,14
 monarchie,14
 ordonnance,14
 fecours,14
 regions,13
+parlant,13
 corps,13
 yeux,13
+sept,13
 milieu,13
 almans,13
 difoit,13
@@ -221,7 +217,6 @@ cefar,13
 ceft,13
 vertueux,13
 faute,13
-fang,13
 mort,13
 almaigne,13
 cinquante,13
@@ -249,30 +244,31 @@ aage,12
 mains,12
 femble,12
 condamnez,12
-fouuent,12
+souvent,12
 laloy,12
-liures,12
 moyens,12
 voyant,12
 premier,12
-pauureté,12
+pauvreté,12
 riches,12
 eglife,12
 capitaines,12
 ennemy,12
 em,11
 mont,11
+septentrional,11
 ordinairement,11
 quarante,11
 gaulois,11
 lesautres,11
 parle,11
+sang,11
 exemple,11
 roys,11
 voleurs,11
 douze,11
 bons,11
-ciuiles,11
+civiles,11
 eftrangers,11
 faifoit,11
 vfure,11
@@ -293,8 +289,6 @@ ex,10
 hiftoires,10
 forces,10
 vi,10
-septentrional,10
-vaincus,10
 aller,10
 maisil,10
 face,10
@@ -311,10 +305,11 @@ crainte,10
 publiques,10
 pro,10
 voila,10
+dessus,10
 befoin,10
 file,10
 defendu,10
-ariftocratique,10
+aristocratique,10
 souverain,10
 particulier,9
 nobleffe,9
@@ -324,13 +319,12 @@ feigneurs,9
 propre,9
 occident,9
 homes,9
-septétrion,9
 noftre,9
 beftes,9
 grandeur,9
 efpaignols,9
 elles,9
-fit,9
+vaincus,9
 lifons,9
 iugement,9
 vnc,9
@@ -367,12 +361,11 @@ attendu,9
 pouuoit,9
 heritiers,9
 permis,9
-loüys,9
+louis,9
 receuoir,9
 faueur,9
 lefquels,9
 pourroit,9
-maiftre,9
 forme,8
 fair,8
 ayát,8
@@ -425,10 +418,10 @@ quil,8
 amis,8
 magistrats,8
 platon,8
-deffus,8
 voix,8
 amitié,8
 ancienne,8
+fit,8
 craindre,8
 fruits,8
 mauuais,8
@@ -440,6 +433,7 @@ entretenir,8
 finon,8
 confifcations,8
 pourra,8
+maiftre,8
 cheualiers,8
 finances,8
 chacune,7
@@ -454,6 +448,7 @@ meurs,7
 froideur,7
 region,7
 anciennement,7
+deseptentrion,7
 fortereffes,7
 tousles,7
 chaud,7
@@ -475,9 +470,8 @@ quela,7
 quin,7
 ble,7
 couftumes,7
-tite,7
 fix,7
-monftré,7
+monstré,7
 feul,7
 iuger,7
 deleur,7
@@ -546,7 +540,6 @@ difant,6
 extremitez,6
 voyons,6
 efpaignol,6
-bié,6
 charge,6
 cofté,6
 gés,6
@@ -582,7 +575,7 @@ monts,6
 rent,6
 nations,6
 particulieres,6
-aduis,6
+advis,6
 maintenir,6
 té,6
 petite,6
@@ -611,7 +604,7 @@ neceflaire,6
 quc,6
 fiefs,6
 edouart,6
-efcus,6
+escus,6
 payer,6
 auroit,6
 nobles,6
@@ -634,7 +627,7 @@ camp,6
 diuerfité,5
 naturelles,5
 feruir,5
-queftion,5
+question,5
 trouue,5
 é,5
 affez,5
@@ -661,7 +654,6 @@ repvblique,5
 histoires,5
 parthes,5
 mo,5
-deseptentrion,5
 chafteaux,5
 vaincu,5
 afie,5
@@ -675,11 +667,12 @@ mere,5
 labeur,5
 ena,5
 barbares,5
-ciuile,5
+civile,5
 mots,5
 traitté,5
 francois,5
 quis,5
+conseil,5
 tirer,5
 foudain,5
 remarqué,5
@@ -690,6 +683,7 @@ ho,5
 poffible,5
 felon,5
 cognoiftre,5
+toft,5
 vengeance,5
 foldats,5
 vifs,5
@@ -700,7 +694,6 @@ royaumes,5
 ple,5
 sujet,5
 venus,5
-liue,5
 dernier,5
 general,5
 clle,5
@@ -736,7 +729,6 @@ grád,5
 cheual,5
 prononcer,5
 cha,5
-quia,5
 pieds,5
 enuie,5
 ia,5
@@ -748,7 +740,7 @@ tel,5
 pauure,5
 puiffant,5
 donnant,5
-iuftes,5
+iustes,5
 poinét,5
 doubte,5
 quelqu,5
@@ -762,7 +754,7 @@ ui,5
 rs,5
 augufte,5
 mariage,5
-milliures,5
+millivres,5
 anjou,5
 leze,5
 amende,5
@@ -829,7 +821,7 @@ armec,4
 moyennes,4
 occultes,4
 difcourir,4
-celtes,4
+cestes,4
 arabes,4
 cust,4
 victoires,4
@@ -853,6 +845,7 @@ oü,4
 perdoient,4
 faifoient,4
 sauoye,4
+bié,4
 portes,4
 ic,4
 ambaffadeurs,4
@@ -949,6 +942,7 @@ falloir,4
 creanciers,4
 biés,4
 peuft,4
+tite,4
 troubles,4
 endebté,4
 deb,4
@@ -1004,7 +998,6 @@ fauuer,4
 ftoit,4
 delateurs,4
 frais,4
-seulement,4
 crime,4
 tyrannie,4
 dcl,4
@@ -1147,7 +1140,6 @@ af,3
 employé,3
 tiens,3
 refolu,3
-conseil,3
 debuoit,3
 ence,3
 faites,3
@@ -1196,7 +1188,6 @@ prouifion,3
 langues,3
 maladie,3
 mufique,3
-reduit,3
 aduient,3
 diuers,3
 allez,3
@@ -1217,7 +1208,7 @@ leplus,3
 bonté,3
 mefchant,3
 qualitez,3
-gouuernement,3
+gouvernement,3
 efpee,3
 chaffe,3
 mettant,3
@@ -1306,6 +1297,7 @@ ceftuy,3
 desloix,3
 climats,3
 colonie,3
+charle,3
 tellemét,3
 dira,3
 voifins,3
@@ -1364,7 +1356,7 @@ vendre,3
 efperance,3
 vieux,3
 quitte,3
-iniufte,3
+iniuste,3
 vfoient,3
 efcu,3
 rendre,3
@@ -1395,7 +1387,6 @@ cé,3
 defendoit,3
 spartiates,3
 monne,3
-demembrees,3
 maisons,3
 fondee,3
 colleges,3
@@ -1733,7 +1724,6 @@ infiny,2
 auecla,2
 plusou,2
 accordent,2
-deseptétrion,2
 departent,2
 scythes,2
 iuftin,2
@@ -1796,6 +1786,7 @@ mel,2
 parlé,2
 rire,2
 faint,2
+reduit,2
 principe,2
 malins,2
 saül,2
@@ -1841,6 +1832,7 @@ portoit,2
 efbahir,2
 fuger,2
 loüé,2
+versleseptentrion,2
 liure,2
 pratiqué,2
 metoyen,2
@@ -1951,7 +1943,6 @@ blancs,2
 longue,2
 nefaut,2
 gaftent,2
-confeil,2
 changent,2
 ambitieux,2
 tienne,2
@@ -2051,6 +2042,7 @@ voyans,2
 plusils,2
 debteur,2
 fucce,2
+fang,2
 appellant,2
 ets,2
 fource,2
@@ -2064,6 +2056,7 @@ ottroya,2
 quelaloy,2
 leroy,2
 agis,2
+liue,2
 dendam,2
 fiance,2
 tage,2
@@ -2073,7 +2066,7 @@ edition,2
 hayne,2
 capitales,2
 egaux,2
-guerresciuiles,2
+guerresciviles,2
 occafions,2
 hippodamus,2
 ferme,2
@@ -2140,7 +2133,6 @@ cult,2
 charté,2
 payfans,2
 centen,2
-charles,2
 intereft,2
 payfan,2
 ure,2
@@ -2196,6 +2188,7 @@ tables,2
 occa,2
 ignorance,2
 tement,2
+demembrees,2
 repub,2
 pourroyent,2
 groffes,2
@@ -2240,7 +2233,6 @@ bail,2
 cou,2
 vandofme,2
 duché,2
-dessus,2
 ægyptiens,2
 chaf,2
 lessujets,2
@@ -2387,7 +2379,7 @@ difficultez,2
 ftoient,2
 marignan,2
 íc,2
-paffer,2
+passer,2
 leuer,2
 quien,2
 condition,2
@@ -2443,6 +2435,7 @@ lyfandre,2
 demanda,2
 ilsfont,2
 gra,2
+quia,2
 ombre,2
 pouruoir,2
 puiffent,2
@@ -2626,7 +2619,7 @@ nances,1
 cfforcant,1
 cdits,1
 troublé,1
-fouuentruiné,1
+souventruiné,1
 coutesfois,1
 traiété,1
 voyonsentoutes,1
@@ -2896,7 +2889,6 @@ eh,1
 euapore,1
 ainsicit,1
 ildes,1
-septétrional,1
 uiont,1
 veheméte,1
 deuorér,1
@@ -2906,7 +2898,7 @@ meridionalau,1
 vigoureufes,1
 gail,1
 lardes,1
-pafferét,1
+passerét,1
 almai,1
 gnefoubsl,1
 empereür,1
@@ -2930,11 +2922,12 @@ alengoris,1
 ten,1
 prouence,1
 quileseuft,1
+bientostfit,1
 quád,1
 euf,1
 cómeil,1
 ranfquenets,1
-pafferent,1
+passerent,1
 códui,1
 tede,1
 fronfperg,1
@@ -3012,7 +3005,7 @@ ruzes,1
 àcom,1
 mander,1
 gouuernerles,1
-plusiuftes,1
+plusiustes,1
 adions,1
 préd,1
 grandesarmecs,1
@@ -3151,6 +3144,7 @@ fontla,1
 ardemment,1
 exterieure,1
 plongent,1
+fitost,1
 forty,1
 ep,1
 vb,1
@@ -3169,6 +3163,7 @@ plombin,1
 deuxarmees,1
 combatirentà,1
 gerté,1
+bientostvaincus,1
 ditpolybe,1
 parerles,1
 penfoit,1
@@ -3205,7 +3200,7 @@ quiontles,1
 affections,1
 ameimmoderces,1
 delatemperature,1
-feulementau,1
+seulementau,1
 lequa,1
 teur,1
 entrel,1
@@ -3247,7 +3242,7 @@ efpaïgnols,1
 meme,1
 ilsappelloient,1
 pænos,1
-fouuentabufé,1
+souventabufé,1
 rompu,1
 dexterité,1
 columelle,1
@@ -3271,7 +3266,7 @@ ansauec,1
 ouils,1
 feroitlong,1
 prendray,1
-feulementle,1
+seulementle,1
 cambrefis,1
 onne,1
 peat,1
@@ -3472,6 +3467,7 @@ cherea,1
 misa,1
 archers,1
 lesanciés,1
+és,1
 thucidide,1
 olorus,1
 trefcruelle,1
@@ -3655,6 +3651,7 @@ prophetizer,1
 entonner,1
 vninftrument,1
 presence,1
+fitostque,1
 rencontré,1
 troupe,1
 prophetes,1
@@ -3702,6 +3699,7 @@ scorpion,1
 adiouftant,1
 fii,1
 adoroit,1
+titeliveparlant,1
 eftoitle,1
 detousles,1
 ante,1
@@ -3911,6 +3909,7 @@ efpritaux,1
 quiaytlecorps,1
 difpofé,1
 fprit,1
+titeliveayant,1
 heroiques,1
 accompaignecs,1
 treígrands,1
@@ -3920,7 +3919,6 @@ fefontabuzez,1
 integrité,1
 scytes,1
 pepe,1
-versleseptentrion,1
 carceluy,1
 onté,1
 peuteftre,1
@@ -4091,6 +4089,7 @@ occiden,1
 ales,1
 defcouuert,1
 adoroyent,1
+bientostelle,1
 perdroit,1
 eclypfer,1
 curent,1
@@ -4134,6 +4133,7 @@ gouuerner,1
 vfitees,1
 gions,1
 ruineroit,1
+bientostleur,1
 accouftumer,1
 doiries,1
 empefché,1
@@ -4227,13 +4227,13 @@ aétions,1
 hu,1
 maines,1
 ployeren,1
-fesaduis,1
+fesadvis,1
 diffimuler,1
 lafatigue,1
 sennuye,1
 bier,1
 desaffaires,1
-fouuentil,1
+souventil,1
 quifontambitieux,1
 courtisans,1
 aduintaux,1
@@ -4380,7 +4380,7 @@ reflagement,1
 couchent,1
 rapportent,1
 entendus,1
-leuraduis,1
+leuradvis,1
 aifementfe,1
 estiment,1
 editions,1
@@ -4429,7 +4429,7 @@ norucge,1
 electifs,1
 cognoiftauffi,1
 motaignes,1
-bienfouuent,1
+biensouvent,1
 nci,1
 glaces,1
 plusieurslicux,1
@@ -4469,7 +4469,7 @@ naturcllementfor,1
 tifiez,1
 peutappriuoi,1
 feraifement,1
-doibtferuir,1
+doitferuir,1
 depourquoy,1
 athencs,1
 demandoyentl,1
@@ -4564,6 +4564,7 @@ humeuraux,1
 motaignars,1
 fertilité,1
 cicl,1
+titelive,1
 fertile,1
 rendleshom,1
 fobres,1
@@ -4783,7 +4784,7 @@ lavertu,1
 laelbvbleove,1
 pasm,1
 uables,1
-leursaduis,1
+leursadvis,1
 comele,1
 cantarreftez,1
 renuerfer,1
@@ -4794,7 +4795,6 @@ otdinairemetfans,1
 gneu,1
 normasiflus,1
 encor,1
-versleseptétrion,1
 quat,1
 mofcouites,1
 natió,1
@@ -4967,7 +4967,7 @@ peur,1
 ontpretendu,1
 epvelique,1
 taffent,1
-fouuentautre,1
+souventautre,1
 acheptoiét,1
 cequ,1
 efpargner,1
@@ -4991,7 +4991,7 @@ eftoientchargez,1
 aquittoient,1
 appellent,1
 morfa,1
-feulementronge,1
+seulementronge,1
 mouëlle,1
 mul,1
 tipliez,1
@@ -5109,7 +5109,7 @@ euerfion,1
 éftatcar,1
 generales,1
 nuisent,1
-fouuentaux,1
+souventaux,1
 ruinent,1
 vefucs,1
 orphelins,1
@@ -5143,7 +5143,7 @@ efgal,1
 poffeffions,1
 loyale,1
 efcheute,1
-iuftemétacquifes,1
+iustemétacquifes,1
 tend,1
 fucceflionsle,1
 biimes,1
@@ -5379,7 +5379,7 @@ debordee,1
 centre,1
 chreftiés,1
 hofpitaux,1
-vnsauffi,1
+unsauffi,1
 quiplus,1
 enfraindrelaloy,1
 contreuenir,1
@@ -5644,6 +5644,7 @@ fetrouua,1
 aumofnes,1
 cafuelles,1
 alemant,1
+fept,1
 fontemployez,1
 dôné,1
 tou,1
@@ -5881,6 +5882,7 @@ pâuures,1
 egalecsau,1
 mallesen,1
 fucceffi,1
+bientostdemembrees,1
 cari,1
 yaordinairement,1
 neral,1
@@ -5967,7 +5969,7 @@ elizabet,1
 lippelebel,1
 marice,1
 eutelle,1
-liuresen,1
+livresen,1
 veulararitéd,1
 maisauffi,1
 etfi,1
@@ -6080,7 +6082,7 @@ ftrer,1
 receuë,1
 pra,1
 tiquee,1
-trefiufte,1
+trefiuste,1
 àfçauoir,1
 premierchef,1
 donnance,1
@@ -6089,7 +6091,7 @@ loic,1
 donances,1
 reparation,1
 fautes,1
-doibteftre,1
+doiteftre,1
 payeeau,1
 offenfé,1
 carau,1
@@ -6166,7 +6168,7 @@ foufreteux,1
 enfrainte,1
 pointauxenfans,1
 yapoint,1
-iuftementles,1
+iustementles,1
 reauffi,1
 defpoüillez,1
 induitsà,1
@@ -6524,7 +6526,7 @@ comparai,1
 fonplus,1
 ofts,1
 tutelles,1
-debourgeoifie,1
+debourgeoisie,1
 delegitimation,1
 denoble,1
 dommagea,1
@@ -6536,7 +6538,7 @@ sale,1
 ettout,1
 diverses,1
 differenteen,1
-ariftocratiques,1
+aristocratiques,1
 honnora,1
 proffitables,1
 cherche,1
@@ -7437,7 +7439,7 @@ renuerfé,1
 biencertain,1
 védentauffila,1
 chofela,1
-eftlaiuftice,1
+eftlaiustice,1
 vendét,1
 fogesi,1
 oftantles,1
@@ -7445,12 +7447,12 @@ fauoir,1
 ouurentles,1
 latcins,1
 cuffions,1
-iniuftice,1
+iniustice,1
 impitié,1
 lefaire,1
 ordures,1
 excuse,1
-àpauureté,1
+àpauvreté,1
 aexcufe,1
 dechercherla,1
 pretendre,1
@@ -7545,6 +7547,7 @@ auát,1
 rempliranon,1
 donneralachaffe,1
 delafelicité,1
+bientostil,1
 aquitera,1
 conferuera,1
 ones,1
@@ -7577,7 +7580,7 @@ fustappofce,1
 apris,1
 potte,1
 quetout,1
-cencliures,1
+cenclivres,1
 veri,1
 fee,1
 hardience,1
@@ -7606,7 +7609,6 @@ contenter,1
 contrecarre,1
 dóner,1
 impor,1
-uns,1
 aril,1
 yen,1
 mefmesreceuoir,1
@@ -7697,7 +7699,7 @@ pomme,1
 orentreles,1
 ruiner,1
 ébdomébhres,1
-bienfouuentfcruinenten,1
+biensouventfcruinenten,1
 tuent,1
 sic,1
 etaulieu,1
@@ -7865,7 +7867,7 @@ toutesfoisla,1
 refoluti,1
 ages,1
 fimplement,1
-ledoibt,1
+ledoit,1
 afficte,1
 commode,1
 fortir,1
@@ -7938,10 +7940,12 @@ closes,1
 ouuertes,1
 filoing,1
 nitiens,1
+auffitostmaiftre,1
 commeiladuint,1
 rcil,1
 milanois,1
 rendirent,1
+fitostqu,1
 àpa,1
 entrant,1
 plusfort,1
@@ -8180,7 +8184,7 @@ ind,1
 ide,1
 desire,1
 eftjil,1
-bourgeoifie,1
+bourgeoisie,1
 bourgeois,1
 ileftau,1
 hautlieu,1
@@ -8268,6 +8272,7 @@ sclafie,1
 fuyren,1
 énemi,1
 entra,1
+auflitosten,1
 raler,1
 pericles,1
 baítir,1
@@ -8300,7 +8305,7 @@ afficger,1
 petitefor,1
 terefle,1
 cnauons,1
-fouuentceux,1
+souventceux,1
 quiafliegent,1
 fetrou,1
 peftes,1
@@ -8370,6 +8375,7 @@ quatriefme,1
 ioué,1
 boute,1
 demeura,1
+neantmoinstostapres,1
 gloceftre,1
 richemont,1
 nale,1
@@ -8383,7 +8389,7 @@ campoyent,1
 tranchees,1
 entour,1
 delargeur,1
-fouuentauec,1
+souventauec,1
 liffades,1
 donnoyent,1
 enleur,1
@@ -8415,7 +8421,7 @@ defenfiues,1
 rembarrer,1
 chans,1
 mcefchans,1
-iniuftement,1
+iniustement,1
 rauiflent,1
 confiderations,1
 garentir,1
@@ -8487,6 +8493,7 @@ euffions,1
 excm,1
 impollible,1
 sls,1
+auffitostcom,1
 mancoyentils,1
 mutiner,1
 futcaufe,1
@@ -8586,6 +8593,7 @@ obeiffans,1
 nonalors,1
 ortes,1
 derome,1
+tostapres,1
 uelle,1
 commancerent,1
 laissa,1
@@ -8703,7 +8711,7 @@ vnderuald,1
 glaris,1
 penzel,1
 gouuernees,1
-ariftocratiquement,1
+aristocratiquement,1
 nousferons,1
 compaignons,1
 àlvn,1
@@ -8785,7 +8793,7 @@ exéples,1
 colt,1
 cauferont,1
 ferot,1
-expofez,1
+biétostexpofez,1
 àleurs,1
 fontalliez,1
 oubien,1
@@ -8920,7 +8928,7 @@ fentoitfes,1
 fezgrandes,1
 malfeante,1
 princcfoible,1
-quidoibt,1
+quidoit,1
 pilote,1
 calerles,1
 voiles,1
@@ -8964,6 +8972,7 @@ tart,1
 mefi,1
 onluy,1
 donnelaloy,1
+biétostreduit,1
 fint,1
 demandera,1
 sujette,1
@@ -9192,7 +9201,7 @@ fauue,1
 nemettoitrien,1
 iru,1
 haduinrquedix,1
-lesvns,1
+lesuns,1
 difentplus,1
 lesauttes,1
 dcfirent,1
@@ -9271,7 +9280,7 @@ debou,1
 rez,1
 bourgcoilie,1
 licenciez,1
-iufte,1
+iuste,1
 premierementils,1
 harcelez,1
 affaillis,1
@@ -9598,7 +9607,7 @@ ordonee,1
 auenues,1
 affeurce,1
 gésadroits,1
-otroyezàviefeulement,1
+otroyezàvieseulement,1
 eftoientancien,1
 nement,1
 feudataires,1

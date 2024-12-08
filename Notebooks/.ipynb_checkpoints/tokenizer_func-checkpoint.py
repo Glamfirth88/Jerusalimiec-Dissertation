@@ -45,8 +45,9 @@ def convert_tuple_bigrams(tuples_to_convert):
     for tuple_grams in tuples_to_convert:
         first_word = tuple_grams[0]
         second_word = tuple_grams[1]
-        gram_string = f'{first_word} {second_word}'
-        string_grams.append(gram_string)
+        if first_word and second_word:
+            gram_string = f'{first_word} {second_word}'
+            string_grams.append(gram_string)
     return string_grams
 
 def convert_tuple_trigrams(tuples_to_convert):
@@ -58,6 +59,7 @@ def convert_tuple_trigrams(tuples_to_convert):
         first_word = tuple_grams[0]
         second_word = tuple_grams[1]
         third_word = tuple_grams[2]
-        gram_string = f'{first_word} {second_word} {third_word}'
-        string_grams.append(gram_string)
+        if first_word and second_word and third_word:
+            gram_string = f'{first_word} {second_word} {third_word}'
+            string_grams.append(gram_string)
     return string_grams
