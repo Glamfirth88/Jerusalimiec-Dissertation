@@ -1,4 +1,4 @@
-Readability,84.04
+Readability,83.94
 ,
 word,count
 "&,",1
@@ -419,6 +419,7 @@ beure,1
 bho,1
 bie,1
 billon,1
+billonsanshauffer,1
 bills,1
 bié,1
 biéen,1
@@ -473,6 +474,7 @@ bt,1
 bts,1
 budé,1
 budéa,1
+budésansy,1
 bufetz,1
 butinerét,1
 báquet,1
@@ -493,6 +495,8 @@ candace,1
 capi,1
 capnoe,1
 caratz,1
+caratzsansreme,1
+caratzsansremede,1
 carauáne,1
 card,1
 carefme,1
@@ -651,6 +655,7 @@ chreftiens,1
 chäcelier,1
 chäpaigne,1
 ché,1
+chésansrien,1
 cicero,1
 ciceron,1
 ciennemét,1
@@ -659,7 +664,7 @@ ciens,1
 cin,1
 cinqua,1
 cinquantebillon,1
-cinquanteliures,1
+cinquantelivres,1
 cinquiefmes,1
 cinquáte,1
 cinquátecinq,1
@@ -733,7 +738,6 @@ commerecite,1
 commevn,1
 commeà,1
 communceftimation,1
-compa,1
 comun,1
 conchenil,1
 conclufon,1
@@ -779,7 +783,6 @@ conſeiller,1
 conſequent,1
 conſiderable,1
 conſume,1
-coparaifon,1
 cores,1
 cornadiz,1
 corrigees,1
@@ -875,7 +878,7 @@ damaf,1
 damafque,1
 damas,1
 danemarch,1
-danrecs,1
+danrecssansperte,1
 dante,1
 daussi,1
 dc,1
@@ -1000,7 +1003,7 @@ deleursbiens,1
 deliberc,1
 deliberté,1
 delicatz,1
-delis,1
+delissansnombre,1
 deloire,1
 deloy,1
 dement,1
@@ -1011,6 +1014,8 @@ demou,1
 demy,1
 demye,1
 den,1
+denierssansaucune,1
+denierssansremede,1
 denoftre,1
 denouueaux,1
 denozbiens,1
@@ -1054,7 +1059,7 @@ det,1
 detail,1
 detant,1
 detelleconfequence,1
-detellemonnoye,1
+detellemonnoyesansargent,1
 detellemonoye,1
 detelles,1
 deterres,1
@@ -1352,6 +1357,7 @@ enont,1
 enrichiroit,1
 enrichiroitleroyaum,1
 ent,1
+entiersanslaine,1
 entoutel,1
 entreautres,1
 entreautresil,1
@@ -1399,6 +1405,7 @@ ethio,1
 etnepuis,1
 eto,1
 etrouua,1
+etsanscercher,1
 età,1
 euangi,1
 euantee,1
@@ -1746,7 +1753,7 @@ francois,1
 francons,1
 francz,1
 françois,1
-frequentes,1
+frequentessanscompa,1
 frian,1
 friandi,1
 friant,1
@@ -2126,7 +2133,7 @@ laiflant,1
 laille,1
 laiournee,1
 laiſſant,1
-laliure,1
+lalivre,1
 lalon,1
 laloy,1
 lam,1
@@ -2230,9 +2237,7 @@ limoneufe,1
 limoufin,1
 liquefiees,1
 liue,1
-liure,1
-liures,1
-liureä,1
+livreä,1
 liétz,1
 ll,1
 llralie,1
@@ -2434,7 +2439,7 @@ milcinq,1
 milescus,1
 miliars,1
 milions,1
-milliures,1
+millivres,1
 milrais,1
 miltrois,1
 mincion,1
@@ -2716,6 +2721,7 @@ ontefté,1
 onten,1
 onteu,1
 ontiamais,1
+ontsanscom,1
 onttoufiours,1
 onttoufours,1
 oo,1
@@ -2801,6 +2807,7 @@ particaussi,1
 particu,1
 particulieres,1
 partiele,1
+partiessanspropos,1
 pasiuger,1
 pasla,1
 paslebillon,1
@@ -2962,6 +2969,7 @@ poi,1
 poif,1
 poiffon,1
 poiffons,1
+poiffonsanseau,1
 poiflon,1
 poiflons,1
 poillon,1
@@ -3108,6 +3116,7 @@ punais,1
 punique,1
 puren,1
 purgation,1
+pursans,1
 putez,1
 pyrenees,1
 péfent,1
@@ -3206,7 +3215,7 @@ quimefla,1
 quin,1
 quine,1
 quinquallerie,1
-quinzeliures,1
+quinzelivres,1
 quionteftéaliences,1
 quirecerchera,1
 quite,1
@@ -3292,7 +3301,6 @@ relle,1
 relles,1
 rem,1
 remberg,1
-reme,1
 remede,1
 remedier,1
 rement,1
@@ -3378,6 +3386,7 @@ roy,1
 royau,1
 royne,1
 roys,1
+roysans,1
 roſe,1
 rr,1
 rre,1
@@ -3393,6 +3402,11 @@ réuoya,1
 s,1
 saba,1
 saladin,1
+sansfeu,1
+sansla,1
+sanslefquelles,1
+sansque,1
+sanstoucher,1
 sarafins,1
 scatophages,1
 sci,1
@@ -3469,6 +3483,7 @@ thode,1
 ti,1
 tibere,1
 tienent,1
+tierssansaucun,1
 tieufes,1
 tilité,1
 timation,1
@@ -3552,7 +3567,7 @@ tro,1
 troi,1
 troif,1
 troifiefme,1
-troisliures,1
+troislivres,1
 trouua,1
 trouucra,1
 trouucrons,1
@@ -3572,6 +3587,7 @@ trouuósaux,1
 troye,1
 troyeen,1
 tréte,1
+tsanscoparaifon,1
 ttt,1
 turcau,1
 turelleppourueu,1
@@ -3733,7 +3749,7 @@ vnegrace,1
 vneimpofture,1
 vneinfinité,1
 vneiniurefaiteà,1
-vneliure,1
+vnelivre,1
 vnelourde,1
 vneobie,1
 vneterre,1
@@ -3837,7 +3853,7 @@ zons,1
 àl,1
 àla,1
 àlacadene,1
-àlaliure,1
+àlalivre,1
 àlalongue,1
 às,1
 àtou,1

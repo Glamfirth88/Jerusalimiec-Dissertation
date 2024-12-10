@@ -1,12 +1,12 @@
 token_,count
-('tite', 'liue'),45
-('guerres', 'ciuiles'),43
+('guerres', 'civiles'),44
 ('lettres', 'patentes'),25
+('tite', 'liue'),24
 ('deflors', 'auant'),18
 ('grecs', 'latins'),16
 ('marc', 'antoine'),16
 ('hautes', 'planettes'),16
-('voix', 'deliberatiue'),15
+('voix', 'deliberative'),15
 ('philippe', 'valois'),14
 ('dira', 'quelqu'),13
 ('proportion', 'geometrique'),13
@@ -19,7 +19,7 @@ token_,count
 ('leon', 'afrique'),10
 ('di', 'ateur'),10
 ('difcipline', 'militaire'),10
-('cours', 'fouueraines'),9
+('cours', 'souveraines'),9
 ('attaint', 'conuaincu'),9
 ('caton', 'cenfeur'),8
 ('thomas', 'more'),8
@@ -77,7 +77,8 @@ token_,count
 ('pro', 'portion'),6
 ('huet', 'capet'),6
 ('art', 'militaire'),6
-('pauureté', 'extreme'),6
+('pauvreté', 'extreme'),6
+('maniement', 'affaires'),5
 ('con', 'traint'),5
 ('fource', 'origine'),5
 ('puif', 'fance'),5
@@ -115,6 +116,7 @@ token_,count
 ('rotu', 'riers'),5
 ('deleze', 'maicfté'),5
 ('touf', 'jours'),5
+('ditcy', 'dessus'),5
 ('parlement', 'bourdeaux'),5
 ('cap', 'cü'),5
 ('mife', 'recepte'),5
@@ -123,7 +125,6 @@ token_,count
 ('veuë', 'œil'),5
 ('mai', 'fons'),5
 ('mont', 'atlas'),5
-('maniment', 'affaires'),4
 ('nousen', 'auons'),4
 ('lare', 'publique'),4
 ('per', 'petuel'),4
@@ -153,7 +154,7 @@ token_,count
 ('proches', 'parens'),4
 ('infinité', 'exemples'),4
 ('ayde', 'fecours'),4
-('cours', 'fouucraines'),4
+('cours', 'souverianes'),4
 ('pri', 'fonnier'),4
 ('fouuc', 'raineté'),4
 ('capitai', 'nes'),4
@@ -172,7 +173,7 @@ token_,count
 ('prin', 'cipal'),4
 ('fouuc', 'rain'),4
 ('franche', 'condition'),4
-('laires', 'ariftocratiques'),4
+('laires', 'aristocratiques'),4
 ('medois', 'perfans'),4
 ('maniere', 'prouifion'),4
 ('impof', 'fible'),4
@@ -210,7 +211,6 @@ token_,count
 ('priuile', 'ges'),4
 ('mar', 'chans'),4
 ('col', 'lege'),4
-('ditcy', 'deffus'),4
 ('por', 'ter'),4
 ('sultans', 'egypte'),4
 ('beftes', 'fauuages'),4
@@ -280,7 +280,7 @@ token_,count
 ('na', 'turel'),3
 ('vain', 'cus'),3
 ('ia', 'coit'),3
-('loüysle', 'piteux'),3
+('louisle', 'piteux'),3
 ('li', 'berté'),3
 ('abbé', 'palerme'),3
 ('fansle', 'confentement'),3
@@ -295,7 +295,7 @@ token_,count
 ('bour', 'gcois'),3
 ('colonies', 'romaines'),3
 ('defaux', 'contumaces'),3
-('bourgeoifie', 'romaine'),3
+('bourgeoisie', 'romaine'),3
 ('donc', 'conclurre'),3
 ('traitant', 'alliance'),3
 ('cornelius', 'balbus'),3
@@ -309,7 +309,6 @@ token_,count
 ('pre', 'rogatiue'),3
 ('eau', 'froide'),3
 ('cantons', 'proteftans'),3
-('reffort', 'souveraineté'),3
 ('voix', 'dcliberatiue'),3
 ('prime', 'face'),3
 ('tite', 'live'),3
@@ -363,7 +362,7 @@ token_,count
 ('voulut', 'preferer'),3
 ('maniemét', 'affaires'),3
 ('reuoqué', 'doubte'),3
-('uons', 'monftré'),3
+('uons', 'monstré'),3
 ('denys', 'halycarnas'),3
 ('generales', 'particulieres'),3
 ('fim', 'ple'),3
@@ -378,6 +377,7 @@ token_,count
 ('lacede', 'mone'),3
 ('prouinces', 'gouuernemens'),3
 ('arifto', 'cratie'),3
+('sang', 'hercules'),3
 ('gouuerné', 'populairement'),3
 ('monarque', 'seigneurial'),3
 ('tien', 'nent'),3
@@ -394,7 +394,7 @@ token_,count
 ('celas', 'entend'),3
 ('pu', 'blic'),3
 ('ar', 'reft'),3
-('iuftes', 'royautez'),3
+('iustes', 'royautez'),3
 ('ariftocra', 'tie'),3
 ('demeu', 'rent'),3
 ('iuges', 'criminels'),3
@@ -403,7 +403,6 @@ token_,count
 ('furnomméle', 'fage'),3
 ('beaux', 'exploits'),3
 ('populaires', 'riftocratiques'),3
-('ad', 'senatum'),3
 ('traian', 'adrian'),3
 ('fei', 'gneurie'),3
 ('mois', 'nouembre'),3
@@ -425,6 +424,7 @@ token_,count
 ('reuoquec', 'doubte'),3
 ('he', 'ritiers'),3
 ('hon', 'neurs'),3
+('prefidens', 'conseillers'),3
 ('laiz', 'teftamentaires'),3
 ('col', 'leges'),3
 ('io', 'andr'),3
