@@ -53,7 +53,7 @@ token_,count
 ('toutes', 'fois', 'grand'),4
 ('bon', 'tres', 'grand'),4
 ('fur', 'aucune', 'raifon'),4
-('mefme', 'corps', 'naturel'),4
+('mesme', 'corps', 'naturel'),4
 ('rien', 'plus', 'moins'),4
 ('fans', 'toutes', 'fois'),4
 ('grand', 'peine', 'peut'),4
@@ -61,7 +61,7 @@ token_,count
 ('beau', 'coup', 'plus'),4
 ('foit', 'autre', 'chose'),4
 ('plus', 'grand', 'difficulté'),4
-('voire', 'mefme', 'elles'),4
+('voire', 'mesme', 'elles'),4
 ('chaud', 'froid', 'fec'),4
 ('quelque', 'chose', 'foit'),4
 ('trois', 'cents', 'soixante'),4
@@ -73,7 +73,7 @@ token_,count
 ('doit', 'non', 'plus'),4
 ('entre', 'tous', 'autres'),4
 ('plus', 'grands', 'plus'),4
-('tant', 'plus', 'auffi'),4
+('tant', 'plus', 'aussi'),4
 ('th', 'où', 'vient'),4
 ('où', 'vient', 'doncques'),4
 ('froid', 'fec', 'humide'),4
@@ -105,7 +105,7 @@ token_,count
 ('commune', 'toutes', 'choses'),3
 ('moyenne', 'region', 'air'),3
 ('peut', 'grand', 'peine'),3
-('foy', 'mefme', 'puis'),3
+('foy', 'mesme', 'puis'),3
 ('chacun', 'corps', 'naturel'),3
 ('autant', 'peut', 'iuger'),3
 ('tous', 'deux', 'ensemble'),3
@@ -125,7 +125,7 @@ token_,count
 ('comme', 'peut', 'vcoir'),3
 ('lequel', 'combien', 'foit'),3
 ('voilà', 'où', 'vient'),3
-('auffi', 'quelques', 'fois'),3
+('aussi', 'quelques', 'fois'),3
 ('terre', 'comme', 'proportion'),3
 ('dia', 'metre', 'terre'),3
 ('diuife', 'plus', 'grand'),3

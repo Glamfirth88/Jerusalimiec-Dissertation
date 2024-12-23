@@ -1,4 +1,4 @@
-Readability,73.07
+Readability,73.1
 ,
 word,count
 $^,1
@@ -118,12 +118,12 @@ cd,1
 ce,1
 cecy,1
 cefsió,1
-cefte,1
 cela,1
 celte,1
 cens,1
 certainement,1
 ces,1
+ceste,1
 cet,1
 ceu,1
 ceux,1
@@ -276,8 +276,6 @@ efprit,1
 eftably,1
 eftans,1
 eftant,1
-eftat,1
-eftats,1
 eftois,1
 eftoit,1
 eftre,1
@@ -309,6 +307,8 @@ enuie,1
 enuoyez,1
 eptil,1
 esbahira,1
+estat,1
+estats,1
 eu,1
 euft,1
 eulement,1
@@ -522,13 +522,12 @@ loys,1
 luy,1
 maffacre,1
 maffacres,1
-maifon,1
-maifonarresle,1
 maiftres,1
 mainte,1
 maintenant,1
 mais,1
 maison,1
+maisonarresle,1
 maiſon,1
 mal,1
 malheureufemét,1
@@ -820,9 +819,9 @@ tresgrá,1
 triénale,1
 troifiefme,1
 trorsiours,1
-trouue,1
-trouuerez,1
 trouué,1
+trouve,1
+trouverez,1
 truy,1
 tráf,1
 tráfportez,1

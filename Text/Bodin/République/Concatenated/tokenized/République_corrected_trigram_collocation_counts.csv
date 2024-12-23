@@ -26,7 +26,7 @@ token_,count
 ('plus', 'grands', 'magistrats'),8
 ('tant', 'foit', 'peu'),7
 ('plus', 'haut', 'point'),7
-('ferons', 'mefme', 'iugement'),7
+('ferons', 'mesme', 'iugement'),7
 ('traité', 'fait', 'entre'),7
 ('remarqué', 'cy', 'dessus'),7
 ('fans', 'aller', 'plus'),7
@@ -157,7 +157,7 @@ token_,count
 ('anciens', 'grecs', 'latins'),4
 ('republiques', 'populaires', 'aristocratiques'),4
 ('tous', 'autres', 'magistrats'),4
-('auffi', 'peut', 'dire'),4
+('aussi', 'peut', 'dire'),4
 ('comme', 'difoit', 'ancien'),4
 ('quoy', 'plusieurs', 'abufent'),4
 ('in', 'cap', 'cü'),4
@@ -273,7 +273,7 @@ token_,count
 ('etpour', 'ceste', 'cause'),3
 ('homme', 'lige', 'pape'),3
 ('an', 'cc', 'cx'),3
-('comme', 'auffi', 'firent'),3
+('comme', 'aussi', 'firent'),3
 ('fes', 'lettres', 'patentes'),3
 ('quele', 'roy', 'françois'),3
 ('plus', 'dignes', 'perfonnages'),3
@@ -283,7 +283,7 @@ token_,count
 ('bien', 'certain', 'queles'),3
 ('grands', 'maires', 'palais'),3
 ('peut', 'voir', 'apres'),3
-('loy', 'dieu', 'mefmes'),3
+('loy', 'dieu', 'mesmes'),3
 ('cela', 'fift', 'loy'),3
 ('puissance', 'souveraine', 'comme'),3
 ('comme', 'ila', 'efté'),3
@@ -371,9 +371,9 @@ token_,count
 ('ans', 'apres', 'creation'),3
 ('guer', 'res', 'civiles'),3
 ('an', 'deux', 'cens'),3
-('quafi', 'mefme', 'temps'),3
+('quafi', 'mesme', 'temps'),3
 ('monde', 'iufques', 'an'),3
-('fift', 'mefme', 'figne'),3
+('fift', 'mesme', 'figne'),3
 ('tre', 'roy', 'france'),3
 ('iour', 'mois', 'an'),3
 ('héry', 'roy', 'suede'),3
@@ -385,7 +385,7 @@ token_,count
 ('celà', 'merite', 'point'),3
 ('fait', 'parcy', 'deuant'),3
 ('beaucoup', 'moins', 'bien'),3
-('mefme', 'nombre', 'parfait'),3
+('mesme', 'nombre', 'parfait'),3
 ('an', 'ciés', 'gaulois'),3
 ('fondation', 'rome', 'iufques'),3
 ('deux', 'cens', 'quarante'),3
@@ -399,7 +399,7 @@ token_,count
 ('quelque', 'prix', 'cefoit'),3
 ('tout', 'ainsi', 'quel'),3
 ('comme', 'dit', 'tacite'),3
-('auffi', 'peut', 'faire'),3
+('aussi', 'peut', 'faire'),3
 ('cent', 'cinquante', 'ans'),3
 ('plus', 'mefchans', 'hommes'),3
 ('plus', 'grande', 'peuples'),3
