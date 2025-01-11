@@ -1462,9 +1462,9 @@ pro cureur général,1
 cureur général chancellerie,1
 général chancellerie vierg,1
 chancellerie vierg cité,1
-vierg cité autun,1
-cité autun porta,1
-autun porta parole,1
+vierg cité aucun,1
+cité aucun porta,1
+aucun porta parole,1
 porta parole nom,1
 parole nom tiers,1
 nom tiers état,1
@@ -1497,9 +1497,9 @@ auquel reprocha ignorance,1
 reprocha ignorance pasteurs,1
 ignorance pasteurs lieu,1
 pasteurs lieu maire,1
-lieu maire autun,1
-maire autun prenait,1
-autun prenait jadis,1
+lieu maire aucun,1
+maire aucun prenait,1
+aucun prenait jadis,1
 prenait jadis titre,1
 jadis titre vierg,1
 titre vierg étymologistes,1
@@ -1513,4 +1513,4 @@ suivant césar titre,1
 césar titre premier,1
 titre premier magistrat,1
 premier magistrat ville,1
-magistrat ville autun,1
+magistrat ville aucun,1

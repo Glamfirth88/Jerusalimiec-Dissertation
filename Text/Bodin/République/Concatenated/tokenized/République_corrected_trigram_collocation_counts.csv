@@ -65,7 +65,7 @@ token_,count
 ('fur', 'peine', 'vie'),5
 ('apres', 'mort', 'roy'),5
 ('henry', 'roy', 'angleterre'),5
-('plus', 'grands', 'feigneurs'),5
+('plus', 'grands', 'seigneurs'),5
 ('file', 'prince', 'souverain'),5
 ('encores', 'plus', 'eftrange'),5
 ('charles', 'roy', 'france'),5
@@ -80,6 +80,7 @@ token_,count
 ('cas', 'pa', 'reil'),5
 ('quatre', 'cens', 'ans'),5
 ('long', 'temps', 'apres'),5
+('rien', 'autre', 'chose'),5
 ('comme', 'monstré', 'cy'),5
 ('bien', 'petit', 'nombre'),5
 ('uns', 'contre', 'autres'),5
@@ -148,6 +149,7 @@ token_,count
 ('ainsi', 'dit', 'plutarque'),4
 ('fort', 'long', 'temps'),4
 ('estat', 'populaire', 'monarchie'),4
+('toutes', 'autres', 'choses'),4
 ('fift', 'mourir', 'tous'),4
 ('moindre', 'partie', 'citoyens'),4
 ('plus', 'gens', 'bien'),4
@@ -165,7 +167,7 @@ token_,count
 ('plus', 'grands', 'estats'),4
 ('dit', 'philippe', 'comines'),4
 ('quarante', 'ans', 'apres'),4
-('creation', 'monde', 'iufques'),4
+('creation', 'monde', 'iusques'),4
 ('afie', 'afrique', 'europe'),4
 ('cinquante', 'fix', 'ans'),4
 ('fix', 'ans', 'apres'),4
@@ -180,6 +182,7 @@ token_,count
 ('droit', 'gouvernement', 'plusieurs'),3
 ('toute', 'republique', 'bien'),3
 ('republique', 'peut', 'bien'),3
+('contemplation', 'choses', 'naturelles'),3
 ('difference', 'bien', 'mal'),3
 ('aufli', 'peut', 'dire'),3
 ('tout', 'ainsi', 'monde'),3
@@ -209,12 +212,13 @@ token_,count
 ('estats', 'tenus', 'tours'),3
 ('montré', 'cy', 'dessus'),3
 ('prefenta', 'requefte', 'peuple'),3
-('sil', 'euft', 'efté'),3
+('sil', 'eust', 'efté'),3
 ('deux', 'cens', 'senateurs'),3
 ('cens', 'foixante', 'dix'),3
 ('quele', 'sujet', 'naturel'),3
 ('traitant', 'alliance', 'auec'),3
 ('uns', 'contre', 'lesautres'),3
+('france', 'seigneurs', 'ligues'),3
 ('auec', 'autres', 'princes'),3
 ('tout', 'empire', 'orient'),3
 ('plus', 'beau', 'plus'),3
@@ -243,6 +247,7 @@ token_,count
 ('faire', 'guerre', 'roy'),3
 ('veritable', 'vray', 'femblable'),3
 ('traitez', 'faits', 'entre'),3
+('entre', 'seigneurs', 'ligues'),3
 ('depuis', 'cinquante', 'ans'),3
 ('cinq', 'cinq', 'ans'),3
 ('grande', 'fomme', 'deniers'),3
@@ -293,16 +298,15 @@ token_,count
 ('romains', 'apres', 'mort'),3
 ('estat', 'populaire', 'neantmoins'),3
 ('particulier', 'touts', 'general'),3
-('princes', 'grands', 'feigneurs'),3
+('princes', 'grands', 'seigneurs'),3
+('auroit', 'autre', 'chose'),3
 ('cinq', 'cés', 'ans'),3
 ('toutesfois', 'peut', 'dire'),3
 ('icy', 'peut', 'dira'),3
 ('bon', 'iuste', 'roy'),3
 ('plus', 'fages', 'vertueux'),3
 ('fages', 'vertueux', 'princes'),3
-('toutes', 'autres', 'chofes'),3
 ('pren', 'dre', 'armes'),3
-('rien', 'autre', 'chofe'),3
 ('gentils', 'hommes', 'venitiens'),3
 ('plus', 'grande', 'partie'),3
 ('marques', 'maiefté', 'souveraine'),3
@@ -334,6 +338,7 @@ token_,count
 ('pourquoy', 'ciceron', 'difoit'),3
 ('popu', 'laires', 'aristocratiques'),3
 ('difoit', 'caton', 'cenfeur'),3
+('feroit', 'chose', 'infinie'),3
 ('comme', 'nauire', 'fans'),3
 ('si', 'dit', 'faut'),3
 ('entrer', 'plus', 'auant'),3
@@ -372,7 +377,7 @@ token_,count
 ('guer', 'res', 'civiles'),3
 ('an', 'deux', 'cens'),3
 ('quafi', 'mesme', 'temps'),3
-('monde', 'iufques', 'an'),3
+('monde', 'iusques', 'an'),3
 ('fift', 'mesme', 'figne'),3
 ('tre', 'roy', 'france'),3
 ('iour', 'mois', 'an'),3
@@ -387,7 +392,7 @@ token_,count
 ('beaucoup', 'moins', 'bien'),3
 ('mesme', 'nombre', 'parfait'),3
 ('an', 'ciés', 'gaulois'),3
-('fondation', 'rome', 'iufques'),3
+('fondation', 'rome', 'iusques'),3
 ('deux', 'cens', 'quarante'),3
 ('bien', 'grande', 'difficulté'),3
 ('uns', 'plus', 'autres'),3

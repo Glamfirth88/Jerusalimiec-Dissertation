@@ -37,6 +37,8 @@ token_,count
 ('vi', 'oire'),7
 ('am', 'baffadeurs'),7
 ('marc', 'aurele'),7
+('seigneur', 'feodal'),7
+('monarque', 'seigneurial'),7
 ('pren', 'dre'),7
 ('po', 'pulaire'),7
 ('philippe', 'comines'),7
@@ -61,7 +63,6 @@ token_,count
 ('do', 'maine'),6
 ('fauf', 'conduit'),6
 ('veüe', 'œil'),6
-('feigneur', 'feodal'),6
 ('inftituer', 'deftituer'),6
 ('sc', 'nat'),6
 ('of', 'ficiers'),6
@@ -192,7 +193,6 @@ token_,count
 ('lesau', 'tres'),4
 ('ariftocra', 'tique'),4
 ('mo', 'narques'),4
-('monarque', 'feigneurial'),4
 ('exem', 'ple'),4
 ('confe', 'quence'),4
 ('treforier', 'efpargne'),4
@@ -286,6 +286,7 @@ token_,count
 ('fansle', 'confentement'),3
 ('priuilege', 'fpecial'),3
 ('doux', 'ployables'),3
+('ayma', 'mieux'),3
 ('fideles', 'loyaux'),3
 ('ap', 'pelloit'),3
 ('afran', 'chis'),3
@@ -379,7 +380,6 @@ token_,count
 ('arifto', 'cratie'),3
 ('sang', 'hercules'),3
 ('gouuerné', 'populairement'),3
-('monarque', 'seigneurial'),3
 ('tien', 'nent'),3
 ('duchez', 'marquifats'),3
 ('marquifats', 'comtez'),3

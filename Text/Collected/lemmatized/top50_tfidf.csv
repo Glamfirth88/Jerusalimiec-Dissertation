@@ -1,0 +1,1851 @@
+document,term,tfidf
+Discours des raisons_corrected_stemmed,mémoir,0.25207843867821467
+Discours des raisons_corrected_stemmed,roy,0.22466838027191025
+Discours des raisons_corrected_stemmed,estat,0.14161204054912707
+Discours des raisons_corrected_stemmed,bien,0.12537295162967968
+Discours des raisons_corrected_stemmed,homm,0.11608606632377749
+Discours des raisons_corrected_stemmed,libert,0.11502124213488825
+Discours des raisons_corrected_stemmed,péril,0.10750433019478325
+Discours des raisons_corrected_stemmed,victoir,0.10333356338711139
+Discours des raisons_corrected_stemmed,subject,0.10287396530068779
+Discours des raisons_corrected_stemmed,paix,0.10072731912626003
+Discours des raisons_corrected_stemmed,guerr,0.10053501193489991
+Discours des raisons_corrected_stemmed,bataill,0.09538482774194897
+Discours des raisons_corrected_stemmed,don,0.09497760264940316
+Discours des raisons_corrected_stemmed,capitul,0.09337851242346414
+Discours des raisons_corrected_stemmed,chos,0.09058331238018837
+Discours des raisons_corrected_stemmed,mal,0.08822541040607089
+Discours des raisons_corrected_stemmed,dieu,0.08811432831417843
+Discours des raisons_corrected_stemmed,estranger,0.0860034641558266
+Discours des raisons_corrected_stemmed,voir,0.08507819185774339
+Discours des raisons_corrected_stemmed,esprit,0.08421436378643442
+Discours des raisons_corrected_stemmed,princ,0.08369998480718224
+Discours des raisons_corrected_stemmed,peupl,0.08321908785227962
+Discours des raisons_corrected_stemmed,droict,0.07292416444949433
+Discours des raisons_corrected_stemmed,plustost,0.07153862080646171
+Discours des raisons_corrected_stemmed,majest,0.07017863648869536
+Discours des raisons_corrected_stemmed,chacung,0.06950515423770284
+Discours des raisons_corrected_stemmed,nécess,0.0692724405259324
+Discours des raisons_corrected_stemmed,peult,0.06892819923574833
+Discours des raisons_corrected_stemmed,disciplin,0.06800089701968645
+Discours des raisons_corrected_stemmed,ennem,0.06638182610189619
+Discours des raisons_corrected_stemmed,naturel,0.06509517410285175
+Discours des raisons_corrected_stemmed,donc,0.06501833423660107
+Discours des raisons_corrected_stemmed,ser,0.0636260300637677
+Discours des raisons_corrected_stemmed,servilius,0.0623604335243353
+Discours des raisons_corrected_stemmed,moyen,0.06197805583907624
+Discours des raisons_corrected_stemmed,bon,0.0616736730158185
+Discours des raisons_corrected_stemmed,dont,0.060321007160939945
+Discours des raisons_corrected_stemmed,vray,0.05991278638616915
+Discours des raisons_corrected_stemmed,enfan,0.0596700603322909
+Discours des raisons_corrected_stemmed,enver,0.0596700603322909
+Discours des raisons_corrected_stemmed,serv,0.0596700603322909
+Discours des raisons_corrected_stemmed,combattr,0.056346490964492436
+Discours des raisons_corrected_stemmed,extresm,0.056346490964492436
+Discours des raisons_corrected_stemmed,peu,0.05572131183541319
+Discours des raisons_corrected_stemmed,salut,0.05564114951613689
+Discours des raisons_corrected_stemmed,sang,0.05564114951613689
+Discours des raisons_corrected_stemmed,couron,0.05450344620069507
+Discours des raisons_corrected_stemmed,disoit,0.05387856485350299
+Discours des raisons_corrected_stemmed,just,0.05387856485350299
+Discours des raisons_corrected_stemmed,deffianc,0.05335914995626523
+Démonomanie Repair_corrected-Copy1_stemmed,sorci,0.5314007437220803
+Démonomanie Repair_corrected-Copy1_stemmed,diabl,0.2462531959431092
+Démonomanie Repair_corrected-Copy1_stemmed,dieu,0.24597025988650384
+Démonomanie Repair_corrected-Copy1_stemmed,sathan,0.19523202661677067
+Démonomanie Repair_corrected-Copy1_stemmed,sorc,0.1940194053334367
+Démonomanie Repair_corrected-Copy1_stemmed,bien,0.11160267848324067
+Démonomanie Repair_corrected-Copy1_stemmed,esprit,0.09770887413278241
+Démonomanie Repair_corrected-Copy1_stemmed,chos,0.09085246877941157
+Démonomanie Repair_corrected-Copy1_stemmed,mort,0.08555489107357102
+Démonomanie Repair_corrected-Copy1_stemmed,foit,0.08529079873683923
+Démonomanie Repair_corrected-Copy1_stemmed,homm,0.08198643370775285
+Démonomanie Repair_corrected-Copy1_stemmed,iug,0.07860132432610674
+Démonomanie Repair_corrected-Copy1_stemmed,fort,0.07663364126038207
+Démonomanie Repair_corrected-Copy1_stemmed,apre,0.0736004355929462
+Démonomanie Repair_corrected-Copy1_stemmed,verit,0.07275301824345975
+Démonomanie Repair_corrected-Copy1_stemmed,dir,0.06986653388000928
+Démonomanie Repair_corrected-Copy1_stemmed,malin,0.06135796719327931
+Démonomanie Repair_corrected-Copy1_stemmed,void,0.059949279911243825
+Démonomanie Repair_corrected-Copy1_stemmed,ensan,0.05941844288336499
+Démonomanie Repair_corrected-Copy1_stemmed,ange,0.05760595887875091
+Démonomanie Repair_corrected-Copy1_stemmed,hebrieux,0.057067342996869344
+Démonomanie Repair_corrected-Copy1_stemmed,loy,0.05546346765202524
+Démonomanie Repair_corrected-Copy1_stemmed,moyen,0.055253134074009475
+Démonomanie Repair_corrected-Copy1_stemmed,confess,0.05458319170873284
+Démonomanie Repair_corrected-Copy1_stemmed,neantmoin,0.05435197958720146
+Démonomanie Repair_corrected-Copy1_stemmed,preuv,0.05310797031119951
+Démonomanie Repair_corrected-Copy1_stemmed,iour,0.05259254330852513
+Démonomanie Repair_corrected-Copy1_stemmed,mot,0.05250072711427231
+Démonomanie Repair_corrected-Copy1_stemmed,maling,0.051879402724426676
+Démonomanie Repair_corrected-Copy1_stemmed,presompt,0.04971747261669315
+Démonomanie Repair_corrected-Copy1_stemmed,fil,0.04950681735306686
+Démonomanie Repair_corrected-Copy1_stemmed,naturel,0.04950681735306686
+Démonomanie Repair_corrected-Copy1_stemmed,encor,0.04938841188069621
+Démonomanie Repair_corrected-Copy1_stemmed,divin,0.04856681931057369
+Démonomanie Repair_corrected-Copy1_stemmed,brufl,0.04795942392899506
+Démonomanie Repair_corrected-Copy1_stemmed,com,0.047878827608717575
+Démonomanie Repair_corrected-Copy1_stemmed,puiflanc,0.04778068356146566
+Démonomanie Repair_corrected-Copy1_stemmed,doit,0.04760287721972029
+Démonomanie Repair_corrected-Copy1_stemmed,difoit,0.04733328897767261
+Démonomanie Repair_corrected-Copy1_stemmed,efcript,0.047037127314975925
+Démonomanie Repair_corrected-Copy1_stemmed,hiftoir,0.04611483070095679
+Démonomanie Repair_corrected-Copy1_stemmed,cas,0.04585220909024426
+Démonomanie Repair_corrected-Copy1_stemmed,diabol,0.04567595491112221
+Démonomanie Repair_corrected-Copy1_stemmed,prophet,0.04499425262476626
+Démonomanie Repair_corrected-Copy1_stemmed,fill,0.044741607654947765
+Démonomanie Repair_corrected-Copy1_stemmed,mour,0.04430224667028469
+Démonomanie Repair_corrected-Copy1_stemmed,cauf,0.04382711942377093
+Démonomanie Repair_corrected-Copy1_stemmed,malad,0.04350917036402103
+Démonomanie Repair_corrected-Copy1_stemmed,veu,0.04336543482207472
+Démonomanie Repair_corrected-Copy1_stemmed,corp,0.04321186958167047
+Démonomanie Repair_corrected_stemmed,sorci,0.5287290741053456
+Démonomanie Repair_corrected_stemmed,diabl,0.2450151337284859
+Démonomanie Repair_corrected_stemmed,dieu,0.24473362016079278
+Démonomanie Repair_corrected_stemmed,sathan,0.1942504783598522
+Démonomanie Repair_corrected_stemmed,sorc,0.19304395364954258
+Démonomanie Repair_corrected_stemmed,bien,0.11104158501701505
+Démonomanie Repair_corrected_stemmed,esprit,0.09721763313737566
+Démonomanie Repair_corrected_stemmed,chos,0.09039569903772253
+Démonomanie Repair_corrected_stemmed,mort,0.08512475542595542
+Démonomanie Repair_corrected_stemmed,foit,0.08486199083947688
+Démonomanie Repair_corrected_stemmed,homm,0.08157423883126995
+Démonomanie Repair_corrected_stemmed,iug,0.07820614842069437
+Démonomanie Repair_corrected_stemmed,fort,0.0762483580755279
+Démonomanie Repair_corrected_stemmed,apre,0.07323040214855388
+Démonomanie Repair_corrected_stemmed,verit,0.07238724527331793
+Démonomanie Repair_corrected_stemmed,diuin,0.07179579894766107
+Démonomanie Repair_corrected_stemmed,trouu,0.07155030600191187
+Démonomanie Repair_corrected_stemmed,dir,0.06951527299451188
+Démonomanie Repair_corrected_stemmed,perfon,0.062398522676085935
+Démonomanie Repair_corrected_stemmed,malin,0.061049483965448854
+Démonomanie Repair_corrected_stemmed,void,0.05964787899757148
+Démonomanie Repair_corrected_stemmed,ensan,0.059119710805172414
+Démonomanie Repair_corrected_stemmed,ange,0.05731633924253956
+Démonomanie Repair_corrected_stemmed,hebrieux,0.056780431305092985
+Démonomanie Repair_corrected_stemmed,loy,0.05518461960163154
+Démonomanie Repair_corrected_stemmed,moyen,0.05497534349641084
+Démonomanie Repair_corrected_stemmed,neantmoin,0.054078719652607805
+Démonomanie Repair_corrected_stemmed,preuv,0.0528409647558571
+Démonomanie Repair_corrected_stemmed,iour,0.052328129113241875
+Démonomanie Repair_corrected_stemmed,mot,0.05223677453395556
+Démonomanie Repair_corrected_stemmed,confefl,0.0516185739137209
+Démonomanie Repair_corrected_stemmed,maling,0.0516185739137209
+Démonomanie Repair_corrected_stemmed,presompt,0.04946751312269528
+Démonomanie Repair_corrected_stemmed,fil,0.04925791694917017
+Démonomanie Repair_corrected_stemmed,naturel,0.04925791694917017
+Démonomanie Repair_corrected_stemmed,encor,0.049140106771982536
+Démonomanie Repair_corrected_stemmed,brufl,0.047718303198057185
+Démonomanie Repair_corrected_stemmed,com,0.04763811208372389
+Démonomanie Repair_corrected_stemmed,puiflanc,0.04754046146534314
+Démonomanie Repair_corrected_stemmed,doit,0.04736354906250643
+Démonomanie Repair_corrected_stemmed,difoit,0.04709531620191769
+Démonomanie Repair_corrected_stemmed,efcript,0.04680064352117147
+Démonomanie Repair_corrected_stemmed,hiftoir,0.045882983844285755
+Démonomanie Repair_corrected_stemmed,cas,0.04562168258960646
+Démonomanie Repair_corrected_stemmed,diabol,0.045446314545742494
+Démonomanie Repair_corrected_stemmed,prophet,0.04476803958482338
+Démonomanie Repair_corrected_stemmed,fill,0.04451666481249268
+Démonomanie Repair_corrected_stemmed,mour,0.04407951275848575
+Démonomanie Repair_corrected_stemmed,cauf,0.043606774261034896
+Démonomanie Repair_corrected_stemmed,malad,0.04329042372152162
+Harangue - Fontainebleau_corrected_stemmed,général,0.24491110157895368
+Harangue - Fontainebleau_corrected_stemmed,état,0.18616246960250485
+Harangue - Fontainebleau_corrected_stemmed,guis,0.15600961339087288
+Harangue - Fontainebleau_corrected_stemmed,convoc,0.15082845356696276
+Harangue - Fontainebleau_corrected_stemmed,national,0.1376184170917042
+Harangue - Fontainebleau_corrected_stemmed,estat,0.13173494224415525
+Harangue - Fontainebleau_corrected_stemmed,soulag,0.1290574426236229
+Harangue - Fontainebleau_corrected_stemmed,harangu,0.12440838061644566
+Harangue - Fontainebleau_corrected_stemmed,royaum,0.12335309697586311
+Harangue - Fontainebleau_corrected_stemmed,concil,0.11922722079253555
+Harangue - Fontainebleau_corrected_stemmed,nobless,0.11922722079253555
+Harangue - Fontainebleau_corrected_stemmed,décid,0.10400640892724859
+Harangue - Fontainebleau_corrected_stemmed,remed,0.09886882643278515
+Harangue - Fontainebleau_corrected_stemmed,lorrain,0.09545397204143671
+Harangue - Fontainebleau_corrected_stemmed,assembl,0.09069658056085335
+Harangue - Fontainebleau_corrected_stemmed,ordre,0.0898471335095106
+Harangue - Fontainebleau_corrected_stemmed,cardinal,0.08833425028879908
+Harangue - Fontainebleau_corrected_stemmed,liv,0.08833425028879908
+Harangue - Fontainebleau_corrected_stemmed,racin,0.08517582322937949
+Harangue - Fontainebleau_corrected_stemmed,alarmerent,0.08405453856021514
+Harangue - Fontainebleau_corrected_stemmed,appovr,0.08405453856021514
+Harangue - Fontainebleau_corrected_stemmed,assembleroient,0.08405453856021514
+Harangue - Fontainebleau_corrected_stemmed,bulletin,0.08405453856021514
+Harangue - Fontainebleau_corrected_stemmed,connoitr,0.08405453856021514
+Harangue - Fontainebleau_corrected_stemmed,convo,0.08405453856021514
+Harangue - Fontainebleau_corrected_stemmed,convoqueroit,0.08405453856021514
+Harangue - Fontainebleau_corrected_stemmed,descovr,0.08405453856021514
+Harangue - Fontainebleau_corrected_stemmed,inconnu,0.08405453856021514
+Harangue - Fontainebleau_corrected_stemmed,mezeray,0.08405453856021514
+Harangue - Fontainebleau_corrected_stemmed,monluc,0.08405453856021514
+Harangue - Fontainebleau_corrected_stemmed,prolix,0.08405453856021514
+Harangue - Fontainebleau_corrected_stemmed,refroidy,0.08405453856021514
+Harangue - Fontainebleau_corrected_stemmed,religionnair,0.08405453856021514
+Harangue - Fontainebleau_corrected_stemmed,sceust,0.08405453856021514
+Harangue - Fontainebleau_corrected_stemmed,triomphérent,0.08405453856021514
+Harangue - Fontainebleau_corrected_stemmed,tâch,0.08405453856021514
+Harangue - Fontainebleau_corrected_stemmed,échouereut,0.08405453856021514
+Harangue - Fontainebleau_corrected_stemmed,éleveroient,0.08405453856021514
+Harangue - Fontainebleau_corrected_stemmed,éner,0.08405453856021514
+Harangue - Fontainebleau_corrected_stemmed,ministr,0.08223539798390873
+Harangue - Fontainebleau_corrected_stemmed,enfin,0.07690103723891455
+Harangue - Fontainebleau_corrected_stemmed,term,0.07690103723891455
+Harangue - Fontainebleau_corrected_stemmed,alarm,0.07541422678348138
+Harangue - Fontainebleau_corrected_stemmed,aout,0.07541422678348138
+Harangue - Fontainebleau_corrected_stemmed,coligny,0.07541422678348138
+Harangue - Fontainebleau_corrected_stemmed,corrompuz,0.07541422678348138
+Harangue - Fontainebleau_corrected_stemmed,déduct,0.07541422678348138
+Harangue - Fontainebleau_corrected_stemmed,intéret,0.07541422678348138
+Harangue - Fontainebleau_corrected_stemmed,précaut,0.07541422678348138
+Harangue - Fontainebleau_corrected_stemmed,prérog,0.07541422678348138
+Harangue - Orléans 2_corrected_stemmed,roy,0.3355885140401075
+Harangue - Orléans 2_corrected_stemmed,estat,0.28289854964075406
+Harangue - Orléans 2_corrected_stemmed,gabel,0.2170515341545481
+Harangue - Orléans 2_corrected_stemmed,despens,0.1951099888795318
+Harangue - Orléans 2_corrected_stemmed,harangu,0.15584618178487508
+Harangue - Orléans 2_corrected_stemmed,subven,0.1385743323548146
+Harangue - Orléans 2_corrected_stemmed,royaulm,0.11795506916321383
+Harangue - Orléans 2_corrected_stemmed,ayde,0.11379485795177051
+Harangue - Orléans 2_corrected_stemmed,royn,0.10820520298372763
+Harangue - Orléans 2_corrected_stemmed,impost,0.10796718023774671
+Harangue - Orléans 2_corrected_stemmed,remonstr,0.1001795101693763
+Harangue - Orléans 2_corrected_stemmed,advis,0.09436405533057107
+Harangue - Orléans 2_corrected_stemmed,auxdict,0.08682061366181923
+Harangue - Orléans 2_corrected_stemmed,prendroit,0.08682061366181923
+Harangue - Orléans 2_corrected_stemmed,suppress,0.08682061366181923
+Harangue - Orléans 2_corrected_stemmed,vin,0.08534614346382789
+Harangue - Orléans 2_corrected_stemmed,taill,0.08257183527069777
+Harangue - Orléans 2_corrected_stemmed,xii,0.08257183527069777
+Harangue - Orléans 2_corrected_stemmed,chos,0.08254242618748574
+Harangue - Orléans 2_corrected_stemmed,dlesdict,0.08211777751804632
+Harangue - Orléans 2_corrected_stemmed,remon,0.08211777751804632
+Harangue - Orléans 2_corrected_stemmed,bien,0.08039383011010841
+Harangue - Orléans 2_corrected_stemmed,ordre,0.08039383011010841
+Harangue - Orléans 2_corrected_stemmed,temp,0.08039383011010841
+Harangue - Orléans 2_corrected_stemmed,falloit,0.07995614792995624
+Harangue - Orléans 2_corrected_stemmed,nécess,0.07995614792995624
+Harangue - Orléans 2_corrected_stemmed,princ,0.07627011682729715
+Harangue - Orléans 2_corrected_stemmed,lou,0.0707730414979283
+Harangue - Orléans 2_corrected_stemmed,selon,0.06873883682325423
+Harangue - Orléans 2_corrected_stemmed,debt,0.06832859424121299
+Harangue - Orléans 2_corrected_stemmed,surplus,0.06832859424121299
+Harangue - Orléans 2_corrected_stemmed,affair,0.06780264720907543
+Harangue - Orléans 2_corrected_stemmed,subject,0.06679122076494647
+Harangue - Orléans 2_corrected_stemmed,debvoit,0.06567404708589177
+Harangue - Orléans 2_corrected_stemmed,roient,0.06567404708589177
+Harangue - Orléans 2_corrected_stemmed,peu,0.06431506408808672
+Harangue - Orléans 2_corrected_stemmed,frais,0.06323210041971825
+Harangue - Orléans 2_corrected_stemmed,droict,0.06312830076568617
+Harangue - Orléans 2_corrected_stemmed,doibt,0.06140122523107483
+Harangue - Orléans 2_corrected_stemmed,domain,0.06097121094211887
+Harangue - Orléans 2_corrected_stemmed,intérest,0.06097121094211887
+Harangue - Orléans 2_corrected_stemmed,bénévolent,0.06016856435183382
+Harangue - Orléans 2_corrected_stemmed,comparussent,0.06016856435183382
+Harangue - Orléans 2_corrected_stemmed,contenteroit,0.06016856435183382
+Harangue - Orléans 2_corrected_stemmed,contraigu,0.06016856435183382
+Harangue - Orléans 2_corrected_stemmed,couroient,0.06016856435183382
+Harangue - Orléans 2_corrected_stemmed,devabl,0.06016856435183382
+Harangue - Orléans 2_corrected_stemmed,esche,0.06016856435183382
+Harangue - Orléans 2_corrected_stemmed,fleuriroit,0.06016856435183382
+Harangue - Orléans 2_corrected_stemmed,huitiesm,0.06016856435183382
+Harangue - Orléans_corrected_stemmed,roy,0.42678370179987446
+Harangue - Orléans_corrected_stemmed,estat,0.16863698934585922
+Harangue - Orléans_corrected_stemmed,harangu,0.16696412238295702
+Harangue - Orléans_corrected_stemmed,bien,0.15768243465719187
+Harangue - Orléans_corrected_stemmed,royaum,0.1528134122185228
+Harangue - Orléans_corrected_stemmed,sédit,0.14948424792336276
+Harangue - Orléans_corrected_stemmed,caus,0.1298561226588639
+Harangue - Orléans_corrected_stemmed,subject,0.12843394029458233
+Harangue - Orléans_corrected_stemmed,bon,0.1275951273422305
+Harangue - Orléans_corrected_stemmed,religion,0.09796294042803688
+Harangue - Orléans_corrected_stemmed,peupl,0.0928949155841021
+Harangue - Orléans_corrected_stemmed,per,0.09247834899611636
+Harangue - Orléans_corrected_stemmed,princ,0.08799663954636586
+Harangue - Orléans_corrected_stemmed,chos,0.08570998425051299
+Harangue - Orléans_corrected_stemmed,injur,0.08489634012140154
+Harangue - Orléans_corrected_stemmed,vill,0.08473013073819673
+Harangue - Orléans_corrected_stemmed,homm,0.08347893599498393
+Harangue - Orléans_corrected_stemmed,ten,0.08249510772887315
+Harangue - Orléans_corrected_stemmed,temp,0.07884121732859593
+Harangue - Orléans_corrected_stemmed,don,0.07679185232135999
+Harangue - Orléans_corrected_stemmed,guerr,0.075308311578862
+Harangue - Orléans_corrected_stemmed,arme,0.0726578321724822
+Harangue - Orléans_corrected_stemmed,chrestien,0.07145043492050512
+Harangue - Orléans_corrected_stemmed,paix,0.06706876815921435
+Harangue - Orléans_corrected_stemmed,maulv,0.0656454029045619
+Harangue - Orléans_corrected_stemmed,seigneur,0.06526720336834707
+Harangue - Orléans_corrected_stemmed,pay,0.06317805916729771
+Harangue - Orléans_corrected_stemmed,serf,0.06260579637380223
+Harangue - Orléans_corrected_stemmed,assembl,0.06242087097860986
+Harangue - Orléans_corrected_stemmed,apais,0.062283561619104436
+Harangue - Orléans_corrected_stemmed,sépar,0.06164167416288765
+Harangue - Orléans_corrected_stemmed,aulcun,0.05948056950472144
+Harangue - Orléans_corrected_stemmed,maison,0.0590347144806254
+Harangue - Orléans_corrected_stemmed,dieu,0.058670473000485536
+Harangue - Orléans_corrected_stemmed,honneur,0.05825196488251025
+Harangue - Orléans_corrected_stemmed,peult,0.05825196488251025
+Harangue - Orléans_corrected_stemmed,ser,0.05825196488251025
+Harangue - Orléans_corrected_stemmed,feu,0.05779527313256205
+Harangue - Orléans_corrected_stemmed,héret,0.057220550492406264
+Harangue - Orléans_corrected_stemmed,messieur,0.05471552207982968
+Harangue - Orléans_corrected_stemmed,genz,0.0544362596287887
+Harangue - Orléans_corrected_stemmed,prendr,0.054399028821244914
+Harangue - Orléans_corrected_stemmed,entre,0.05420601340331294
+Harangue - Orléans_corrected_stemmed,républ,0.05368590463209663
+Harangue - Orléans_corrected_stemmed,vivr,0.05287161733753017
+Harangue - Orléans_corrected_stemmed,albigeois,0.052064606259351685
+Harangue - Orléans_corrected_stemmed,forc,0.05155944233054572
+Harangue - Orléans_corrected_stemmed,voisin,0.05136806180240637
+Harangue - Orléans_corrected_stemmed,mal,0.05101490533026795
+Harangue - Orléans_corrected_stemmed,part,0.05101490533026795
+Harangue - Poissy_corrected_stemmed,évangel,0.402595237098371
+Harangue - Poissy_corrected_stemmed,roy,0.18615345299624067
+Harangue - Poissy_corrected_stemmed,concil,0.17358785640863594
+Harangue - Poissy_corrected_stemmed,harangu,0.16603704508932632
+Harangue - Poissy_corrected_stemmed,chos,0.1566929458506977
+Harangue - Poissy_corrected_stemmed,bon,0.14478601899707608
+Harangue - Poissy_corrected_stemmed,religion,0.12119109540079409
+Harangue - Poissy_corrected_stemmed,conscienc,0.11885874397688977
+Harangue - Poissy_corrected_stemmed,royaulm,0.11195895322500792
+Harangue - Poissy_corrected_stemmed,dieu,0.09193710623720391
+Harangue - Poissy_corrected_stemmed,huy,0.09056566095781436
+Harangue - Poissy_corrected_stemmed,moyen,0.08953882620039869
+Harangue - Poissy_corrected_stemmed,assembl,0.08803260921176802
+Harangue - Poissy_corrected_stemmed,foy,0.08803260921176802
+Harangue - Poissy_corrected_stemmed,doulceur,0.0857396661219307
+Harangue - Poissy_corrected_stemmed,doibt,0.08325708802720934
+Harangue - Poissy_corrected_stemmed,différendz,0.08158565956719994
+Harangue - Poissy_corrected_stemmed,con,0.08044496795755343
+Harangue - Poissy_corrected_stemmed,besoing,0.07997068087500565
+Harangue - Poissy_corrected_stemmed,sainct,0.07997068087500565
+Harangue - Poissy_corrected_stemmed,héres,0.07936790898551908
+Harangue - Poissy_corrected_stemmed,sembl,0.0767193467608197
+Harangue - Poissy_corrected_stemmed,grandz,0.07571362252021656
+Harangue - Poissy_corrected_stemmed,nic,0.07571362252021656
+Harangue - Poissy_corrected_stemmed,consider,0.07547138413151197
+Harangue - Poissy_corrected_stemmed,enseign,0.07464227336212252
+Harangue - Poissy_corrected_stemmed,salut,0.07464227336212252
+Harangue - Poissy_corrected_stemmed,doctrin,0.07244475188702174
+Harangue - Poissy_corrected_stemmed,persuad,0.07244475188702174
+Harangue - Poissy_corrected_stemmed,obeyss,0.07004115424268516
+Harangue - Poissy_corrected_stemmed,peupl,0.06895282967790295
+Harangue - Poissy_corrected_stemmed,poissy,0.06724879944543967
+Harangue - Poissy_corrected_stemmed,taschent,0.06724879944543967
+Harangue - Poissy_corrected_stemmed,trinit,0.06724879944543967
+Harangue - Poissy_corrected_stemmed,confess,0.0667881206615476
+Harangue - Poissy_corrected_stemmed,soyent,0.0667881206615476
+Harangue - Poissy_corrected_stemmed,mauvais,0.06430474959144801
+Harangue - Poissy_corrected_stemmed,nonobst,0.06430474959144801
+Harangue - Poissy_corrected_stemmed,repoz,0.06430474959144801
+Harangue - Poissy_corrected_stemmed,aucthor,0.06263336137977478
+Harangue - Poissy_corrected_stemmed,colloqu,0.06263336137977478
+Harangue - Poissy_corrected_stemmed,peult,0.0622372504280068
+Harangue - Poissy_corrected_stemmed,forc,0.060595547700397046
+Harangue - Poissy_corrected_stemmed,veu,0.060595547700397046
+Harangue - Poissy_corrected_stemmed,avant,0.06037710730520958
+Harangue - Poissy_corrected_stemmed,royaum,0.05986496356305028
+Harangue - Poissy_corrected_stemmed,séditi,0.05886227389612535
+Harangue - Poissy_corrected_stemmed,rigueur,0.05786261880287866
+Harangue - Poissy_corrected_stemmed,tousjour,0.057065945878410136
+Harangue - Poissy_corrected_stemmed,plusieur,0.055961766375249175
+Harangue - Rouen_corrected_stemmed,roy,0.4129655979535977
+Harangue - Rouen_corrected_stemmed,jug,0.19022031225898028
+Harangue - Rouen_corrected_stemmed,harangu,0.18003821748169638
+Harangue - Rouen_corrected_stemmed,échiqui,0.14808341832935887
+Harangue - Rouen_corrected_stemmed,majeur,0.12347833112454991
+Harangue - Rouen_corrected_stemmed,bien,0.11871640917686363
+Harangue - Rouen_corrected_stemmed,cal,0.11779309637471023
+Harangue - Rouen_corrected_stemmed,normand,0.11779309637471023
+Harangue - Rouen_corrected_stemmed,dieu,0.11323456127829278
+Harangue - Rouen_corrected_stemmed,messieur,0.11115944108934235
+Harangue - Rouen_corrected_stemmed,havr,0.10462376584933711
+Harangue - Rouen_corrected_stemmed,major,0.10462376584933711
+Harangue - Rouen_corrected_stemmed,anglois,0.10390705492490217
+Harangue - Rouen_corrected_stemmed,temp,0.1017569221515974
+Harangue - Rouen_corrected_stemmed,royaulm,0.09953288516285663
+Harangue - Rouen_corrected_stemmed,vill,0.09682694069756961
+Harangue - Rouen_corrected_stemmed,rouen,0.09603870198576102
+Harangue - Rouen_corrected_stemmed,ordon,0.08939570627233641
+Harangue - Rouen_corrected_stemmed,angleterr,0.0870947414128576
+Harangue - Rouen_corrected_stemmed,loy,0.0840121111892817
+Harangue - Rouen_corrected_stemmed,chos,0.08125947333938101
+Harangue - Rouen_corrected_stemmed,seigneur,0.07955767108249241
+Harangue - Rouen_corrected_stemmed,jour,0.07747627876935821
+Harangue - Rouen_corrected_stemmed,couron,0.07464966387214246
+Harangue - Rouen_corrected_stemmed,magistrat,0.07464966387214246
+Harangue - Rouen_corrected_stemmed,gard,0.073437850229993
+Harangue - Rouen_corrected_stemmed,jusqu,0.07250403480212425
+Harangue - Rouen_corrected_stemmed,jugemen,0.07217984371715154
+Harangue - Rouen_corrected_stemmed,quatorz,0.07217984371715154
+Harangue - Rouen_corrected_stemmed,debv,0.06974917723289141
+Harangue - Rouen_corrected_stemmed,prins,0.06927136994993477
+Harangue - Rouen_corrected_stemmed,duch,0.06859907284697216
+Harangue - Rouen_corrected_stemmed,aag,0.06658617933095236
+Harangue - Rouen_corrected_stemmed,veult,0.06658617933095236
+Harangue - Rouen_corrected_stemmed,rével,0.06496213255247779
+Harangue - Rouen_corrected_stemmed,justic,0.06476450252560674
+Harangue - Rouen_corrected_stemmed,mer,0.06455129379837973
+Harangue - Rouen_corrected_stemmed,grac,0.06444803093522156
+Harangue - Rouen_corrected_stemmed,mairastr,0.0634643221411538
+Harangue - Rouen_corrected_stemmed,pay,0.06300908339196128
+Harangue - Rouen_corrected_stemmed,session,0.06105083225527019
+Harangue - Rouen_corrected_stemmed,loyx,0.05980731932137613
+Harangue - Rouen_corrected_stemmed,droict,0.05918771496084654
+Harangue - Rouen_corrected_stemmed,bon,0.05899508542194253
+Harangue - Rouen_corrected_stemmed,bienz,0.0569405634079379
+Harangue - Rouen_corrected_stemmed,vouleu,0.05622385248350297
+Harangue - Rouen_corrected_stemmed,don,0.055062164487825555
+Harangue - Rouen_corrected_stemmed,journ,0.05487925827757773
+Harangue - Rouen_corrected_stemmed,plein,0.05479424010312499
+Harangue - Rouen_corrected_stemmed,proc,0.05326168743251448
+Harangue - Saint Germain_corrected_stemmed,roy,0.27947822757169644
+Harangue - Saint Germain_corrected_stemmed,harangu,0.1828550900164685
+Harangue - Saint Germain_corrected_stemmed,dieu,0.18205438985718098
+Harangue - Saint Germain_corrected_stemmed,assembl,0.16406840682364698
+Harangue - Saint Germain_corrected_stemmed,dir,0.14681331814513437
+Harangue - Saint Germain_corrected_stemmed,temp,0.1320570656429834
+Harangue - Saint Germain_corrected_stemmed,évesqu,0.1244745628898251
+Harangue - Saint Germain_corrected_stemmed,églis,0.09493705118051642
+Harangue - Saint Germain_corrected_stemmed,loyx,0.09211585353810159
+Harangue - Saint Germain_corrected_stemmed,religion,0.0903466573200827
+Harangue - Saint Germain_corrected_stemmed,cost,0.08439465693067777
+Harangue - Saint Germain_corrected_stemmed,édict,0.08419110072607792
+Harangue - Saint Germain_corrected_stemmed,peult,0.08119510065606104
+Harangue - Saint Germain_corrected_stemmed,messieur,0.07989749791680671
+Harangue - Saint Germain_corrected_stemmed,avantaig,0.07602653894221713
+Harangue - Saint Germain_corrected_stemmed,constituendá,0.07602653894221713
+Harangue - Saint Germain_corrected_stemmed,gentium,0.07602653894221713
+Harangue - Saint Germain_corrected_stemmed,souvient,0.07602653894221713
+Harangue - Saint Germain_corrected_stemmed,royaulm,0.07452160239963972
+Harangue - Saint Germain_corrected_stemmed,adviz,0.07438114341408811
+Harangue - Saint Germain_corrected_stemmed,appais,0.07438114341408811
+Harangue - Saint Germain_corrected_stemmed,héres,0.07395990245417836
+Harangue - Saint Germain_corrected_stemmed,bien,0.0711076507308372
+Harangue - Saint Germain_corrected_stemmed,peu,0.0711076507308372
+Harangue - Saint Germain_corrected_stemmed,républicqu,0.07055461341522043
+Harangue - Saint Germain_corrected_stemmed,pos,0.06955626433131729
+Harangue - Saint Germain_corrected_stemmed,don,0.06925930875829794
+Harangue - Saint Germain_corrected_stemmed,estatz,0.06750847856983187
+Harangue - Saint Germain_corrected_stemmed,amend,0.0664719507633856
+Harangue - Saint Germain_corrected_stemmed,pourroit,0.0664719507633856
+Harangue - Saint Germain_corrected_stemmed,ruyn,0.06526865835047016
+Harangue - Saint Germain_corrected_stemmed,quelz,0.06329136745367762
+Harangue - Saint Germain_corrected_stemmed,soy,0.06329136745367762
+Harangue - Saint Germain_corrected_stemmed,esleus,0.06266657028916803
+Harangue - Saint Germain_corrected_stemmed,poissy,0.06266657028916803
+Harangue - Saint Germain_corrected_stemmed,chos,0.06257834182879292
+Harangue - Saint Germain_corrected_stemmed,plusieur,0.06257834182879292
+Harangue - Saint Germain_corrected_stemmed,divis,0.05961728191971177
+Harangue - Saint Germain_corrected_stemmed,déliber,0.05961728191971177
+Harangue - Saint Germain_corrected_stemmed,sainct,0.05961728191971177
+Harangue - Saint Germain_corrected_stemmed,dépesch,0.058365621032937035
+Harangue - Saint Germain_corrected_stemmed,issu,0.058365621032937035
+Harangue - Saint Germain_corrected_stemmed,grac,0.057903723324438036
+Harangue - Saint Germain_corrected_stemmed,princ,0.05782308156655788
+Harangue - Saint Germain_corrected_stemmed,auparav,0.057780547778316614
+Harangue - Saint Germain_corrected_stemmed,deus,0.057780547778316614
+Harangue - Saint Germain_corrected_stemmed,souverain,0.057780547778316614
+Harangue - Saint Germain_corrected_stemmed,encor,0.05646666082505168
+Harangue - Saint Germain_corrected_stemmed,consider,0.056263104620451844
+Harangue - Saint Germain_corrected_stemmed,lieu,0.05498390071753005
+Harangue - lit de justice_corrected_stemmed,roy,0.37500426071258974
+Harangue - lit de justice_corrected_stemmed,églis,0.21730665980547229
+Harangue - lit de justice_corrected_stemmed,bien,0.217016305362889
+Harangue - lit de justice_corrected_stemmed,justic,0.19731831449171738
+Harangue - lit de justice_corrected_stemmed,harangu,0.16097965946020176
+Harangue - lit de justice_corrected_stemmed,royaulm,0.1478330633423817
+Harangue - lit de justice_corrected_stemmed,esglis,0.13011081178405695
+Harangue - lit de justice_corrected_stemmed,tournoy,0.13011081178405695
+Harangue - lit de justice_corrected_stemmed,pai,0.12149411113659242
+Harangue - lit de justice_corrected_stemmed,reistr,0.11601422927907712
+Harangue - lit de justice_corrected_stemmed,mill,0.10431812162525575
+Harangue - lit de justice_corrected_stemmed,arme,0.10274523815566945
+Harangue - lit de justice_corrected_stemmed,guerr,0.10068454968362685
+Harangue - lit de justice_corrected_stemmed,havr,0.09562731586645765
+Harangue - lit de justice_corrected_stemmed,conserv,0.09371069542553218
+Harangue - lit de justice_corrected_stemmed,estranger,0.08972019520349316
+Harangue - lit de justice_corrected_stemmed,peult,0.08850092870680126
+Harangue - lit de justice_corrected_stemmed,solemn,0.08701067195930784
+Harangue - lit de justice_corrected_stemmed,recouvr,0.08584660282284995
+Harangue - lit de justice_corrected_stemmed,rent,0.07960558750473953
+Harangue - lit de justice_corrected_stemmed,press,0.07914352825250826
+Harangue - lit de justice_corrected_stemmed,francz,0.07806648707043416
+Harangue - lit de justice_corrected_stemmed,nécess,0.07708386412526257
+Harangue - lit de justice_corrected_stemmed,suiss,0.07524040245383817
+Harangue - lit de justice_corrected_stemmed,domain,0.07347615945574708
+Harangue - lit de justice_corrected_stemmed,estat,0.07272957798765788
+Harangue - lit de justice_corrected_stemmed,suffir,0.07172048689984324
+Harangue - lit de justice_corrected_stemmed,moyen,0.07161951140194496
+Harangue - lit de justice_corrected_stemmed,raison,0.07161951140194496
+Harangue - lit de justice_corrected_stemmed,vendr,0.0709396280080605
+Harangue - lit de justice_corrected_stemmed,argent,0.07028302156914913
+Harangue - lit de justice_corrected_stemmed,sainct,0.06823064461956078
+Harangue - lit de justice_corrected_stemmed,debt,0.06587400982565998
+Harangue - lit de justice_corrected_stemmed,nom,0.06538333337178966
+Harangue - lit de justice_corrected_stemmed,falloit,0.0642365534377188
+Harangue - lit de justice_corrected_stemmed,somm,0.0642365534377188
+Harangue - lit de justice_corrected_stemmed,prendr,0.06363838073920064
+Harangue - lit de justice_corrected_stemmed,achapt,0.06277630201096955
+Harangue - lit de justice_corrected_stemmed,seiz,0.06277630201096955
+Harangue - lit de justice_corrected_stemmed,ser,0.06195065009476088
+Harangue - lit de justice_corrected_stemmed,alien,0.06096059856933614
+Harangue - lit de justice_corrected_stemmed,regard,0.060316507350048655
+Harangue - lit de justice_corrected_stemmed,dlesdict,0.05937588073291284
+Harangue - lit de justice_corrected_stemmed,mectr,0.05937588073291284
+Harangue - lit de justice_corrected_stemmed,édit,0.05937588073291284
+Harangue - lit de justice_corrected_stemmed,entré,0.058780927564597664
+Harangue - lit de justice_corrected_stemmed,souverain,0.058780927564597664
+Harangue - lit de justice_corrected_stemmed,fort,0.05873265398211566
+Harangue - lit de justice_corrected_stemmed,nécessair,0.05856918464095762
+Harangue - lit de justice_corrected_stemmed,sould,0.05800711463953856
+Harangue - ouverture de parlement_corrected_stemmed,roy,0.2643299695880236
+Harangue - ouverture de parlement_corrected_stemmed,judg,0.22168374225577883
+Harangue - ouverture de parlement_corrected_stemmed,harangu,0.18518310539392335
+Harangue - ouverture de parlement_corrected_stemmed,justic,0.1560524020018935
+Harangue - ouverture de parlement_corrected_stemmed,court,0.13431032169124454
+Harangue - ouverture de parlement_corrected_stemmed,pri,0.11041647735252096
+Harangue - ouverture de parlement_corrected_stemmed,ordon,0.10574288580028242
+Harangue - ouverture de parlement_corrected_stemmed,bon,0.10573198783520944
+Harangue - ouverture de parlement_corrected_stemmed,admonest,0.10565421297681253
+Harangue - ouverture de parlement_corrected_stemmed,subjectz,0.10565421297681253
+Harangue - ouverture de parlement_corrected_stemmed,author,0.10415788507198259
+Harangue - ouverture de parlement_corrected_stemmed,compaign,0.10415788507198259
+Harangue - ouverture de parlement_corrected_stemmed,chos,0.10298446689383256
+Harangue - ouverture de parlement_corrected_stemmed,gard,0.09651880677618735
+Harangue - ouverture de parlement_corrected_stemmed,plainct,0.0953899622983105
+Harangue - ouverture de parlement_corrected_stemmed,dieu,0.0939936762669177
+Harangue - ouverture de parlement_corrected_stemmed,pens,0.09150809026931368
+Harangue - ouverture de parlement_corrected_stemmed,part,0.08915889809347345
+Harangue - ouverture de parlement_corrected_stemmed,parc,0.08673143997703961
+Harangue - ouverture de parlement_corrected_stemmed,mih,0.08537887656497967
+Harangue - ouverture de parlement_corrected_stemmed,doibt,0.08511949200103283
+Harangue - ouverture de parlement_corrected_stemmed,ceter,0.08341067483239041
+Harangue - ouverture de parlement_corrected_stemmed,lou,0.08175957017416426
+Harangue - ouverture de parlement_corrected_stemmed,blasm,0.0811433146908013
+Harangue - ouverture de parlement_corrected_stemmed,com,0.08058619301474672
+Harangue - ouverture de parlement_corrected_stemmed,bien,0.07801403583178927
+Harangue - ouverture de parlement_corrected_stemmed,jug,0.07500153193345577
+Harangue - ouverture de parlement_corrected_stemmed,dissens,0.07406529131488344
+Harangue - ouverture de parlement_corrected_stemmed,honnest,0.07406529131488344
+Harangue - ouverture de parlement_corrected_stemmed,mespris,0.07406529131488344
+Harangue - ouverture de parlement_corrected_stemmed,princ,0.07401239148464661
+Harangue - ouverture de parlement_corrected_stemmed,sed,0.07389458075192627
+Harangue - ouverture de parlement_corrected_stemmed,remonstr,0.0694385900479884
+Harangue - ouverture de parlement_corrected_stemmed,judicum,0.06875310897979564
+Harangue - ouverture de parlement_corrected_stemmed,temp,0.06686917357010509
+Harangue - ouverture de parlement_corrected_stemmed,mauv,0.06574320274916232
+Harangue - ouverture de parlement_corrected_stemmed,volont,0.06536292162093835
+Harangue - ouverture de parlement_corrected_stemmed,mercurial,0.06403442672918373
+Harangue - ouverture de parlement_corrected_stemmed,regardon,0.06403442672918373
+Harangue - ouverture de parlement_corrected_stemmed,aultruy,0.061204101751455166
+Harangue - ouverture de parlement_corrected_stemmed,diligen,0.06017898260417677
+Harangue - ouverture de parlement_corrected_stemmed,fraternel,0.06017898260417677
+Harangue - ouverture de parlement_corrected_stemmed,sçait,0.06017898260417677
+Harangue - ouverture de parlement_corrected_stemmed,pouvoir,0.06000122554676462
+Harangue - ouverture de parlement_corrected_stemmed,quelquefois,0.0572339773789863
+Harangue - ouverture de parlement_corrected_stemmed,clameur,0.056919251043319775
+Harangue - ouverture de parlement_corrected_stemmed,puissanc,0.056746328000688545
+Harangue - ouverture de parlement_corrected_stemmed,administr,0.05542093556394471
+Harangue - ouverture de parlement_corrected_stemmed,facent,0.054095543127200864
+Harangue - ouverture de parlement_corrected_stemmed,majeur,0.054095543127200864
+Harangue - parlement 2_corrected_stemmed,roy,0.25413352170120546
+Harangue - parlement 2_corrected_stemmed,estat,0.23565587577098474
+Harangue - parlement 2_corrected_stemmed,presvostz,0.20048283378221507
+Harangue - parlement 2_corrected_stemmed,royaulm,0.1965142992820763
+Harangue - parlement 2_corrected_stemmed,court,0.19369401304787356
+Harangue - parlement 2_corrected_stemmed,jug,0.18027092683570353
+Harangue - parlement 2_corrected_stemmed,bien,0.1473305982781704
+Harangue - parlement 2_corrected_stemmed,remonstr,0.1460375385741303
+Harangue - parlement 2_corrected_stemmed,advis,0.13756000949745345
+Harangue - parlement 2_corrected_stemmed,desliber,0.13490578395908812
+Harangue - parlement 2_corrected_stemmed,conseil,0.127079857824849
+Harangue - parlement 2_corrected_stemmed,présidiaulx,0.1240355366314279
+Harangue - parlement 2_corrected_stemmed,harangu,0.11127482727051204
+Harangue - parlement 2_corrected_stemmed,mareschaulx,0.10848299385114409
+Harangue - parlement 2_corrected_stemmed,appel,0.10423225144473203
+Harangue - parlement 2_corrected_stemmed,circonscript,0.10024141689110753
+Harangue - parlement 2_corrected_stemmed,différentz,0.10024141689110753
+Harangue - parlement 2_corrected_stemmed,proc,0.09013546341785177
+Harangue - parlement 2_corrected_stemmed,juridict,0.08537707989256692
+Harangue - parlement 2_corrected_stemmed,seil,0.08537707989256692
+Harangue - parlement 2_corrected_stemmed,doibt,0.08524586831342286
+Harangue - parlement 2_corrected_stemmed,con,0.08471990521656601
+Harangue - parlement 2_corrected_stemmed,conserv,0.0809701787934086
+Harangue - parlement 2_corrected_stemmed,bon,0.07624005651036164
+Harangue - parlement 2_corrected_stemmed,regard,0.07445160817480857
+Harangue - parlement 2_corrected_stemmed,assembl,0.07210837073428142
+Harangue - parlement 2_corrected_stemmed,jugemen,0.0684045103870491
+Harangue - parlement 2_corrected_stemmed,temp,0.06696845376280475
+Harangue - parlement 2_corrected_stemmed,empesch,0.06454281836312487
+Harangue - parlement 2_corrected_stemmed,servic,0.06454281836312487
+Harangue - parlement 2_corrected_stemmed,sembl,0.0628415668722626
+Harangue - parlement 2_corrected_stemmed,compaign,0.06258751653177012
+Harangue - parlement 2_corrected_stemmed,navarr,0.06201776831571395
+Harangue - parlement 2_corrected_stemmed,vient,0.06072763409505645
+Harangue - parlement 2_corrected_stemmed,désobeyss,0.0593402044264761
+Harangue - parlement 2_corrected_stemmed,mespris,0.0593402044264761
+Harangue - parlement 2_corrected_stemmed,genz,0.05895428978462291
+Harangue - parlement 2_corrected_stemmed,person,0.05799726454273297
+Harangue - parlement 2_corrected_stemmed,chambr,0.05563741363525602
+Harangue - parlement 2_corrected_stemmed,moyen,0.05500659584483537
+Harangue - parlement 2_corrected_stemmed,parlemen,0.0547068024954667
+Harangue - parlement 2_corrected_stemmed,supérieur,0.0547068024954667
+Harangue - parlement 2_corrected_stemmed,royn,0.054081278050711064
+Harangue - parlement 2_corrected_stemmed,part,0.053574763010243796
+Harangue - parlement 2_corrected_stemmed,inférieur,0.05267264897670911
+Harangue - parlement 2_corrected_stemmed,universel,0.05267264897670911
+Harangue - parlement 2_corrected_stemmed,command,0.05258618335711963
+Harangue - parlement 2_corrected_stemmed,don,0.0521821634499586
+Harangue - parlement 2_corrected_stemmed,justic,0.05114752098805372
+Harangue - parlement 2_corrected_stemmed,princ,0.05082670434024109
+Harangue - parlement 3_corrected_stemmed,frer,0.5008607417512518
+Harangue - parlement 3_corrected_stemmed,roy,0.22621255839682697
+Harangue - parlement 3_corrected_stemmed,amyti,0.18735105130746713
+Harangue - parlement 3_corrected_stemmed,harangu,0.1523836349038049
+Harangue - parlement 3_corrected_stemmed,égal,0.1498348121081815
+Harangue - parlement 3_corrected_stemmed,bon,0.1044057961831509
+Harangue - parlement 3_corrected_stemmed,guerr,0.09927934963239939
+Harangue - parlement 3_corrected_stemmed,jamb,0.09367552565373356
+Harangue - parlement 3_corrected_stemmed,bien,0.09170893955607054
+Harangue - parlement 3_corrected_stemmed,enfan,0.08838718972080914
+Harangue - parlement 3_corrected_stemmed,général,0.08570953110111465
+Harangue - parlement 3_corrected_stemmed,naturel,0.08570953110111465
+Harangue - parlement 3_corrected_stemmed,royaulm,0.08073406349769977
+Harangue - parlement 3_corrected_stemmed,natur,0.07619181745190245
+Harangue - parlement 3_corrected_stemmed,subject,0.07619181745190245
+Harangue - parlement 3_corrected_stemmed,chos,0.07532795353744677
+Harangue - parlement 3_corrected_stemmed,supérieur,0.07491740605409075
+Harangue - parlement 3_corrected_stemmed,chef,0.07406079103206674
+Harangue - parlement 3_corrected_stemmed,filz,0.07213176517965382
+Harangue - parlement 3_corrected_stemmed,doibt,0.07004320164461587
+Harangue - parlement 3_corrected_stemmed,ez,0.07004320164461587
+Harangue - parlement 3_corrected_stemmed,puissanc,0.07004320164461587
+Harangue - parlement 3_corrected_stemmed,autheur,0.06955266456757779
+Harangue - parlement 3_corrected_stemmed,barbar,0.06955266456757779
+Harangue - parlement 3_corrected_stemmed,subjectz,0.06955266456757779
+Harangue - parlement 3_corrected_stemmed,abel,0.06863704868595454
+Harangue - parlement 3_corrected_stemmed,attendon,0.06863704868595454
+Harangue - parlement 3_corrected_stemmed,aupresl,0.06863704868595454
+Harangue - parlement 3_corrected_stemmed,beuv,0.06863704868595454
+Harangue - parlement 3_corrected_stemmed,dumenil,0.06863704868595454
+Harangue - parlement 3_corrected_stemmed,défaill,0.06863704868595454
+Harangue - parlement 3_corrected_stemmed,endom,0.06863704868595454
+Harangue - parlement 3_corrected_stemmed,estran,0.06863704868595454
+Harangue - parlement 3_corrected_stemmed,fruictz,0.06863704868595454
+Harangue - parlement 3_corrected_stemmed,jouissan,0.06863704868595454
+Harangue - parlement 3_corrected_stemmed,slesdict,0.06863704868595454
+Harangue - parlement 3_corrected_stemmed,ticipan,0.06863704868595454
+Harangue - parlement 3_corrected_stemmed,vesteus,0.06863704868595454
+Harangue - parlement 3_corrected_stemmed,édifiérent,0.06863704868595454
+Harangue - parlement 3_corrected_stemmed,monstr,0.068144705222133
+Harangue - parlement 3_corrected_stemmed,endroict,0.06715157934139213
+Harangue - parlement 3_corrected_stemmed,estrangi,0.06715157934139213
+Harangue - parlement 3_corrected_stemmed,paix,0.0663128366301264
+Harangue - parlement 3_corrected_stemmed,sieg,0.06490551411344173
+Harangue - parlement 3_corrected_stemmed,mer,0.06283135360358512
+Harangue - parlement 3_corrected_stemmed,monsieur,0.06279566014375929
+Harangue - parlement 3_corrected_stemmed,accumul,0.06158156411320116
+Harangue - parlement 3_corrected_stemmed,antigon,0.06158156411320116
+Harangue - parlement 3_corrected_stemmed,baptist,0.06158156411320116
+Harangue - parlement 3_corrected_stemmed,bassadeur,0.06158156411320116
+Harangue - parlement_corrected_stemmed,court,0.28643133831106615
+Harangue - parlement_corrected_stemmed,procez,0.2695186621462199
+Harangue - parlement_corrected_stemmed,roy,0.17082192396038537
+Harangue - parlement_corrected_stemmed,harangu,0.16953768199902947
+Harangue - parlement_corrected_stemmed,jug,0.16479584368121128
+Harangue - parlement_corrected_stemmed,édict,0.14326201233212746
+Harangue - parlement_corrected_stemmed,compagn,0.1323809480007988
+Harangue - parlement_corrected_stemmed,conseil,0.12907875664166815
+Harangue - parlement_corrected_stemmed,statut,0.12090686509994149
+Harangue - parlement_corrected_stemmed,transact,0.12090686509994149
+Harangue - parlement_corrected_stemmed,bien,0.10803467443257943
+Harangue - parlement_corrected_stemmed,ser,0.10691256638972951
+Harangue - parlement_corrected_stemmed,empesch,0.10412159721528666
+Harangue - parlement_corrected_stemmed,estatz,0.09572864992050491
+Harangue - parlement_corrected_stemmed,marchandis,0.0922899725448199
+Harangue - parlement_corrected_stemmed,peult,0.09046447925284805
+Harangue - parlement_corrected_stemmed,concil,0.08920308612674209
+Harangue - parlement_corrected_stemmed,comb,0.08886270726313332
+Harangue - parlement_corrected_stemmed,justic,0.08251207049739237
+Harangue - parlement_corrected_stemmed,desjardin,0.08085559864386596
+Harangue - parlement_corrected_stemmed,président,0.07645978810863607
+Harangue - parlement_corrected_stemmed,lettr,0.07540706280416506
+Harangue - parlement_corrected_stemmed,genz,0.07397139999497332
+Harangue - parlement_corrected_stemmed,chos,0.07394799764962723
+Harangue - parlement_corrected_stemmed,arrestz,0.0725441190599649
+Harangue - parlement_corrected_stemmed,transig,0.0725441190599649
+Harangue - parlement_corrected_stemmed,appel,0.07206397757340617
+Harangue - parlement_corrected_stemmed,veu,0.07206397757340617
+Harangue - parlement_corrected_stemmed,priv,0.06980963376430624
+Harangue - parlement_corrected_stemmed,proc,0.06785711210402817
+Harangue - parlement_corrected_stemmed,céan,0.0666987617060638
+Harangue - parlement_corrected_stemmed,ailleurz,0.06664703044735
+Harangue - parlement_corrected_stemmed,religion,0.06405686895413881
+Harangue - parlement_corrected_stemmed,ayde,0.06371649009053006
+Harangue - parlement_corrected_stemmed,pri,0.06243658536609603
+Harangue - parlement_corrected_stemmed,scait,0.06164528718291923
+Harangue - parlement_corrected_stemmed,bon,0.06149589262573873
+Harangue - parlement_corrected_stemmed,quoy,0.060758162672044334
+Harangue - parlement_corrected_stemmed,trouv,0.06074294430196149
+Harangue - parlement_corrected_stemmed,subject,0.05983682894083392
+Harangue - parlement_corrected_stemmed,concern,0.05883597688924391
+Harangue - parlement_corrected_stemmed,pesch,0.05833555086344891
+Harangue - parlement_corrected_stemmed,condamn,0.05784533178627037
+Harangue - parlement_corrected_stemmed,part,0.05761849303070903
+Harangue - parlement_corrected_stemmed,vill,0.05756830497908512
+Harangue - parlement_corrected_stemmed,présent,0.0565552971031238
+Harangue - parlement_corrected_stemmed,arrest,0.056092927939560805
+Harangue - parlement_corrected_stemmed,observ,0.056092927939560805
+Harangue - parlement_corrected_stemmed,sergent,0.05517567297850168
+Harangue - parlement_corrected_stemmed,maistr,0.054426041996807714
+Harangue - religion_corrected_stemmed,édictz,0.26560802205931544
+Harangue - religion_corrected_stemmed,roy,0.2573220681506814
+Harangue - religion_corrected_stemmed,mal,0.18082317156473954
+Harangue - religion_corrected_stemmed,harangu,0.1564874489701841
+Harangue - religion_corrected_stemmed,concil,0.1399722909986842
+Harangue - religion_corrected_stemmed,assembl,0.13689955405217025
+Harangue - religion_corrected_stemmed,conseil,0.13105715269561632
+Harangue - religion_corrected_stemmed,dieu,0.13105715269561632
+Harangue - religion_corrected_stemmed,advis,0.11607161562734851
+Harangue - religion_corrected_stemmed,judg,0.11239920584540207
+Harangue - religion_corrected_stemmed,court,0.10895791160016173
+Harangue - religion_corrected_stemmed,bon,0.10721752839611727
+Harangue - religion_corrected_stemmed,peulvent,0.10465981490268454
+Harangue - religion_corrected_stemmed,religion,0.10051431055842511
+Harangue - religion_corrected_stemmed,réform,0.09998020785620297
+Harangue - religion_corrected_stemmed,aucung,0.09740117120751399
+Harangue - religion_corrected_stemmed,quelquesfois,0.09673019680064925
+Harangue - religion_corrected_stemmed,veneu,0.09076752795524592
+Harangue - religion_corrected_stemmed,princ,0.08577402271689381
+Harangue - religion_corrected_stemmed,enverz,0.08458259965110593
+Harangue - religion_corrected_stemmed,faictz,0.08458259965110593
+Harangue - religion_corrected_stemmed,remed,0.0829082968766775
+Harangue - religion_corrected_stemmed,royaulm,0.0829082968766775
+Harangue - religion_corrected_stemmed,parmy,0.08275203057404676
+Harangue - religion_corrected_stemmed,bien,0.07911013755957355
+Harangue - religion_corrected_stemmed,temp,0.07911013755957355
+Harangue - religion_corrected_stemmed,céan,0.0784948611770134
+Harangue - religion_corrected_stemmed,conventicul,0.07588800630266156
+Harangue - religion_corrected_stemmed,dir,0.07538573291881884
+Harangue - religion_corrected_stemmed,soubz,0.07510591295320163
+Harangue - religion_corrected_stemmed,cy,0.07192952150005745
+Harangue - religion_corrected_stemmed,églis,0.07041420626518569
+Harangue - religion_corrected_stemmed,chos,0.0696209364174495
+Harangue - religion_corrected_stemmed,genz,0.066326637501342
+Harangue - religion_corrected_stemmed,prélatz,0.06493411413834266
+Harangue - religion_corrected_stemmed,chang,0.06442023425506366
+Harangue - religion_corrected_stemmed,selon,0.06442023425506366
+Harangue - religion_corrected_stemmed,malad,0.06259497958807364
+Harangue - religion_corrected_stemmed,médecin,0.062064022930535076
+Harangue - religion_corrected_stemmed,voulu,0.062064022930535076
+Harangue - religion_corrected_stemmed,main,0.061171813505566566
+Harangue - religion_corrected_stemmed,demain,0.06102450079978664
+Harangue - religion_corrected_stemmed,remédi,0.06102450079978664
+Harangue - religion_corrected_stemmed,viendront,0.06102450079978664
+Harangue - religion_corrected_stemmed,jug,0.060844246245409
+Harangue - religion_corrected_stemmed,affair,0.059571433043461956
+Harangue - religion_corrected_stemmed,jour,0.059571433043461956
+Harangue - religion_corrected_stemmed,trouv,0.059571433043461956
+Harangue - religion_corrected_stemmed,diront,0.05771896982145467
+Harangue - religion_corrected_stemmed,édict,0.056199602922701035
+Harangue - septembre_corrected_stemmed,concil,0.33704224956589707
+Harangue - septembre_corrected_stemmed,assembl,0.1538335591669437
+Harangue - septembre_corrected_stemmed,patriarch,0.14256776551986192
+Harangue - septembre_corrected_stemmed,provinciaulx,0.14256776551986192
+Harangue - septembre_corrected_stemmed,harangu,0.13188330710813553
+Harangue - septembre_corrected_stemmed,congnoiss,0.11751466031763443
+Harangue - septembre_corrected_stemmed,aucthor,0.10944936188886864
+Harangue - septembre_corrected_stemmed,malad,0.10550664568650843
+Harangue - septembre_corrected_stemmed,estrangi,0.10461169442507393
+Harangue - septembre_corrected_stemmed,dieu,0.1004103223695536
+Harangue - septembre_corrected_stemmed,bien,0.09524548943332253
+Harangue - septembre_corrected_stemmed,attendr,0.09472695146333478
+Harangue - septembre_corrected_stemmed,héres,0.09246155511540692
+Harangue - septembre_corrected_stemmed,roy,0.09035997658530776
+Harangue - septembre_corrected_stemmed,général,0.08901472722662047
+Harangue - septembre_corrected_stemmed,remonstr,0.08901472722662047
+Harangue - septembre_corrected_stemmed,nic,0.08820440617778401
+Harangue - septembre_corrected_stemmed,cherch,0.08636952037145455
+Harangue - septembre_corrected_stemmed,lequel,0.08471068942190384
+Harangue - septembre_corrected_stemmed,doibvent,0.08384739185734434
+Harangue - septembre_corrected_stemmed,guer,0.08384739185734434
+Harangue - septembre_corrected_stemmed,remed,0.08384739185734434
+Harangue - septembre_corrected_stemmed,convient,0.08095136644045704
+Harangue - septembre_corrected_stemmed,pourr,0.07912998426488133
+Harangue - septembre_corrected_stemmed,évesqu,0.07780642804548171
+Harangue - septembre_corrected_stemmed,cardinal,0.07491336516899956
+Harangue - septembre_corrected_stemmed,assurent,0.07128388275993096
+Harangue - septembre_corrected_stemmed,baptis,0.07128388275993096
+Harangue - septembre_corrected_stemmed,conguoiss,0.07128388275993096
+Harangue - septembre_corrected_stemmed,crucifi,0.07128388275993096
+Harangue - septembre_corrected_stemmed,griesv,0.07128388275993096
+Harangue - septembre_corrected_stemmed,hilair,0.07128388275993096
+Harangue - septembre_corrected_stemmed,liz,0.07128388275993096
+Harangue - septembre_corrected_stemmed,moeurz,0.07128388275993096
+Harangue - septembre_corrected_stemmed,peinel,0.07128388275993096
+Harangue - septembre_corrected_stemmed,provident,0.07128388275993096
+Harangue - septembre_corrected_stemmed,repréhens,0.07128388275993096
+Harangue - septembre_corrected_stemmed,savan,0.07128388275993096
+Harangue - septembre_corrected_stemmed,sayent,0.07128388275993096
+Harangue - septembre_corrected_stemmed,sisteroit,0.07128388275993096
+Harangue - septembre_corrected_stemmed,sortiroit,0.07128388275993096
+Harangue - septembre_corrected_stemmed,souscrir,0.07128388275993096
+Harangue - septembre_corrected_stemmed,veist,0.07128388275993096
+Harangue - septembre_corrected_stemmed,énonc,0.07128388275993096
+Harangue - septembre_corrected_stemmed,entendr,0.06887004267110478
+Harangue - septembre_corrected_stemmed,réform,0.06740844991317942
+Harangue - septembre_corrected_stemmed,ain,0.06525430404821958
+Harangue - septembre_corrected_stemmed,apostr,0.06395631922496836
+Harangue - septembre_corrected_stemmed,arimin,0.06395631922496836
+Harangue - septembre_corrected_stemmed,arrius,0.06395631922496836
+La réponse_corrected_stemmed,argent,0.2712212490171242
+La réponse_corrected_stemmed,monnoy,0.25044836256575015
+La réponse_corrected_stemmed,escus,0.19598740841345835
+La réponse_corrected_stemmed,deni,0.15374031217864706
+La réponse_corrected_stemmed,pris,0.15008165753018513
+La réponse_corrected_stemmed,sous,0.13165057678086414
+La réponse_corrected_stemmed,peupl,0.1210801051711378
+La réponse_corrected_stemmed,dix,0.1112007120970209
+La réponse_corrected_stemmed,pois,0.10386871336149159
+La réponse_corrected_stemmed,cinq,0.09661493980415276
+La réponse_corrected_stemmed,bien,0.09152274728229921
+La réponse_corrected_stemmed,fort,0.09130698065303573
+La réponse_corrected_stemmed,foit,0.08724971922365292
+La réponse_corrected_stemmed,chart,0.08721105037298836
+La réponse_corrected_stemmed,poiffon,0.08721105037298836
+La réponse_corrected_stemmed,pay,0.08667476526686754
+La réponse_corrected_stemmed,erain,0.08435211099257275
+La réponse_corrected_stemmed,forg,0.08348278752191672
+La réponse_corrected_stemmed,efcu,0.08303052260475233
+La réponse_corrected_stemmed,marc,0.0806292503043731
+La réponse_corrected_stemmed,peu,0.07896080157688559
+La réponse_corrected_stemmed,trouu,0.0789402221547336
+La réponse_corrected_stemmed,eftim,0.07839496336538333
+La réponse_corrected_stemmed,chos,0.0755435237902261
+La réponse_corrected_stemmed,bi,0.07478547362027395
+La réponse_corrected_stemmed,foix,0.07478547362027395
+La réponse_corrected_stemmed,apre,0.07416262248485356
+La réponse_corrected_stemmed,viur,0.07403968762286203
+La réponse_corrected_stemmed,billon,0.07230180942220521
+La réponse_corrected_stemmed,maleftroit,0.07230180942220521
+La réponse_corrected_stemmed,decri,0.06715460604779014
+La réponse_corrected_stemmed,efpagn,0.06702102245157598
+La réponse_corrected_stemmed,blé,0.0664759765513546
+La réponse_corrected_stemmed,trafiqu,0.06642441808380187
+La réponse_corrected_stemmed,cauf,0.06532913613781945
+La réponse_corrected_stemmed,grain,0.06532913613781945
+La réponse_corrected_stemmed,fol,0.06464792388556327
+La réponse_corrected_stemmed,franc,0.06448837396726619
+La réponse_corrected_stemmed,maiftr,0.06298575860271383
+La réponse_corrected_stemmed,veu,0.06184781728817093
+La réponse_corrected_stemmed,vaut,0.060973860395298146
+La réponse_corrected_stemmed,meilleur,0.06000560672321598
+La réponse_corrected_stemmed,fel,0.059630562515654795
+La réponse_corrected_stemmed,ainf,0.058166479482435286
+La réponse_corrected_stemmed,plufieur,0.0581407002486589
+La réponse_corrected_stemmed,raifon,0.0581407002486589
+La réponse_corrected_stemmed,cher,0.05792625378358022
+La réponse_corrected_stemmed,roy,0.05788545893812697
+La réponse_corrected_stemmed,moin,0.05737601709542648
+La réponse_corrected_stemmed,feigneur,0.0567100959205643
+Le paradoxe_corrected_stemmed,bien,0.311793393655198
+Le paradoxe_corrected_stemmed,dieu,0.2307030945722288
+Le paradoxe_corrected_stemmed,foit,0.20624562081730236
+Le paradoxe_corrected_stemmed,vertus,0.20559010800021815
+Le paradoxe_corrected_stemmed,chos,0.14713881803038226
+Le paradoxe_corrected_stemmed,vertu,0.12603300814416712
+Le paradoxe_corrected_stemmed,pourquoy,0.12292923049237149
+Le paradoxe_corrected_stemmed,paradox,0.12025662441903599
+Le paradoxe_corrected_stemmed,git,0.11502807553125183
+Le paradoxe_corrected_stemmed,aristot,0.11469648266202845
+Le paradoxe_corrected_stemmed,homm,0.11425969084258807
+Le paradoxe_corrected_stemmed,diuin,0.10979952664346763
+Le paradoxe_corrected_stemmed,vic,0.10763012601723058
+Le paradoxe_corrected_stemmed,souverain,0.10648321139033179
+Le paradoxe_corrected_stemmed,feliqu,0.09557595716829274
+Le paradoxe_corrected_stemmed,puiffanc,0.09396132010368421
+Le paradoxe_corrected_stemmed,prudenc,0.08446275857035129
+Le paradoxe_corrected_stemmed,ame,0.08399069999866308
+Le paradoxe_corrected_stemmed,mediocr,0.08362896252225616
+Le paradoxe_corrected_stemmed,mal,0.08327401197002181
+Le paradoxe_corrected_stemmed,fil,0.08144623147855304
+Le paradoxe_corrected_stemmed,amour,0.07541317729495652
+Le paradoxe_corrected_stemmed,ceft,0.07519999298417546
+Le paradoxe_corrected_stemmed,fr,0.07519999298417546
+Le paradoxe_corrected_stemmed,fcienc,0.07417998955554017
+Le paradoxe_corrected_stemmed,humain,0.07387683321468706
+Le paradoxe_corrected_stemmed,bi,0.07173760724080082
+Le paradoxe_corrected_stemmed,fort,0.07127991971355369
+Le paradoxe_corrected_stemmed,plaif,0.0704999934226645
+Le paradoxe_corrected_stemmed,sapienc,0.0704999934226645
+Le paradoxe_corrected_stemmed,ha,0.06976486263504496
+Le paradoxe_corrected_stemmed,donc,0.06902431916264076
+Le paradoxe_corrected_stemmed,dir,0.06889612923188178
+Le paradoxe_corrected_stemmed,aim,0.06843686666557733
+Le paradoxe_corrected_stemmed,fin,0.0673734700963146
+Le paradoxe_corrected_stemmed,rien,0.06459012115488916
+Le paradoxe_corrected_stemmed,bodin,0.06277040633570072
+Le paradoxe_corrected_stemmed,celt,0.06277040633570072
+Le paradoxe_corrected_stemmed,feul,0.06277040633570072
+Le paradoxe_corrected_stemmed,moral,0.06274258665341008
+Le paradoxe_corrected_stemmed,infin,0.06251116656627366
+Le paradoxe_corrected_stemmed,difoit,0.06109999429964256
+Le paradoxe_corrected_stemmed,fembl,0.05828680588315067
+Le paradoxe_corrected_stemmed,bon,0.05695533605840445
+Le paradoxe_corrected_stemmed,vi,0.056604642125469104
+Le paradoxe_corrected_stemmed,quil,0.05575885451136286
+Le paradoxe_corrected_stemmed,plaift,0.055635226148129206
+Le paradoxe_corrected_stemmed,moin,0.05528337336718492
+Le paradoxe_corrected_stemmed,action,0.05457174574772626
+Le paradoxe_corrected_stemmed,raison,0.05368578495703136
+Lettre_corrected_stemmed,bourbon,0.21212955425600913
+Lettre_corrected_stemmed,roy,0.21015769731124442
+Lettre_corrected_stemmed,foit,0.1495843914722331
+Lettre_corrected_stemmed,iam,0.1495843914722331
+Lettre_corrected_stemmed,fil,0.14377009668312854
+Lettre_corrected_stemmed,navarr,0.1282151926904855
+Lettre_corrected_stemmed,bien,0.11076017001671155
+Lettre_corrected_stemmed,loy,0.10287600059326132
+Lettre_corrected_stemmed,party,0.1022439844978299
+Lettre_corrected_stemmed,cathol,0.10223300987578497
+Lettre_corrected_stemmed,royaum,0.10137670848592534
+Lettre_corrected_stemmed,aisn,0.0996787307036681
+Lettre_corrected_stemmed,vill,0.09485459434489442
+Lettre_corrected_stemmed,maison,0.093992980645872
+Lettre_corrected_stemmed,euft,0.08960229705296929
+Lettre_corrected_stemmed,feu,0.08946348643560116
+Lettre_corrected_stemmed,oncle,0.08178640790062798
+Lettre_corrected_stemmed,monsieur,0.07900059084005194
+Lettre_corrected_stemmed,droi,0.07475904802775107
+Lettre_corrected_stemmed,raifon,0.07475904802775107
+Lettre_corrected_stemmed,part,0.07384011334447436
+Lettre_corrected_stemmed,cardinal,0.07259676295442027
+Lettre_corrected_stemmed,outr,0.07259676295442027
+Lettre_corrected_stemmed,encor,0.07182972754687825
+Lettre_corrected_stemmed,anthonio,0.06907951775386122
+Lettre_corrected_stemmed,eflát,0.06907951775386122
+Lettre_corrected_stemmed,preuoy,0.06907951775386122
+Lettre_corrected_stemmed,roin,0.06907951775386122
+Lettre_corrected_stemmed,couron,0.06771209669198144
+Lettre_corrected_stemmed,eftant,0.06720172278972698
+Lettre_corrected_stemmed,fembl,0.06410759634524275
+Lettre_corrected_stemmed,iug,0.06410759634524275
+Lettre_corrected_stemmed,neantmoin,0.06410759634524275
+Lettre_corrected_stemmed,princ,0.061295995049112956
+Lettre_corrected_stemmed,charl,0.060397992158804634
+Lettre_corrected_stemmed,dont,0.05995161266536107
+Lettre_corrected_stemmed,droit,0.05930465211258398
+Lettre_corrected_stemmed,frer,0.05930465211258398
+Lettre_corrected_stemmed,auiourdhuy,0.05694033314017294
+Lettre_corrected_stemmed,courón,0.05694033314017294
+Lettre_corrected_stemmed,mefm,0.05694033314017294
+Lettre_corrected_stemmed,franc,0.05686016666699559
+Lettre_corrected_stemmed,messieur,0.054447572215815206
+Lettre_corrected_stemmed,estat,0.05413262887071706
+Lettre_corrected_stemmed,don,0.05394055867733969
+Lettre_corrected_stemmed,chreftient,0.05303238856400228
+Lettre_corrected_stemmed,exclus,0.05303238856400228
+Lettre_corrected_stemmed,iurifconfult,0.05303238856400228
+Lettre_corrected_stemmed,liur,0.05303238856400228
+Lettre_corrected_stemmed,maffacr,0.05303238856400228
+Lit de justice_corrected_stemmed,roy,0.35221647829751623
+Lit de justice_corrected_stemmed,ordon,0.2644540404003
+Lit de justice_corrected_stemmed,harangu,0.20840729878988298
+Lit de justice_corrected_stemmed,debv,0.18570138603612604
+Lit de justice_corrected_stemmed,justic,0.17881640415949934
+Lit de justice_corrected_stemmed,gard,0.15207279985829147
+Lit de justice_corrected_stemmed,ressort,0.133366354466823
+Lit de justice_corrected_stemmed,court,0.12092356388010335
+Lit de justice_corrected_stemmed,judg,0.09979422218000139
+Lit de justice_corrected_stemmed,céan,0.09292276349427227
+Lit de justice_corrected_stemmed,président,0.08876794992775999
+Lit de justice_corrected_stemmed,profict,0.08833267747948374
+Lit de justice_corrected_stemmed,conseil,0.08462529292809601
+Lit de justice_corrected_stemmed,adverty,0.08127138281938359
+Lit de justice_corrected_stemmed,proc,0.08103132289751999
+Lit de justice_corrected_stemmed,messieur,0.07892073894957304
+Lit de justice_corrected_stemmed,meurtr,0.07892073894957304
+Lit de justice_corrected_stemmed,présent,0.07879118536295256
+Lit de justice_corrected_stemmed,voul,0.07663560178264257
+Lit de justice_corrected_stemmed,assistent,0.075097103032511
+Lit de justice_corrected_stemmed,groz,0.075097103032511
+Lit de justice_corrected_stemmed,protogat,0.075097103032511
+Lit de justice_corrected_stemmed,servy,0.07347182271297611
+Lit de justice_corrected_stemmed,présiden,0.07305573148735951
+Lit de justice_corrected_stemmed,chos,0.07211553085089172
+Lit de justice_corrected_stemmed,prédécesseur,0.071014359942208
+Lit de justice_corrected_stemmed,bien,0.07023834897169344
+Lit de justice_corrected_stemmed,aulx,0.06737756290005807
+Lit de justice_corrected_stemmed,oser,0.06737756290005807
+Lit de justice_corrected_stemmed,tholos,0.06737756290005807
+Lit de justice_corrected_stemmed,forc,0.06693161685190499
+Lit de justice_corrected_stemmed,ru,0.0666831772334115
+Lit de justice_corrected_stemmed,romain,0.0656593211357938
+Lit de justice_corrected_stemmed,assiz,0.06190046201204201
+Lit de justice_corrected_stemmed,bourdeaulx,0.06190046201204201
+Lit de justice_corrected_stemmed,marry,0.06190046201204201
+Lit de justice_corrected_stemmed,parlemen,0.06147642128868009
+Lit de justice_corrected_stemmed,excus,0.06065981555323426
+Lit de justice_corrected_stemmed,apré,0.060461781940051675
+Lit de justice_corrected_stemmed,marchand,0.05919055421217977
+Lit de justice_corrected_stemmed,estat,0.05884817584004765
+Lit de justice_corrected_stemmed,entre,0.05863937422170212
+Lit de justice_corrected_stemmed,roi,0.05719584157009007
+Lit de justice_corrected_stemmed,bon,0.057116185669867495
+Lit de justice_corrected_stemmed,encor,0.05577634737658749
+Lit de justice_corrected_stemmed,ayt,0.05557527967730213
+Lit de justice_corrected_stemmed,adress,0.05510386703473209
+Lit de justice_corrected_stemmed,nanc,0.05510386703473209
+Lit de justice_corrected_stemmed,amit,0.05418092187958907
+Lit de justice_corrected_stemmed,nommeray,0.05418092187958907
+Memoire - Namur_corrected_stemmed,comt,0.4491534929820643
+Memoire - Namur_corrected_stemmed,duch,0.3104450186912921
+Memoire - Namur_corrected_stemmed,brab,0.27609048080570914
+Memoire - Namur_corrected_stemmed,bauldoin,0.23933975897521054
+Memoire - Namur_corrected_stemmed,namur,0.2254641533262038
+Memoire - Namur_corrected_stemmed,othon,0.2254641533262038
+Memoire - Namur_corrected_stemmed,lorrain,0.21355627428037857
+Memoire - Namur_corrected_stemmed,louvain,0.20514836483589477
+Memoire - Namur_corrected_stemmed,duc,0.19924806314131716
+Memoire - Namur_corrected_stemmed,henry,0.140766837049904
+Memoire - Namur_corrected_stemmed,godefroy,0.13676557655726318
+Memoire - Namur_corrected_stemmed,empereur,0.1265159516890227
+Memoire - Namur_corrected_stemmed,frer,0.10273639426167815
+Memoire - Namur_corrected_stemmed,barbeu,0.10257418241794738
+Memoire - Namur_corrected_stemmed,conrard,0.10257418241794738
+Memoire - Namur_corrected_stemmed,valeran,0.10257418241794738
+Memoire - Namur_corrected_stemmed,luxembourg,0.09203016026856971
+Memoire - Namur_corrected_stemmed,fill,0.08983069859641286
+Memoire - Namur_corrected_stemmed,fil,0.0853920270605645
+Memoire - Namur_corrected_stemmed,arden,0.08454905749732643
+Memoire - Namur_corrected_stemmed,flandr,0.08096151793453761
+Memoire - Namur_corrected_stemmed,charl,0.07174658847445349
+Memoire - Namur_corrected_stemmed,sœur,0.06999638417195989
+Memoire - Namur_corrected_stemmed,gisilbert,0.06838278827863159
+Memoire - Namur_corrected_stemmed,lembourg,0.06838278827863159
+Memoire - Namur_corrected_stemmed,sabr,0.06838278827863159
+Memoire - Namur_corrected_stemmed,ysabeau,0.06838278827863159
+Memoire - Namur_corrected_stemmed,mémoir,0.06702915889610683
+Memoire - Namur_corrected_stemmed,succed,0.06346101319857107
+Memoire - Namur_corrected_stemmed,geoffroy,0.061353440179046474
+Memoire - Namur_corrected_stemmed,vinrent,0.061353440179046474
+Memoire - Namur_corrected_stemmed,roy,0.06067776944689587
+Memoire - Namur_corrected_stemmed,état,0.06058118437060014
+Memoire - Namur_corrected_stemmed,bruxel,0.05636603833155095
+Memoire - Namur_corrected_stemmed,capet,0.05636603833155095
+Memoire - Namur_corrected_stemmed,lothair,0.05636603833155095
+Memoire - Namur_corrected_stemmed,franc,0.05628668040983145
+Memoire - Namur_corrected_stemmed,don,0.053396519309914375
+Memoire - Namur_corrected_stemmed,hugu,0.052497508914349456
+Memoire - Namur_corrected_stemmed,lequel,0.05078947122577251
+Memoire - Namur_corrected_stemmed,jehan,0.04933669023196583
+Memoire - Namur_corrected_stemmed,lieg,0.04933669023196583
+Memoire - Namur_corrected_stemmed,caus,0.045684605595548544
+Memoire - Namur_corrected_stemmed,ii,0.0454358882779501
+Memoire - Namur_corrected_stemmed,vint,0.0454358882779501
+Memoire - Namur_corrected_stemmed,baill,0.045261512440957274
+Memoire - Namur_corrected_stemmed,constantinopl,0.042307342132380715
+Memoire - Namur_corrected_stemmed,appel,0.040631576980618006
+Memoire - Namur_corrected_stemmed,colon,0.040480758967268805
+Memoire - Namur_corrected_stemmed,mourut,0.03882841350552338
+Memoire - le but_corrected_stemmed,roy,0.27355813938501183
+Memoire - le but_corrected_stemmed,mémoir,0.26035053464101493
+Memoire - le but_corrected_stemmed,estat,0.1509000337973695
+Memoire - le but_corrected_stemmed,bien,0.1197756004863155
+Memoire - le but_corrected_stemmed,homm,0.1153394671349705
+Memoire - le but_corrected_stemmed,chos,0.11386732327895374
+Memoire - le but_corrected_stemmed,estrangi,0.10556805334354094
+Memoire - le but_corrected_stemmed,subject,0.10442366342691772
+Memoire - le but_corrected_stemmed,libert,0.1020370457913301
+Memoire - le but_corrected_stemmed,don,0.0993789150009501
+Memoire - le but_corrected_stemmed,guerr,0.09604656560985761
+Memoire - le but_corrected_stemmed,peupl,0.09353378990082493
+Memoire - le but_corrected_stemmed,victoir,0.09112631450060799
+Memoire - le but_corrected_stemmed,paix,0.09088416006771075
+Memoire - le but_corrected_stemmed,ruyn,0.08550908167734597
+Memoire - le but_corrected_stemmed,genz,0.08461392375832986
+Memoire - le but_corrected_stemmed,princ,0.08417173519538826
+Memoire - le but_corrected_stemmed,ennemy,0.08127982460005204
+Memoire - le but_corrected_stemmed,vray,0.07805174161932904
+Memoire - le but_corrected_stemmed,naturel,0.07600872979503208
+Memoire - le but_corrected_stemmed,bon,0.07575456167584943
+Memoire - le but_corrected_stemmed,dieu,0.07482703192065995
+Memoire - le but_corrected_stemmed,huy,0.07371082124253014
+Memoire - le but_corrected_stemmed,nécess,0.07353303398021102
+Memoire - le but_corrected_stemmed,donc,0.07340928806235192
+Memoire - le but_corrected_stemmed,moyen,0.0728750868985304
+Memoire - le but_corrected_stemmed,élev,0.07186145118137809
+Memoire - le but_corrected_stemmed,enver,0.07125756806445498
+Memoire - le but_corrected_stemmed,peult,0.0709163087794081
+Memoire - le but_corrected_stemmed,bataill,0.06834473587545598
+Memoire - le but_corrected_stemmed,sang,0.06834473587545598
+Memoire - le but_corrected_stemmed,esprit,0.0670454688789065
+Memoire - le but_corrected_stemmed,peu,0.06654200027017527
+Memoire - le but_corrected_stemmed,voir,0.06386271932861232
+Memoire - le but_corrected_stemmed,franc,0.0637657010362141
+Memoire - le but_corrected_stemmed,capitul,0.06372112310086633
+Memoire - le but_corrected_stemmed,party,0.06142568436877513
+Memoire - le but_corrected_stemmed,abandon,0.0610601026267586
+Memoire - le but_corrected_stemmed,repoz,0.0610601026267586
+Memoire - le but_corrected_stemmed,ser,0.060785407525206954
+Memoire - le but_corrected_stemmed,pauvr,0.06075087633373866
+Memoire - le but_corrected_stemmed,avon,0.059707655312321875
+Memoire - le but_corrected_stemmed,chef,0.059707655312321875
+Memoire - le but_corrected_stemmed,dir,0.05918200170880707
+Memoire - le but_corrected_stemmed,encor,0.05918200170880707
+Memoire - le but_corrected_stemmed,servyc,0.058962327440983085
+Memoire - le but_corrected_stemmed,couron,0.05857887029422837
+Memoire - le but_corrected_stemmed,droict,0.058057017571465745
+Memoire - le but_corrected_stemmed,veult,0.058057017571465745
+Memoire - le but_corrected_stemmed,mal,0.05766973356748525
+Memoire au roi_corrected_stemmed,mémoir,0.23509339776912458
+Memoire au roi_corrected_stemmed,roy,0.19761576465083458
+Memoire au roi_corrected_stemmed,manuscr,0.14838582157801644
+Memoire au roi_corrected_stemmed,indiqu,0.12978005019382652
+Memoire au roi_corrected_stemmed,justic,0.12237729814550839
+Memoire au roi_corrected_stemmed,sommerset,0.11992051153638977
+Memoire au roi_corrected_stemmed,soulign,0.11992051153638977
+Memoire au roi_corrected_stemmed,partial,0.09884715613609382
+Memoire au roi_corrected_stemmed,sceau,0.09884715613609382
+Memoire au roi_corrected_stemmed,chos,0.09870798891570658
+Memoire au roi_corrected_stemmed,majest,0.09686600171111386
+Memoire au roi_corrected_stemmed,mesmoir,0.09206305097919222
+Memoire au roi_corrected_stemmed,cruault,0.08652003346255102
+Memoire au roi_corrected_stemmed,espaign,0.08652003346255102
+Memoire au roi_corrected_stemmed,écrit,0.08652003346255102
+Memoire au roi_corrected_stemmed,conseil,0.08445988599304471
+Memoire au roi_corrected_stemmed,tousjour,0.08387966043726311
+Memoire au roi_corrected_stemmed,correct,0.08183347892939569
+Memoire au roi_corrected_stemmed,fraisch,0.08183347892939569
+Memoire au roi_corrected_stemmed,bien,0.08011549997104077
+Memoire au roi_corrected_stemmed,offens,0.07967933308306839
+Memoire au roi_corrected_stemmed,original,0.07777380073579787
+Memoire au roi_corrected_stemmed,scach,0.07777380073579787
+Memoire au roi_corrected_stemmed,pap,0.07487451026790048
+Memoire au roi_corrected_stemmed,églis,0.07487451026790048
+Memoire au roi_corrected_stemmed,honneur,0.07318465473013637
+Memoire au roi_corrected_stemmed,loyx,0.07264950128333539
+Memoire au roi_corrected_stemmed,genz,0.07052801933073738
+Memoire au roi_corrected_stemmed,profict,0.07052801933073738
+Memoire au roi_corrected_stemmed,person,0.06938311376056423
+Memoire au roi_corrected_stemmed,grac,0.06850085724215751
+Memoire au roi_corrected_stemmed,dieu,0.06756790879443578
+Memoire au roi_corrected_stemmed,mot,0.06469835253254812
+Memoire au roi_corrected_stemmed,comt,0.0630131856189275
+Memoire au roi_corrected_stemmed,gré,0.0630131856189275
+Memoire au roi_corrected_stemmed,pli,0.0630131856189275
+Memoire au roi_corrected_stemmed,droict,0.06290974532794733
+Memoire au roi_corrected_stemmed,bon,0.06080485066179526
+Memoire au roi_corrected_stemmed,princ,0.06080485066179526
+Memoire au roi_corrected_stemmed,subjectz,0.060760123529099735
+Memoire au roi_corrected_stemmed,bordereau,0.05996025576819489
+Memoire au roi_corrected_stemmed,confidentiel,0.05996025576819489
+Memoire au roi_corrected_stemmed,conor,0.05996025576819489
+Memoire au roi_corrected_stemmed,desplaisoit,0.05996025576819489
+Memoire au roi_corrected_stemmed,diffugiunt,0.05996025576819489
+Memoire au roi_corrected_stemmed,déchif,0.05996025576819489
+Memoire au roi_corrected_stemmed,encoureus,0.05996025576819489
+Memoire au roi_corrected_stemmed,eschappay,0.05996025576819489
+Memoire au roi_corrected_stemmed,excipiunt,0.05996025576819489
+Memoire au roi_corrected_stemmed,fendeus,0.05996025576819489
+Memoires d'État Refuge_corrected_stemmed,conseil,0.34783856897261217
+Memoires d'État Refuge_corrected_stemmed,estat,0.26607449166607583
+Memoires d'État Refuge_corrected_stemmed,bien,0.17528418561205336
+Memoires d'État Refuge_corrected_stemmed,raison,0.15879600900416319
+Memoires d'État Refuge_corrected_stemmed,affair,0.15217937392551784
+Memoires d'État Refuge_corrected_stemmed,adviz,0.13212239030153167
+Memoires d'État Refuge_corrected_stemmed,résouldr,0.1184847972921576
+Memoires d'État Refuge_corrected_stemmed,expérient,0.11324776311559857
+Memoires d'État Refuge_corrected_stemmed,vieillard,0.11135095478030611
+Memoires d'État Refuge_corrected_stemmed,fortun,0.10945988700945429
+Memoires d'État Refuge_corrected_stemmed,nécessair,0.10908290457761931
+Memoires d'État Refuge_corrected_stemmed,qualit,0.10254699934782131
+Memoires d'État Refuge_corrected_stemmed,conseiller,0.09121657250787857
+Memoires d'État Refuge_corrected_stemmed,doibvent,0.09076929327172199
+Memoires d'État Refuge_corrected_stemmed,mémoir,0.09076929327172199
+Memoires d'État Refuge_corrected_stemmed,consider,0.08566244684803068
+Memoires d'État Refuge_corrected_stemmed,party,0.08566244684803068
+Memoires d'État Refuge_corrected_stemmed,enver,0.08281141810585771
+Memoires d'État Refuge_corrected_stemmed,moin,0.08241482633176067
+Memoires d'État Refuge_corrected_stemmed,ailleur,0.08030267551317329
+Memoires d'État Refuge_corrected_stemmed,vieulx,0.07898953265887006
+Memoires d'État Refuge_corrected_stemmed,établ,0.07898953265887006
+Memoires d'État Refuge_corrected_stemmed,résolu,0.07819804843768392
+Memoires d'État Refuge_corrected_stemmed,esprit,0.07791636041258522
+Memoires d'État Refuge_corrected_stemmed,irrésolu,0.07716862166436567
+Memoires d'État Refuge_corrected_stemmed,offici,0.07564107772643498
+Memoires d'État Refuge_corrected_stemmed,chos,0.07410480420194282
+Memoires d'État Refuge_corrected_stemmed,moyen,0.07410480420194282
+Memoires d'État Refuge_corrected_stemmed,peult,0.07064127971293772
+Memoires d'État Refuge_corrected_stemmed,don,0.0702997330756659
+Memoires d'État Refuge_corrected_stemmed,circonst,0.0692361416105578
+Memoires d'État Refuge_corrected_stemmed,hospit,0.0692361416105578
+Memoires d'État Refuge_corrected_stemmed,évent,0.0692361416105578
+Memoires d'État Refuge_corrected_stemmed,bon,0.06847366057678417
+Memoires d'État Refuge_corrected_stemmed,princ,0.06847366057678417
+Memoires d'État Refuge_corrected_stemmed,judg,0.06836466623188088
+Memoires d'État Refuge_corrected_stemmed,ayent,0.06624913448468617
+Memoires d'État Refuge_corrected_stemmed,surtout,0.0657256429664681
+Memoires d'État Refuge_corrected_stemmed,doibt,0.06562463265533142
+Memoires d'État Refuge_corrected_stemmed,préveoi,0.06360795744396093
+Memoires d'État Refuge_corrected_stemmed,advient,0.06317221975462245
+Memoires d'État Refuge_corrected_stemmed,soyent,0.06317221975462245
+Memoires d'État Refuge_corrected_stemmed,hospital,0.062129592051844255
+Memoires d'État Refuge_corrected_stemmed,peu,0.06186500668660706
+Memoires d'État Refuge_corrected_stemmed,ault,0.060823298098814815
+Memoires d'État Refuge_corrected_stemmed,ouyr,0.060823298098814815
+Memoires d'État Refuge_corrected_stemmed,magistrat,0.060512862181147986
+Memoires d'État Refuge_corrected_stemmed,pens,0.060471475378653605
+Memoires d'État Refuge_corrected_stemmed,chang,0.05877356223696794
+Memoires d'État Refuge_corrected_stemmed,jeun,0.05877356223696794
+Memoires d'état_corrected_stemmed,roy,0.43973634900953285
+Memoires d'état_corrected_stemmed,comt,0.38475849513579047
+Memoires d'état_corrected_stemmed,duc,0.2745264067547766
+Memoires d'état_corrected_stemmed,état,0.2265835259783625
+Memoires d'état_corrected_stemmed,mémoir,0.1985238610618015
+Memoires d'état_corrected_stemmed,hommaig,0.159470808904811
+Memoires d'état_corrected_stemmed,terr,0.12269727381409441
+Memoires d'état_corrected_stemmed,charl,0.11078836980373775
+Memoires d'état_corrected_stemmed,traict,0.10975780153273235
+Memoires d'état_corrected_stemmed,jean,0.1020299743064841
+Memoires d'état_corrected_stemmed,cinq,0.0980615910329733
+Memoires d'état_corrected_stemmed,duch,0.0976717546789434
+Memoires d'état_corrected_stemmed,mariaig,0.09169610076062959
+Memoires d'état_corrected_stemmed,mill,0.08872239188697584
+Memoires d'état_corrected_stemmed,bretaign,0.08242843010017842
+Memoires d'état_corrected_stemmed,mois,0.077818509001354
+Memoires d'état_corrected_stemmed,daulphin,0.0770503033877528
+Memoires d'état_corrected_stemmed,feit,0.07673769637633518
+Memoires d'état_corrected_stemmed,philipp,0.07611773079714763
+Memoires d'état_corrected_stemmed,jehan,0.07493493645470765
+Memoires d'état_corrected_stemmed,sainct,0.07330111793051132
+Memoires d'état_corrected_stemmed,droict,0.0726481113467133
+Memoires d'état_corrected_stemmed,franc,0.06981758105931007
+Memoires d'état_corrected_stemmed,lettr,0.06810760438754371
+Memoires d'état_corrected_stemmed,arthois,0.06751099264270662
+Memoires d'état_corrected_stemmed,dix,0.06606776282297391
+Memoires d'état_corrected_stemmed,archiduc,0.06290092384892379
+Memoires d'état_corrected_stemmed,huict,0.06276202402924241
+Memoires d'état_corrected_stemmed,don,0.06217758665967851
+Memoires d'état_corrected_stemmed,bourgongn,0.06024452780848416
+Memoires d'état_corrected_stemmed,soix,0.06015756143645539
+Memoires d'état_corrected_stemmed,baill,0.06015219048598424
+Memoires d'état_corrected_stemmed,appanaig,0.059721262722394315
+Memoires d'état_corrected_stemmed,seigneur,0.057088029927561686
+Memoires d'état_corrected_stemmed,loy,0.05671492245821371
+Memoires d'état_corrected_stemmed,pay,0.05585560545127108
+Memoires d'état_corrected_stemmed,vill,0.05466971333415192
+Memoires d'état_corrected_stemmed,paris,0.05438449625495747
+Memoires d'état_corrected_stemmed,fil,0.05295981862592146
+Memoires d'état_corrected_stemmed,foy,0.05229951521758576
+Memoires d'état_corrected_stemmed,ser,0.052292769276145325
+Memoires d'état_corrected_stemmed,flandr,0.05226150403685671
+Memoires d'état_corrected_stemmed,ressort,0.05226150403685671
+Memoires d'état_corrected_stemmed,desdict,0.05182823086470368
+Memoires d'état_corrected_stemmed,entre,0.05068824999430314
+Memoires d'état_corrected_stemmed,neuf,0.05048249758873847
+Memoires d'état_corrected_stemmed,hoir,0.04983483736990739
+Memoires d'état_corrected_stemmed,jour,0.04974243810213101
+Memoires d'état_corrected_stemmed,arras,0.04922658271995318
+Memoires d'état_corrected_stemmed,soubverainet,0.04922658271995318
+Recueil_corrected_stemmed,deput,0.5591379801091445
+Recueil_corrected_stemmed,estat,0.317819110317629
+Recueil_corrected_stemmed,roy,0.2206905615588948
+Recueil_corrected_stemmed,tier,0.16650638233114315
+Recueil_corrected_stemmed,assemble,0.15827280969946098
+Recueil_corrected_stemmed,president,0.146440899552395
+Recueil_corrected_stemmed,iour,0.14113959307638937
+Recueil_corrected_stemmed,bodin,0.0948608398224864
+Recueil_corrected_stemmed,cayer,0.09397448075905496
+Recueil_corrected_stemmed,franc,0.09092194405626872
+Recueil_corrected_stemmed,apre,0.08287437864742596
+Recueil_corrected_stemmed,royaum,0.07984319517315933
+Recueil_corrected_stemmed,dé,0.07093339589899289
+Recueil_corrected_stemmed,deliber,0.07056979653819469
+Recueil_corrected_stemmed,arreft,0.07038062309410281
+Recueil_corrected_stemmed,nobless,0.06781836716908941
+Recueil_corrected_stemmed,cai,0.06522994662057241
+Recueil_corrected_stemmed,clerg,0.06459323130541536
+Recueil_corrected_stemmed,auis,0.06455013370474316
+Recueil_corrected_stemmed,lesdit,0.06423208879350352
+Recueil_corrected_stemmed,fuft,0.0609466424648045
+Recueil_corrected_stemmed,part,0.05815567174574023
+Recueil_corrected_stemmed,general,0.058140514729911025
+Recueil_corrected_stemmed,eftoyent,0.057738924440341115
+Recueil_corrected_stemmed,nauarr,0.05709519003866979
+Recueil_corrected_stemmed,depur,0.05695600032771455
+Recueil_corrected_stemmed,efte,0.05453120641587771
+Recueil_corrected_stemmed,lé,0.050809306019283206
+Recueil_corrected_stemmed,maieft,0.05062734292581857
+Recueil_corrected_stemmed,refolu,0.05062734292581857
+Recueil_corrected_stemmed,domain,0.05012005111464383
+Recueil_corrected_stemmed,paix,0.049378259503449866
+Recueil_corrected_stemmed,prefent,0.04811577036695093
+Recueil_corrected_stemmed,ur,0.04684660878707077
+Recueil_corrected_stemmed,feroit,0.04654194532278326
+Recueil_corrected_stemmed,bien,0.04626019343411155
+Recueil_corrected_stemmed,ceft,0.04490805234248753
+Recueil_corrected_stemmed,religion,0.04408232237455901
+Recueil_corrected_stemmed,refponc,0.04282139252900234
+Recueil_corrected_stemmed,fit,0.04246154569086748
+Recueil_corrected_stemmed,feruic,0.04170033431802413
+Recueil_corrected_stemmed,eglif,0.04050187434065486
+Recueil_corrected_stemmed,prouinc,0.03849261629356074
+Recueil_corrected_stemmed,dir,0.038204679391284475
+Recueil_corrected_stemmed,depu,0.037970666885143035
+Recueil_corrected_stemmed,mois,0.03705766937765177
+Recueil_corrected_stemmed,bi,0.03672032509257538
+Recueil_corrected_stemmed,fix,0.03672032509257538
+Recueil_corrected_stemmed,sieur,0.035956444848539
+Recueil_corrected_stemmed,audit,0.035684493774168616
+Remonstrances - Royaume_corrected_stemmed,roy,0.21155840123595887
+Remonstrances - Royaume_corrected_stemmed,officierz,0.15597909462019197
+Remonstrances - Royaume_corrected_stemmed,court,0.13437029563263736
+Remonstrances - Royaume_corrected_stemmed,pai,0.13240840422464878
+Remonstrances - Royaume_corrected_stemmed,harangu,0.12865680256479073
+Remonstrances - Royaume_corrected_stemmed,corrompeuz,0.12478327569615356
+Remonstrances - Royaume_corrected_stemmed,sédit,0.1233182895356654
+Remonstrances - Royaume_corrected_stemmed,mal,0.12078992040221669
+Remonstrances - Royaume_corrected_stemmed,part,0.12078992040221669
+Remonstrances - Royaume_corrected_stemmed,royaum,0.1190611165723653
+Remonstrances - Royaume_corrected_stemmed,debt,0.1184563558253094
+Remonstrances - Royaume_corrected_stemmed,peult,0.11670609073754908
+Remonstrances - Royaume_corrected_stemmed,bon,0.11459413400281106
+Remonstrances - Royaume_corrected_stemmed,jug,0.11255253384732355
+Remonstrances - Royaume_corrected_stemmed,compagn,0.09487863239499422
+Remonstrances - Royaume_corrected_stemmed,justic,0.09461944514643844
+Remonstrances - Royaume_corrected_stemmed,veoyt,0.09358745677211516
+Remonstrances - Royaume_corrected_stemmed,seigneur,0.090526786474663
+Remonstrances - Royaume_corrected_stemmed,commanc,0.08597976185809691
+Remonstrances - Royaume_corrected_stemmed,ser,0.0848771569000357
+Remonstrances - Royaume_corrected_stemmed,religion,0.08263825561445055
+Remonstrances - Royaume_corrected_stemmed,icel,0.08179607849019079
+Remonstrances - Royaume_corrected_stemmed,gen,0.08054796597802698
+Remonstrances - Royaume_corrected_stemmed,proces,0.08007877523782836
+Remonstrances - Royaume_corrected_stemmed,meur,0.07952713085766805
+Remonstrances - Royaume_corrected_stemmed,conseil,0.07836303959211069
+Remonstrances - Royaume_corrected_stemmed,édict,0.07700789280575912
+Remonstrances - Royaume_corrected_stemmed,usé,0.07590290591599537
+Remonstrances - Royaume_corrected_stemmed,bien,0.07433225870905641
+Remonstrances - Royaume_corrected_stemmed,mectr,0.07118083418284447
+Remonstrances - Royaume_corrected_stemmed,congnoissent,0.06953993368377082
+Remonstrances - Royaume_corrected_stemmed,deuz,0.06953993368377082
+Remonstrances - Royaume_corrected_stemmed,doyt,0.06953993368377082
+Remonstrances - Royaume_corrected_stemmed,haro,0.06953993368377082
+Remonstrances - Royaume_corrected_stemmed,mallad,0.06953993368377082
+Remonstrances - Royaume_corrected_stemmed,préluyr,0.06953993368377082
+Remonstrances - Royaume_corrected_stemmed,seull,0.06953993368377082
+Remonstrances - Royaume_corrected_stemmed,offici,0.06816339874182564
+Remonstrances - Royaume_corrected_stemmed,aulcun,0.06620420211232439
+Remonstrances - Royaume_corrected_stemmed,chambr,0.06432840128239536
+Remonstrances - Royaume_corrected_stemmed,vill,0.06365786767502678
+Remonstrances - Royaume_corrected_stemmed,conseillerz,0.06239163784807678
+Remonstrances - Royaume_corrected_stemmed,doybt,0.06239163784807678
+Remonstrances - Royaume_corrected_stemmed,prestz,0.06239163784807678
+Remonstrances - Royaume_corrected_stemmed,dir,0.06197869171083791
+Remonstrances - Royaume_corrected_stemmed,ven,0.06197869171083791
+Remonstrances - Royaume_corrected_stemmed,désir,0.06174863657026904
+Remonstrances - Royaume_corrected_stemmed,cy,0.059137153216524026
+Remonstrances - Royaume_corrected_stemmed,souloit,0.05731984123873128
+Remonstrances - Royaume_corrected_stemmed,suspicion,0.05731984123873128
+Remonstrances - parlement_corrected_stemmed,judg,0.4107451684604408
+Remonstrances - parlement_corrected_stemmed,roy,0.2840619205270228
+Remonstrances - parlement_corrected_stemmed,harangu,0.20015054454356085
+Remonstrances - parlement_corrected_stemmed,proc,0.145914366038248
+Remonstrances - parlement_corrected_stemmed,bien,0.139385339645563
+Remonstrances - parlement_corrected_stemmed,céan,0.1314715823554356
+Remonstrances - parlement_corrected_stemmed,chambr,0.12151997347287623
+Remonstrances - parlement_corrected_stemmed,party,0.11437173973917764
+Remonstrances - parlement_corrected_stemmed,justic,0.11171341346703251
+Remonstrances - parlement_corrected_stemmed,chos,0.10600780436300242
+Remonstrances - parlement_corrected_stemmed,ordon,0.10340484263650256
+Remonstrances - parlement_corrected_stemmed,offic,0.09954237536353776
+Remonstrances - parlement_corrected_stemmed,bon,0.09795238638862855
+Remonstrances - parlement_corrected_stemmed,plainct,0.09720844277631416
+Remonstrances - parlement_corrected_stemmed,récus,0.09659180274341969
+Remonstrances - parlement_corrected_stemmed,présiden,0.08770172952271019
+Remonstrances - parlement_corrected_stemmed,édictz,0.0866627340092902
+Remonstrances - parlement_corrected_stemmed,temp,0.08259871978996326
+Remonstrances - parlement_corrected_stemmed,jay,0.07909682658907653
+Remonstrances - parlement_corrected_stemmed,différend,0.07380103329492889
+Remonstrances - parlement_corrected_stemmed,soyent,0.07380103329492889
+Remonstrances - parlement_corrected_stemmed,compaign,0.0723705778134134
+Remonstrances - parlement_corrected_stemmed,absen,0.06933018720743216
+Remonstrances - parlement_corrected_stemmed,genz,0.0681694410118801
+Remonstrances - parlement_corrected_stemmed,diligent,0.06615092811946781
+Remonstrances - parlement_corrected_stemmed,requis,0.06591402215756378
+Remonstrances - parlement_corrected_stemmed,peult,0.06484246445640675
+Remonstrances - parlement_corrected_stemmed,mois,0.06432940250081191
+Remonstrances - parlement_corrected_stemmed,remonstr,0.06432940250081191
+Remonstrances - parlement_corrected_stemmed,royaulm,0.060595058677226754
+Remonstrances - parlement_corrected_stemmed,pens,0.0605536156577559
+Remonstrances - parlement_corrected_stemmed,dépesch,0.05932286943216444
+Remonstrances - parlement_corrected_stemmed,mercurial,0.05932286943216444
+Remonstrances - parlement_corrected_stemmed,ez,0.05914239536489956
+Remonstrances - parlement_corrected_stemmed,premi,0.05830429239965133
+Remonstrances - parlement_corrected_stemmed,dient,0.05804673239505868
+Remonstrances - parlement_corrected_stemmed,judgeoient,0.05795508164605181
+Remonstrances - parlement_corrected_stemmed,appel,0.05739276457804687
+Remonstrances - parlement_corrected_stemmed,encor,0.05739276457804687
+Remonstrances - parlement_corrected_stemmed,aprez,0.05717973167660649
+Remonstrances - parlement_corrected_stemmed,court,0.055992586141989986
+Remonstrances - parlement_corrected_stemmed,gard,0.055885685878274464
+Remonstrances - parlement_corrected_stemmed,diligen,0.0557511031165529
+Remonstrances - parlement_corrected_stemmed,expédit,0.0557511031165529
+Remonstrances - parlement_corrected_stemmed,distribu,0.05480428488314701
+Remonstrances - parlement_corrected_stemmed,pass,0.05449825409198031
+Remonstrances - parlement_corrected_stemmed,chanceli,0.050297117290447016
+Remonstrances - parlement_corrected_stemmed,entre,0.05028230241556392
+Remonstrances - parlement_corrected_stemmed,conseil,0.048981241248869635
+Remonstrances - parlement_corrected_stemmed,escript,0.048247051875608925
+République_corrected_stemmed,sujet,0.3227167898298517
+République_corrected_stemmed,republ,0.29986574084999823
+République_corrected_stemmed,roy,0.18413660285538444
+République_corrected_stemmed,bien,0.17892165396041268
+République_corrected_stemmed,estat,0.16775988682014623
+République_corrected_stemmed,foit,0.15657886434829804
+République_corrected_stemmed,princ,0.1479904558748227
+République_corrected_stemmed,peupl,0.14064388132468725
+République_corrected_stemmed,senat,0.12287980213622832
+République_corrected_stemmed,magistrat,0.11265276057461124
+République_corrected_stemmed,iug,0.11153562939878765
+République_corrected_stemmed,iustic,0.11050744416317873
+République_corrected_stemmed,puissanc,0.10746449840618842
+République_corrected_stemmed,pefson,0.10010674353605603
+République_corrected_stemmed,iusqu,0.09525977531122128
+République_corrected_stemmed,empereur,0.08931718494234431
+République_corrected_stemmed,souverain,0.0889265723994687
+République_corrected_stemmed,royaum,0.08840056559903789
+République_corrected_stemmed,populair,0.08343727780690889
+République_corrected_stemmed,souverainet,0.08103879238633106
+République_corrected_stemmed,apre,0.0806996197308187
+République_corrected_stemmed,droit,0.07943075654772029
+République_corrected_stemmed,fort,0.07923165917561088
+République_corrected_stemmed,loi,0.07794259249062015
+République_corrected_stemmed,fil,0.07630288957310641
+République_corrected_stemmed,neantmoin,0.07560828723667817
+République_corrected_stemmed,romain,0.0738097120426642
+République_corrected_stemmed,doit,0.06995728212873503
+République_corrected_stemmed,colleg,0.06520776522373631
+République_corrected_stemmed,vill,0.06479537301970273
+République_corrected_stemmed,loy,0.06339074924291514
+République_corrected_stemmed,chos,0.061591203513743684
+République_corrected_stemmed,don,0.06045901011729122
+République_corrected_stemmed,auoient,0.06023739113208566
+République_corrected_stemmed,ceft,0.060145754624160865
+République_corrected_stemmed,efté,0.05844895963686469
+République_corrected_stemmed,cauf,0.05817837012710888
+République_corrected_stemmed,trouu,0.057644616155623433
+République_corrected_stemmed,dir,0.057035067265512066
+République_corrected_stemmed,edit,0.05677931187692274
+République_corrected_stemmed,aufl,0.05596642826941194
+République_corrected_stemmed,iam,0.05549970020564674
+République_corrected_stemmed,com,0.05540635891734268
+République_corrected_stemmed,seigneur,0.05478518205655373
+République_corrected_stemmed,eftoyent,0.054524656061155176
+République_corrected_stemmed,monarch,0.05439679663435743
+République_corrected_stemmed,couftum,0.05340043634855404
+République_corrected_stemmed,empir,0.05313962689841231
+République_corrected_stemmed,esclav,0.05228232628068172
+République_corrected_stemmed,entre,0.051209683942631
+Théatre_corrected_stemmed,foit,0.25072919123866766
+Théatre_corrected_stemmed,chos,0.18282130204316277
+Théatre_corrected_stemmed,corp,0.16366392269750607
+Théatre_corrected_stemmed,eau,0.15896130847119908
+Théatre_corrected_stemmed,natur,0.15388764058518736
+Théatre_corrected_stemmed,animal,0.15229871702498374
+Théatre_corrected_stemmed,ame,0.15213216845424107
+Théatre_corrected_stemmed,terr,0.13700932737225638
+Théatre_corrected_stemmed,mouv,0.135167647283793
+Théatre_corrected_stemmed,fort,0.13019062641499277
+Théatre_corrected_stemmed,pourquoy,0.11739277938159777
+Théatre_corrected_stemmed,soleil,0.10535870981297467
+Théatre_corrected_stemmed,fois,0.10395513694594499
+Théatre_corrected_stemmed,pourc,0.10286812927403474
+Théatre_corrected_stemmed,air,0.10172153439842066
+Théatre_corrected_stemmed,ceft,0.10040716924355544
+Théatre_corrected_stemmed,efté,0.09625371573769076
+Théatre_corrected_stemmed,form,0.09336321925653461
+Théatre_corrected_stemmed,mefin,0.09253209714602169
+Théatre_corrected_stemmed,ariftot,0.09192223769208213
+Théatre_corrected_stemmed,part,0.09146486828703085
+Théatre_corrected_stemmed,raifon,0.09034452851343236
+Théatre_corrected_stemmed,lefquel,0.08639357900358585
+Théatre_corrected_stemmed,celà,0.08596418773702352
+Théatre_corrected_stemmed,fuft,0.08219606501800862
+Théatre_corrected_stemmed,mond,0.08199852381546478
+Théatre_corrected_stemmed,plant,0.07972036429668201
+Théatre_corrected_stemmed,homm,0.07909378854089143
+Théatre_corrected_stemmed,caus,0.07828257019688228
+Théatre_corrected_stemmed,diametr,0.0766506918172889
+Théatre_corrected_stemmed,moin,0.07572495397814993
+Théatre_corrected_stemmed,apre,0.07571941874940122
+Théatre_corrected_stemmed,rien,0.0737274707564601
+Théatre_corrected_stemmed,matier,0.07255745228455866
+Théatre_corrected_stemmed,lun,0.0713678408838997
+Théatre_corrected_stemmed,fin,0.07012704817132866
+Théatre_corrected_stemmed,naturel,0.0688653029194051
+Théatre_corrected_stemmed,là,0.06520960272029037
+Théatre_corrected_stemmed,foyent,0.06398496079246181
+Théatre_corrected_stemmed,dir,0.06380695481369483
+Théatre_corrected_stemmed,feu,0.06374542776065242
+Théatre_corrected_stemmed,bien,0.06307222624671084
+Théatre_corrected_stemmed,quc,0.0624469665677662
+Théatre_corrected_stemmed,trouu,0.06150847200798776
+Théatre_corrected_stemmed,appel,0.05974856192801812
+Théatre_corrected_stemmed,orbe,0.058844783581698375
+Théatre_corrected_stemmed,vnc,0.05758646471321562
+Théatre_corrected_stemmed,combien,0.05673582178791049
+Théatre_corrected_stemmed,ment,0.05659203412804736
+Théatre_corrected_stemmed,efcript,0.0564493239614308
+Traite Justice VII_corrected_stemmed,créanci,0.31400997401862263
+Traite Justice VII_corrected_stemmed,judg,0.24640607975629658
+Traite Justice VII_corrected_stemmed,justic,0.23931291254620726
+Traite Justice VII_corrected_stemmed,party,0.2179427976492481
+Traite Justice VII_corrected_stemmed,bien,0.17488582129275823
+Traite Justice VII_corrected_stemmed,hériti,0.16195727595941115
+Traite Justice VII_corrected_stemmed,réform,0.15471575340834098
+Traite Justice VII_corrected_stemmed,despend,0.1379414371138592
+Traite Justice VII_corrected_stemmed,advocat,0.1259089890912462
+Traite Justice VII_corrected_stemmed,caus,0.1180479293726118
+Traite Justice VII_corrected_stemmed,articl,0.11204880097773234
+Traite Justice VII_corrected_stemmed,exploict,0.10048276909029571
+Traite Justice VII_corrected_stemmed,proc,0.1000389109533328
+Traite Justice VII_corrected_stemmed,adjud,0.09816638395880045
+Traite Justice VII_corrected_stemmed,playd,0.09440180319892903
+Traite Justice VII_corrected_stemmed,ordon,0.08296617308868441
+Traite Justice VII_corrected_stemmed,bon,0.08295762251386592
+Traite Justice VII_corrected_stemmed,solvabl,0.08180531996566705
+Traite Justice VII_corrected_stemmed,pai,0.08099648469552263
+Traite Justice VII_corrected_stemmed,consign,0.08091583131336774
+Traite Justice VII_corrected_stemmed,fort,0.0757289340904772
+Traite Justice VII_corrected_stemmed,deffunct,0.07536239376446942
+Traite Justice VII_corrected_stemmed,débiteur,0.07536239376446942
+Traite Justice VII_corrected_stemmed,debt,0.07431977245820792
+Traite Justice VII_corrected_stemmed,sergen,0.07082490489907345
+Traite Justice VII_corrected_stemmed,pein,0.06497481487199673
+Traite Justice VII_corrected_stemmed,jour,0.06452924573564343
+Traite Justice VII_corrected_stemmed,ruyn,0.06320675909938875
+Traite Justice VII_corrected_stemmed,moyen,0.0628459297365668
+Traite Justice VII_corrected_stemmed,success,0.06017935750772172
+Traite Justice VII_corrected_stemmed,trouv,0.05992001389738318
+Traite Justice VII_corrected_stemmed,don,0.05961896982189005
+Traite Justice VII_corrected_stemmed,inventair,0.05871697169633745
+Traite Justice VII_corrected_stemmed,qualit,0.05797790111912861
+Traite Justice VII_corrected_stemmed,condamn,0.05618378586612333
+Traite Justice VII_corrected_stemmed,abbus,0.055823760605719835
+Traite Justice VII_corrected_stemmed,espic,0.055823760605719835
+Traite Justice VII_corrected_stemmed,fraix,0.055823760605719835
+Traite Justice VII_corrected_stemmed,remesd,0.055823760605719835
+Traite Justice VII_corrected_stemmed,peupl,0.055310782059122945
+Traite Justice VII_corrected_stemmed,ser,0.05491623928284239
+Traite Justice VII_corrected_stemmed,deni,0.054481717964805325
+Traite Justice VII_corrected_stemmed,procureur,0.054481717964805325
+Traite Justice VII_corrected_stemmed,raison,0.05386793977420012
+Traite Justice VII_corrected_stemmed,blois,0.05357435225364073
+Traite Justice VII_corrected_stemmed,terr,0.052862711556182405
+Traite Justice VII_corrected_stemmed,nom,0.052690132828788934
+Traite Justice VII_corrected_stemmed,ordre,0.05246574638782747
+Traite Justice VII_corrected_stemmed,ault,0.051582306435190045
+Traite Justice VII_corrected_stemmed,furt,0.05024159584297962
+Traite Justice VI_corrected_stemmed,justic,0.2939701130959935
+Traite Justice VI_corrected_stemmed,judg,0.2830979140309724
+Traite Justice VI_corrected_stemmed,bien,0.24920091764414848
+Traite Justice VI_corrected_stemmed,réform,0.1938526558560357
+Traite Justice VI_corrected_stemmed,bon,0.15387578853890482
+Traite Justice VI_corrected_stemmed,présen,0.1367760990368775
+Traite Justice VI_corrected_stemmed,jam,0.10835447445175254
+Traite Justice VI_corrected_stemmed,charg,0.10697855600314059
+Traite Justice VI_corrected_stemmed,ser,0.10425432289668583
+Traite Justice VI_corrected_stemmed,homm,0.09774691166214444
+Traite Justice VI_corrected_stemmed,temp,0.09452448600295286
+Traite Justice VI_corrected_stemmed,argent,0.09253400248813197
+Traite Justice VI_corrected_stemmed,honneur,0.09076258699240884
+Traite Justice VI_corrected_stemmed,injustic,0.08555341076469654
+Traite Justice VI_corrected_stemmed,magistrat,0.08510386851438698
+Traite Justice VI_corrected_stemmed,party,0.084777756427977
+Traite Justice VI_corrected_stemmed,estat,0.08315575946297289
+Traite Justice VI_corrected_stemmed,fort,0.0825595377850324
+Traite Justice VI_corrected_stemmed,proc,0.07806939907396182
+Traite Justice VI_corrected_stemmed,vertu,0.07585378206713732
+Traite Justice VI_corrected_stemmed,parc,0.07403842188552774
+Traite Justice VI_corrected_stemmed,chos,0.071685202973171
+Traite Justice VI_corrected_stemmed,rien,0.06926174950581628
+Traite Justice VI_corrected_stemmed,avaric,0.06881993609378366
+Traite Justice VI_corrected_stemmed,vérit,0.06841713676643757
+Traite Justice VI_corrected_stemmed,peupl,0.06794333278697924
+Traite Justice VI_corrected_stemmed,advocat,0.06662518973982408
+Traite Justice VI_corrected_stemmed,offic,0.0647241477357862
+Traite Justice VI_corrected_stemmed,pauvr,0.06435579565582382
+Traite Justice VI_corrected_stemmed,praticqu,0.0642457186776875
+Traite Justice VI_corrected_stemmed,princ,0.06419983230431128
+Traite Justice VI_corrected_stemmed,main,0.06279176113227816
+Traite Justice VI_corrected_stemmed,gen,0.06252140159893052
+Traite Justice VI_corrected_stemmed,dir,0.06209674093624907
+Traite Justice VI_corrected_stemmed,soubverain,0.06142296157465393
+Traite Justice VI_corrected_stemmed,sort,0.05986091642450794
+Traite Justice VI_corrected_stemmed,raison,0.05955386093155745
+Traite Justice VI_corrected_stemmed,caus,0.05907780375184555
+Traite Justice VI_corrected_stemmed,royaulm,0.05831190990800588
+Traite Justice VI_corrected_stemmed,mond,0.05800583334545795
+Traite Justice VI_corrected_stemmed,moyen,0.05734816237853681
+Traite Justice VI_corrected_stemmed,soyt,0.057197277779057865
+Traite Justice VI_corrected_stemmed,mal,0.056929519979051164
+Traite Justice VI_corrected_stemmed,afin,0.05605941691598016
+Traite Justice VI_corrected_stemmed,faveur,0.05519519078591286
+Traite Justice VI_corrected_stemmed,qualit,0.05519519078591286
+Traite Justice VI_corrected_stemmed,encor,0.05493173236668187
+Traite Justice VI_corrected_stemmed,ez,0.054692114064370884
+Traite Justice VI_corrected_stemmed,pein,0.054539946075662794
+Traite Justice VI_corrected_stemmed,saig,0.05321445454871568
+Traite Justice V_corrected_stemmed,justic,0.3088206865823832
+Traite Justice V_corrected_stemmed,bien,0.2319663364575968
+Traite Justice V_corrected_stemmed,outraig,0.19109836621678303
+Traite Justice V_corrected_stemmed,réform,0.1694419382456712
+Traite Justice V_corrected_stemmed,injustic,0.16080933596776228
+Traite Justice V_corrected_stemmed,homm,0.11279097093809752
+Traite Justice V_corrected_stemmed,peupl,0.11217663637180425
+Traite Justice V_corrected_stemmed,dieu,0.10095897273462381
+Traite Justice V_corrected_stemmed,bon,0.09892959644821703
+Traite Justice V_corrected_stemmed,mal,0.09363778719389228
+Traite Justice V_corrected_stemmed,estat,0.09236064053222334
+Traite Justice V_corrected_stemmed,soubverain,0.08257776711858063
+Traite Justice V_corrected_stemmed,veoir,0.0812686017322061
+Traite Justice V_corrected_stemmed,offens,0.08113424409543396
+Traite Justice V_corrected_stemmed,royaulm,0.07806068610230767
+Traite Justice V_corrected_stemmed,injur,0.07791355662000542
+Traite Justice V_corrected_stemmed,pauvr,0.07650251764130699
+Traite Justice V_corrected_stemmed,enver,0.0752051445021449
+Traite Justice V_corrected_stemmed,jam,0.07488700583693784
+Traite Justice V_corrected_stemmed,rien,0.0709779630707105
+Traite Justice V_corrected_stemmed,tort,0.06921656358023014
+Traite Justice V_corrected_stemmed,moin,0.06804089081572083
+Traite Justice V_corrected_stemmed,fort,0.06450654013802835
+Traite Justice V_corrected_stemmed,soyt,0.06405126173340182
+Traite Justice V_corrected_stemmed,violenc,0.06401139889280912
+Traite Justice V_corrected_stemmed,judg,0.06349636494425265
+Traite Justice V_corrected_stemmed,princ,0.06258811203866792
+Traite Justice V_corrected_stemmed,arriv,0.062330845296004335
+Traite Justice V_corrected_stemmed,aultruy,0.062330845296004335
+Traite Justice V_corrected_stemmed,mond,0.0618818332922294
+Traite Justice V_corrected_stemmed,temp,0.06171581428688355
+Traite Justice V_corrected_stemmed,empesch,0.06153148186539129
+Traite Justice V_corrected_stemmed,servyc,0.061285903512118906
+Traite Justice V_corrected_stemmed,dissimul,0.05912424160006322
+Traite Justice V_corrected_stemmed,oppress,0.05878433271353044
+Traite Justice V_corrected_stemmed,main,0.0575951251232396
+Traite Justice V_corrected_stemmed,encor,0.05678237045656841
+Traite Justice V_corrected_stemmed,pourveu,0.0564806460818904
+Traite Justice V_corrected_stemmed,faveur,0.05644121328378014
+Traite Justice V_corrected_stemmed,ser,0.05589073174148498
+Traite Justice V_corrected_stemmed,lieu,0.05529132011831002
+Traite Justice V_corrected_stemmed,ruyn,0.05469465054701448
+Traite Justice V_corrected_stemmed,remesd,0.054344167654088955
+Traite Justice V_corrected_stemmed,cy,0.05417906782147073
+Traite Justice V_corrected_stemmed,vertu,0.05304157139333948
+Traite Justice V_corrected_stemmed,person,0.052987515113380436
+Traite Justice V_corrected_stemmed,impun,0.05215437923278776
+Traite Justice V_corrected_stemmed,excez,0.05164820708561703
+Traite Justice V_corrected_stemmed,loyx,0.051461600370301286
+Traite Justice V_corrected_stemmed,peult,0.05103066811179063
+Traité Justice III_corrected_stemmed,justic,0.39174675912328766
+Traité Justice III_corrected_stemmed,bien,0.2674520426314493
+Traité Justice III_corrected_stemmed,réform,0.16854129955310812
+Traité Justice III_corrected_stemmed,injustic,0.16461022507720294
+Traité Justice III_corrected_stemmed,dieu,0.1429087190958295
+Traité Justice III_corrected_stemmed,homm,0.14105347453850406
+Traité Justice III_corrected_stemmed,bon,0.1355561912569534
+Traité Justice III_corrected_stemmed,judg,0.13360528337617486
+Traité Justice III_corrected_stemmed,princ,0.11296349271412783
+Traité Justice III_corrected_stemmed,peupl,0.10814713877522232
+Traité Justice III_corrected_stemmed,jugurth,0.1073579733948366
+Traité Justice III_corrected_stemmed,jam,0.10528727602171872
+Traité Justice III_corrected_stemmed,ruyn,0.08827560885929052
+Traité Justice III_corrected_stemmed,roy,0.08515709450757329
+Traité Justice III_corrected_stemmed,caus,0.08060198545057375
+Traité Justice III_corrected_stemmed,faveur,0.07894857654046696
+Traité Justice III_corrected_stemmed,rien,0.07331610348575085
+Traité Justice III_corrected_stemmed,honneur,0.07321070712906766
+Traité Justice III_corrected_stemmed,miséricord,0.07113278791935675
+Traité Justice III_corrected_stemmed,vertu,0.07102259000556481
+Traité Justice III_corrected_stemmed,subject,0.0684860689339375
+Traité Justice III_corrected_stemmed,david,0.0684140404940602
+Traité Justice III_corrected_stemmed,divin,0.06482357675119542
+Traité Justice III_corrected_stemmed,royaulm,0.06450571521466698
+Traité Justice III_corrected_stemmed,vi,0.06345857177638403
+Traité Justice III_corrected_stemmed,temp,0.062283352393625174
+Traité Justice III_corrected_stemmed,chos,0.060186287027763075
+Traité Justice III_corrected_stemmed,lieu,0.05949241104036002
+Traité Justice III_corrected_stemmed,just,0.05769319054880277
+Traité Justice III_corrected_stemmed,fort,0.05552625030433602
+Traité Justice III_corrected_stemmed,tousjour,0.05514054175547027
+Traité Justice III_corrected_stemmed,injust,0.055134353566433814
+Traité Justice III_corrected_stemmed,lequel,0.05498707761431314
+Traité Justice III_corrected_stemmed,scedasus,0.05484032047807877
+Traité Justice III_corrected_stemmed,feust,0.05465670683570789
+Traité Justice III_corrected_stemmed,fill,0.05403052899500272
+Traité Justice III_corrected_stemmed,pauvr,0.053308928339707205
+Traité Justice III_corrected_stemmed,vill,0.052293362235048324
+Traité Justice III_corrected_stemmed,per,0.051569278051454066
+Traité Justice III_corrected_stemmed,raison,0.05078217967967509
+Traité Justice III_corrected_stemmed,trouv,0.05021117157421036
+Traité Justice III_corrected_stemmed,moin,0.05020162774564639
+Traité Justice III_corrected_stemmed,gen,0.04990969769355515
+Traité Justice III_corrected_stemmed,gard,0.04957700920030002
+Traité Justice III_corrected_stemmed,médiocr,0.04945761886427365
+Traité Justice III_corrected_stemmed,estat,0.04942055813264348
+Traité Justice III_corrected_stemmed,vray,0.04942055813264348
+Traité Justice III_corrected_stemmed,dir,0.048877402323833904
+Traité Justice III_corrected_stemmed,encor,0.048877402323833904
+Traité Justice III_corrected_stemmed,siecl,0.04863483922735541
+Traité Justice II_corrected_stemmed,justic,0.4362548961652585
+Traité Justice II_corrected_stemmed,bien,0.2645544479645383
+Traité Justice II_corrected_stemmed,réform,0.15425538171682285
+Traité Justice II_corrected_stemmed,homm,0.15332132779763016
+Traité Justice II_corrected_stemmed,injustic,0.12279295766829887
+Traité Justice II_corrected_stemmed,dieu,0.11409558512342736
+Traité Justice II_corrected_stemmed,bon,0.11123173066298024
+Traité Justice II_corrected_stemmed,just,0.09966445218197911
+Traité Justice II_corrected_stemmed,jam,0.09873637383534381
+Traité Justice II_corrected_stemmed,forc,0.09358241282981256
+Traité Justice II_corrected_stemmed,divin,0.08510641749893674
+Traité Justice II_corrected_stemmed,rien,0.0802134967112679
+Traité Justice II_corrected_stemmed,mond,0.07909179056798363
+Traité Justice II_corrected_stemmed,estat,0.07757857944205584
+Traité Justice II_corrected_stemmed,veoir,0.07653594669565937
+Traité Justice II_corrected_stemmed,subject,0.07492906474861608
+Traité Justice II_corrected_stemmed,honneur,0.06865558708494254
+Traité Justice II_corrected_stemmed,raison,0.06790622478048303
+Traité Justice II_corrected_stemmed,entre,0.06441943309417678
+Traité Justice II_corrected_stemmed,droict,0.06295098176568466
+Traité Justice II_corrected_stemmed,vérit,0.06244088729051339
+Traité Justice II_corrected_stemmed,aristid,0.06141533970276304
+Traité Justice II_corrected_stemmed,perpétuel,0.05911358424402675
+Traité Justice II_corrected_stemmed,fort,0.058580375680124704
+Traité Justice II_corrected_stemmed,main,0.058580375680124704
+Traité Justice II_corrected_stemmed,roy,0.05704191316050269
+Traité Justice II_corrected_stemmed,dis,0.0566481662046218
+Traité Justice II_corrected_stemmed,financ,0.05660868260334625
+Traité Justice II_corrected_stemmed,sforz,0.056249586429128494
+Traité Justice II_corrected_stemmed,gen,0.0558461000212592
+Traité Justice II_corrected_stemmed,sort,0.0558461000212592
+Traité Justice II_corrected_stemmed,temper,0.055681157385170724
+Traité Justice II_corrected_stemmed,asseur,0.055032211295953766
+Traité Justice II_corrected_stemmed,parmy,0.055032211295953766
+Traité Justice II_corrected_stemmed,natur,0.054115435651778274
+Traité Justice II_corrected_stemmed,vertu,0.054115435651778274
+Traité Justice II_corrected_stemmed,donc,0.05357516268696157
+Traité Justice II_corrected_stemmed,dir,0.053475664474178605
+Traité Justice II_corrected_stemmed,fois,0.05289448598321989
+Traité Justice II_corrected_stemmed,chos,0.05247299187582779
+Traité Justice II_corrected_stemmed,propr,0.05212302668650859
+Traité Justice II_corrected_stemmed,vi,0.052071445048999736
+Traité Justice II_corrected_stemmed,tort,0.05146243873031477
+Traité Justice II_corrected_stemmed,princ,0.05133772184445242
+Traité Justice II_corrected_stemmed,peu,0.05110710926587673
+Traité Justice II_corrected_stemmed,temp,0.05110710926587673
+Traité Justice II_corrected_stemmed,outraig,0.051072512104116514
+Traité Justice II_corrected_stemmed,premi,0.049386345294896744
+Traité Justice II_corrected_stemmed,charg,0.04881697973343725
+Traité Justice II_corrected_stemmed,ame,0.048290177220725185
+Traité Justice IV_corrected_stemmed,justic,0.3351869542116108
+Traité Justice IV_corrected_stemmed,bien,0.21332262668657756
+Traité Justice IV_corrected_stemmed,judg,0.1860094293375602
+Traité Justice IV_corrected_stemmed,réform,0.1828220497217901
+Traité Justice IV_corrected_stemmed,bon,0.15178535750511615
+Traité Justice IV_corrected_stemmed,homm,0.11443870077457026
+Traité Justice IV_corrected_stemmed,vénal,0.11065085567457283
+Traité Justice IV_corrected_stemmed,injustic,0.10664601224629858
+Traité Justice IV_corrected_stemmed,temp,0.10555025799596286
+Traité Justice IV_corrected_stemmed,jam,0.09643932457875469
+Traité Justice IV_corrected_stemmed,proc,0.09570642461006786
+Traité Justice IV_corrected_stemmed,chos,0.08897844401688439
+Traité Justice IV_corrected_stemmed,espic,0.08795324425414763
+Traité Justice IV_corrected_stemmed,charg,0.0865995114891583
+Traité Justice IV_corrected_stemmed,offic,0.08435501892775317
+Traité Justice IV_corrected_stemmed,honneur,0.0837323197856181
+Traité Justice IV_corrected_stemmed,caus,0.08221809570211844
+Traité Justice IV_corrected_stemmed,veoir,0.08202887487035201
+Traité Justice IV_corrected_stemmed,argent,0.08060124885755021
+Traité Justice IV_corrected_stemmed,fort,0.07938288553172843
+Traité Justice IV_corrected_stemmed,gen,0.07842955389160715
+Traité Justice IV_corrected_stemmed,estat,0.07819404695574705
+Traité Justice IV_corrected_stemmed,parc,0.07534758556662906
+Traité Justice IV_corrected_stemmed,peu,0.07444070827083697
+Traité Justice IV_corrected_stemmed,praticqu,0.07383728576849913
+Traité Justice IV_corrected_stemmed,peupl,0.0726208498488293
+Traité Justice IV_corrected_stemmed,princ,0.0716764188218604
+Traité Justice IV_corrected_stemmed,party,0.07076832829603574
+Traité Justice IV_corrected_stemmed,vertu,0.06769144445707767
+Traité Justice IV_corrected_stemmed,feust,0.06261703561858462
+Traité Justice IV_corrected_stemmed,soubverain,0.061264730439363015
+Traité Justice IV_corrected_stemmed,moin,0.06089623257135862
+Traité Justice IV_corrected_stemmed,empir,0.06016549571113261
+Traité Justice IV_corrected_stemmed,roy,0.06008170401244181
+Traité Justice IV_corrected_stemmed,vray,0.05994876933273941
+Traité Justice IV_corrected_stemmed,sort,0.05916615469015978
+Traité Justice IV_corrected_stemmed,encor,0.05805469707592731
+Traité Justice IV_corrected_stemmed,don,0.05735527754787076
+Traité Justice IV_corrected_stemmed,feit,0.057110482706713615
+Traité Justice IV_corrected_stemmed,royaulm,0.057055514777033134
+Traité Justice IV_corrected_stemmed,empereur,0.05692235102072441
+Traité Justice IV_corrected_stemmed,siecl,0.056726602258669455
+Traité Justice IV_corrected_stemmed,là,0.05622259343135172
+Traité Justice IV_corrected_stemmed,parmy,0.054914119743515157
+Traité Justice IV_corrected_stemmed,rien,0.05311387179286967
+Traité Justice IV_corrected_stemmed,avaric,0.0528802634567183
+Traité Justice IV_corrected_stemmed,raison,0.05247446698431644
+Traité Justice IV_corrected_stemmed,droict,0.052346581351269066
+Traité Justice IV_corrected_stemmed,romain,0.052346581351269066
+Traité Justice IV_corrected_stemmed,bel,0.052307025262287296
+Traité Justice I_corrected_stemmed,justic,0.3596159934164298
+Traité Justice I_corrected_stemmed,bien,0.21894631159916175
+Traité Justice I_corrected_stemmed,réform,0.18744641119029717
+Traité Justice I_corrected_stemmed,bon,0.17756342168624037
+Traité Justice I_corrected_stemmed,princ,0.16416240872878826
+Traité Justice I_corrected_stemmed,dieu,0.13402394221288555
+Traité Justice I_corrected_stemmed,judg,0.11707221419186858
+Traité Justice I_corrected_stemmed,injustic,0.11539234402370378
+Traité Justice I_corrected_stemmed,peupl,0.1079637312270467
+Traité Justice I_corrected_stemmed,royaulm,0.10362626124152254
+Traité Justice I_corrected_stemmed,mond,0.09779605828910365
+Traité Justice I_corrected_stemmed,just,0.09365777135349489
+Traité Justice I_corrected_stemmed,estat,0.09112874119407918
+Traité Justice I_corrected_stemmed,fort,0.08410384994413754
+Traité Justice I_corrected_stemmed,roy,0.08375633098407564
+Traité Justice I_corrected_stemmed,malad,0.08312664954573809
+Traité Justice I_corrected_stemmed,subject,0.08312664954573809
+Traité Justice I_corrected_stemmed,jam,0.08284431017643563
+Traité Justice I_corrected_stemmed,soubverain,0.07933223651629635
+Traité Justice I_corrected_stemmed,désordr,0.07212021501481487
+Traité Justice I_corrected_stemmed,ordre,0.0706278424513425
+Traité Justice I_corrected_stemmed,chos,0.06888966219322942
+Traité Justice I_corrected_stemmed,homm,0.06709645032877537
+Traité Justice I_corrected_stemmed,mal,0.06709645032877537
+Traité Justice I_corrected_stemmed,vray,0.0662754481411485
+Traité Justice I_corrected_stemmed,peult,0.06451778077905466
+Traité Justice I_corrected_stemmed,loyx,0.06404600274182573
+Traité Justice I_corrected_stemmed,vi,0.06116643632300912
+Traité Justice I_corrected_stemmed,soy,0.06050688930780823
+Traité Justice I_corrected_stemmed,publicqu,0.0604510587071757
+Traité Justice I_corrected_stemmed,bel,0.05867763497346218
+Traité Justice I_corrected_stemmed,soing,0.05769617201185189
+Traité Justice I_corrected_stemmed,temper,0.05723080507633815
+Traité Justice I_corrected_stemmed,caus,0.056502273961074
+Traité Justice I_corrected_stemmed,temp,0.056502273961074
+Traité Justice I_corrected_stemmed,selon,0.055356272405805734
+Traité Justice I_corrected_stemmed,feit,0.05500626300709839
+Traité Justice I_corrected_stemmed,cit,0.054405952836458125
+Traité Justice I_corrected_stemmed,lieu,0.05352063178263298
+Traité Justice I_corrected_stemmed,faveur,0.052682496386340864
+Traité Justice I_corrected_stemmed,sous,0.05181313062076127
+Traité Justice I_corrected_stemmed,nom,0.05106953150571199
+Traité Justice I_corrected_stemmed,ruyn,0.05105224643750398
+Traité Justice I_corrected_stemmed,encor,0.05103793655112014
+Traité Justice I_corrected_stemmed,ment,0.05103793655112014
+Traité Justice I_corrected_stemmed,mort,0.05083803531162982
+Traité Justice I_corrected_stemmed,bonheur,0.050725317373812244
+Traité Justice I_corrected_stemmed,louabl,0.04998570965074591
+Traité Justice I_corrected_stemmed,reigl,0.04860700712567583
+Traité Justice I_corrected_stemmed,mérit,0.04836084696574056
