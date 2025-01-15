@@ -26,6 +26,7 @@ token_,count
 ('plus', 'grands', 'magistrats'),8
 ('tant', 'foit', 'peu'),7
 ('plus', 'haut', 'point'),7
+('aussi', 'peut', 'dire'),7
 ('ferons', 'mesme', 'iugement'),7
 ('traité', 'fait', 'entre'),7
 ('remarqué', 'cy', 'dessus'),7
@@ -133,6 +134,7 @@ token_,count
 ('prefenter', 'requefte', 'peuple'),4
 ('plus', 'fages', 'princes'),4
 ('cent', 'mil', 'livres'),4
+('comme', 'aussi', 'firent'),4
 ('cft', 'bien', 'difficile'),4
 ('depuis', 'peu', 'annees'),4
 ('donner', 'loy', 'tous'),4
@@ -159,7 +161,6 @@ token_,count
 ('anciens', 'grecs', 'latins'),4
 ('republiques', 'populaires', 'aristocratiques'),4
 ('tous', 'autres', 'magistrats'),4
-('aussi', 'peut', 'dire'),4
 ('comme', 'difoit', 'ancien'),4
 ('quoy', 'plusieurs', 'abufent'),4
 ('in', 'cap', 'cü'),4
@@ -184,7 +185,6 @@ token_,count
 ('republique', 'peut', 'bien'),3
 ('contemplation', 'choses', 'naturelles'),3
 ('difference', 'bien', 'mal'),3
-('aufli', 'peut', 'dire'),3
 ('tout', 'ainsi', 'monde'),3
 ('fix', 'cens', 'enfans'),3
 ('auec', 'puissance', 'souveraine'),3
@@ -197,7 +197,7 @@ token_,count
 ('forme', 'figure', 'proces'),3
 ('faire', 'mourir', 'femme'),3
 ('cens', 'ans', 'apres'),3
-('fans', 'iuste', 'caufe'),3
+('fans', 'iuste', 'cuase'),3
 ('tout', 'honneur', 'vertu'),3
 ('enuers', 'leurs', 'enfans'),3
 ('hiftoires', 'greques', 'latines'),3
@@ -278,16 +278,17 @@ token_,count
 ('etpour', 'ceste', 'cause'),3
 ('homme', 'lige', 'pape'),3
 ('an', 'cc', 'cx'),3
-('comme', 'aussi', 'firent'),3
 ('fes', 'lettres', 'patentes'),3
 ('quele', 'roy', 'françois'),3
 ('plus', 'dignes', 'perfonnages'),3
 ('faire', 'loix', 'officiers'),3
+('aussi', 'pouuons', 'dire'),3
 ('auoyent', 'force', 'an'),3
 ('arien', 'plus', 'dangereux'),3
 ('bien', 'certain', 'queles'),3
 ('grands', 'maires', 'palais'),3
 ('peut', 'voir', 'apres'),3
+('ains', 'aussi', 'toutes'),3
 ('loy', 'dieu', 'mesmes'),3
 ('cela', 'fift', 'loy'),3
 ('puissance', 'souveraine', 'comme'),3
@@ -343,7 +344,7 @@ token_,count
 ('si', 'dit', 'faut'),3
 ('entrer', 'plus', 'auant'),3
 ('cinq', 'cens', 'livres'),3
-('etpour', 'ceste', 'caufe'),3
+('etpour', 'ceste', 'cuase'),3
 ('corps', 'col', 'leges'),3
 ('corps', 'colleges', 'plus'),3
 ('hommes', 'franche', 'condition'),3
@@ -398,6 +399,7 @@ token_,count
 ('uns', 'plus', 'autres'),3
 ('moyen', 'plus', 'grand'),3
 ('magistrats', 'estat', 'populaire'),3
+('aussi', 'parce', 'moyen'),3
 ('encores', 'plus', 'grands'),3
 ('estat', 'populaire', 'romains'),3
 ('troubles', 'guerres', 'civiles'),3
@@ -421,7 +423,7 @@ token_,count
 ('faire', 'fonds', 'finances'),3
 ('cens', 'xx', 'livres'),3
 ('deux', 'mil', 'escus'),3
-('eftà', 'peu', 'pres'),3
+('esta', 'peu', 'pres'),3
 ('fols', 'fix', 'deniers'),3
 ('mil', 'sept', 'cens'),3
 ('trois', 'quars', 'carat'),3

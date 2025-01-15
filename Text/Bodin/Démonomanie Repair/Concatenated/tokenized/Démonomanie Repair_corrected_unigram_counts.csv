@@ -75,6 +75,7 @@ quelque,80
 quel,80
 toutes,80
 r,79
+malins,79
 leurs,78
 toute,78
 ans,78
@@ -108,6 +109,7 @@ com,63
 moyens,62
 quoy,62
 trois,62
+cause,61
 deuant,61
 peu,61
 vie,60
@@ -123,7 +125,7 @@ diables,56
 hebrieux,55
 pre,55
 li,54
-difoit,54
+disoit,54
 peuple,53
 del,52
 forte,52
@@ -139,6 +141,7 @@ là,50
 fois,50
 pa,49
 ensans,49
+puissance,49
 telles,49
 anges,48
 lib,47
@@ -146,7 +149,7 @@ ex,47
 come,47
 si,47
 où,47
-efcript,47
+escript,47
 toufiours,46
 pres,46
 euft,46
@@ -156,15 +159,14 @@ uns,45
 laquelle,45
 pere,45
 ment,45
-puiflance,45
 souvent,45
 vray,45
 personnes,45
 pe,44
 u,44
 chacun,44
+histoire,44
 ef,44
-malins,44
 diét,44
 anciens,43
 ap,43
@@ -206,9 +208,9 @@ partie,38
 toutesfois,38
 cinq,38
 ville,38
-caufe,37
 fignifie,37
 difent,37
+malin,37
 certain,37
 fuft,37
 paroles,37
@@ -221,8 +223,6 @@ nc,36
 ya,36
 iuges,36
 és,35
-malings,35
-hiftoire,35
 per,35
 beaucoup,35
 maladie,35
@@ -358,7 +358,6 @@ grace,24
 he,24
 quela,24
 us,24
-cause,24
 bon,24
 paris,24
 ange,24
@@ -391,7 +390,7 @@ quatre,23
 parler,23
 prophetes,23
 dieux,23
-brufler,23
+brûler,23
 feroit,23
 cc,23
 noir,23
@@ -412,7 +411,6 @@ ae,22
 propos,22
 divine,22
 marque,22
-malin,22
 avoient,22
 trouve,22
 heure,22
@@ -522,6 +520,7 @@ uo,18
 nommé,18
 venir,18
 poudres,18
+causes,18
 bouche,18
 douze,18
 qua,18
@@ -622,7 +621,6 @@ chair,15
 propre,15
 corruption,15
 copulation,15
-maling,15
 pouuoit,15
 plantes,15
 foient,15
@@ -642,6 +640,7 @@ che,15
 cfté,15
 print,15
 difference,15
+histoires,15
 icy,15
 quin,15
 eftrange,15
@@ -681,7 +680,6 @@ fr,14
 crainte,14
 eftat,14
 merueilles,14
-hiftoires,14
 confeffion,14
 temple,14
 pefte,14
@@ -794,7 +792,6 @@ attirer,12
 ceftuy,12
 paruenir,12
 licite,12
-caufes,12
 noter,12
 nuict,12
 penfent,12
@@ -1083,10 +1080,9 @@ eglife,9
 prife,9
 can,9
 fair,9
-histoire,9
 veri,9
 vif,9
-bruflée,9
+brûlée,9
 chafler,9
 fan,9
 complices,9
@@ -1187,7 +1183,7 @@ pafle,8
 louange,8
 quec,8
 quatriefme,8
-bruflé,8
+brûlé,8
 guerre,8
 cacher,8
 quit,8
@@ -1566,7 +1562,6 @@ cx,6
 roys,6
 lent,6
 ores,6
-causes,6
 yn,6
 wi,6
 mailtre,6
@@ -2318,6 +2313,7 @@ public,4
 dent,4
 humeur,4
 reigle,4
+malinsesprits,4
 vin,4
 fance,4
 mee,4
@@ -2401,7 +2397,6 @@ leiour,4
 conte,4
 conseil,4
 libre,4
-puissance,4
 famine,4
 iy,4
 deu,4
@@ -3004,7 +2999,7 @@ defendus,3
 science,3
 moindres,3
 ona,3
-efcriptes,3
+escriptes,3
 eleazar,3
 poffedé,3
 cfprit,3
@@ -3107,7 +3102,6 @@ meíchans,3
 quefon,3
 pout,3
 exterminer,3
-malinsesprits,3
 lesa,3
 eftlicite,3
 laforme,3
@@ -3450,7 +3444,7 @@ app,3
 coniurer,3
 hayoit,3
 affiegees,3
-brufléc,3
+brûléc,3
 langages,3
 sec,3
 tirée,3
@@ -3497,7 +3491,7 @@ figu,3
 comeil,3
 clleauoit,3
 iet,3
-bruflées,3
+brûlées,3
 nuiét,3
 tranfportez,3
 patience,3
@@ -3506,7 +3500,7 @@ regiftres,3
 bat,3
 sat,3
 quila,3
-bruflés,3
+brûlés,3
 ber,3
 autrela,3
 rirles,3
@@ -4586,7 +4580,7 @@ pafler,2
 jean,2
 prati,2
 laforce,2
-puiflances,2
+puissances,2
 mesmeautheur,2
 fouftient,2
 quelc,2
@@ -5015,7 +5009,7 @@ mouton,2
 fautauoir,2
 marcher,2
 commet,2
-cestecaufe,2
+cestecause,2
 efcriprure,2
 loüer,2
 exurge,2
@@ -5099,7 +5093,7 @@ resolu,2
 onle,2
 bomicidio,2
 bloit,2
-commeildifoit,2
+commeildisoit,2
 neátmoins,2
 yena,2
 meurtris,2
@@ -5440,7 +5434,7 @@ fçauant,2
 gendre,2
 penfé,2
 executez,2
-defcript,2
+descript,2
 decembre,2
 encer,2
 contraint,2
@@ -5672,7 +5666,7 @@ inftruit,2
 finil,2
 gages,2
 ecoffe,2
-futbruflé,2
+futbrûlé,2
 sorcière,2
 fembleroit,2
 auoitapris,2
@@ -6647,7 +6641,7 @@ disdphie,1
 clicks,1
 friniás,1
 athan,1
-pourcestecaufe,1
+pourcestecause,1
 moda,1
 dumot,1
 rlant,1
@@ -6835,7 +6829,7 @@ yaytiniquité,1
 nesperanchef,1
 pourcuiter,1
 desmsioorceiers,1
-ildifoit,1
+ildisoit,1
 abfurdiré,1
 malvint,1
 ilconfcfloit,1
@@ -7369,7 +7363,7 @@ commenga,1
 auócir,1
 craincte,1
 difoic,1
-caufeil,1
+causeil,1
 continuoit,1
 dieü,1
 enuoyaft,1
@@ -7465,7 +7459,7 @@ conté,1
 cefc,1
 toutileftoit,1
 ouitvne,1
-quidifoit,1
+quidisoit,1
 leuera,1
 plusil,1
 fperoient,1
@@ -8099,7 +8093,7 @@ oubliécelà,1
 veules,1
 nesentrouve,1
 feultraiéten,1
-efcripts,1
+escripts,1
 desalomon,1
 cítéaussibienabufé,1
 commelamblique,1
@@ -8806,7 +8800,7 @@ delafuyte,1
 peripatetiques,1
 efficiente,1
 aetatron,1
-caufedela,1
+causedela,1
 confequem,1
 iufquesaux,1
 dernieres,1
@@ -9179,7 +9173,7 @@ iatromathomaciens,1
 lesinfluéces,1
 meuts,1
 blafmer,1
-efcriptaveuë,1
+escriptaveuë,1
 fupplices,1
 plufiéurs,1
 ontfai,1
@@ -9199,7 +9193,7 @@ impieré,1
 fculementim,1
 treme,1
 miferablefouftre,1
-feracaufe,1
+feracause,1
 diffiperles,1
 vnfaitneant,1
 differee,1
@@ -9272,7 +9266,7 @@ lij,1
 ssorciens,1
 ilafaict,1
 fuiuentles,1
-efcriptau,1
+escriptau,1
 nxe,1
 tranquille,1
 horofco,1
@@ -9344,7 +9338,7 @@ ortelles,1
 divinationsnaturelles,1
 fpond,1
 veutchercher,1
-lacaufe,1
+lacause,1
 lapluye,1
 enlautre,1
 ftrologue,1
@@ -9408,7 +9402,7 @@ haulre,1
 prediétios,1
 cogneuës,1
 experiéce,1
-lescaufes,1
+lescauses,1
 neàtmoins,1
 decou,1
 orrtout,1
@@ -9423,7 +9417,7 @@ pourueuiqu,1
 recognoiffe,1
 desalimés,1
 medicamés,1
-puiflancesoccultes,1
+puissancesoccultes,1
 elements,1
 jdheisas,1
 bonluy,1
@@ -9444,7 +9438,7 @@ chages,1
 côbienferoitil,1
 tranficif,1
 beactif,1
-lequelabusaeftécaufe,1
+lequelabusaeftécause,1
 ontattribué,1
 indignes,1
 oftéles,1
@@ -9558,7 +9552,7 @@ ouys,1
 cris,1
 gemiflemés,1
 laquel,1
-lehiftoire,1
+lehistoire,1
 cftaussi,1
 cofirmee,1
 præpararid,1
@@ -10446,7 +10440,7 @@ refur,1
 voyàtles,1
 attribuea,1
 encoreslespayens,1
-brufloient,1
+brûloient,1
 interpofition,1
 ducorps,1
 ducorpsde,1
@@ -10668,7 +10662,7 @@ pretendoit,1
 effigie,1
 forgce,1
 folemnitez,1
-prefcriptez,1
+prescriptez,1
 cftoient,1
 amuferà,1
 baillerà,1
@@ -10994,7 +10988,7 @@ marié,1
 caleadent,1
 marice,1
 ennuyé,1
-impuiflance,1
+impuissance,1
 commette,1
 auoitgueres,1
 iaft,1
@@ -11023,7 +11017,7 @@ euffentefté,1
 noüces,1
 nouér,1
 empefcherla,1
-difoitencores,1
+disoitencores,1
 ileftimpofhble,1
 denoüer,1
 noüér,1
@@ -11050,7 +11044,7 @@ netiennét,1
 quelcuir,1
 fguillue,1
 cousles,1
-efcriptfurletiltre,1
+escriptfurletiltre,1
 maleficiatis,1
 eftoitcommun,1
 imple,1
@@ -11735,7 +11729,7 @@ pourceíte,1
 cauícles,1
 hebricüxdi,1
 ezechias,1
-bruflerle,1
+brûlerle,1
 aüqucl,1
 salomonauoit,1
 comprisla,1
@@ -12104,7 +12098,7 @@ efttenue,1
 lachose,1
 eftaduenue,1
 ontrouve,1
-vnehiftoire,1
+vnehistoire,1
 quiapproche,1
 empereurtheodorich,1
 lequelapresauoirfait,1
@@ -13269,7 +13263,7 @@ danferentautour,1
 rendroit,1
 ilauoir,1
 ployé,1
-difoitauoirtué,1
+disoitauoirtué,1
 vourir,1
 vnarbre,1
 rooultia,1
@@ -13425,7 +13419,7 @@ decechapitreie,1
 conclufion,1
 refoluc,1
 monnier,1
-aefcripten,1
+aescripten,1
 pomct,1
 infinisexemples,1
 iagemens,1
@@ -13619,7 +13613,7 @@ infenfiblez,1
 trouuátíon,1
 pafmé,1
 tuerét,1
-bruflerent,1
+brûlerent,1
 hieroíme,1
 ileftoitpar,1
 ilvou,1
@@ -13949,7 +13943,7 @@ luycoupavnecuifle,1
 emporta,1
 efpaules,1
 mordanta,1
-hiftoiredel,1
+histoiredel,1
 vndes,1
 difciplesde,1
 rondelet,1
@@ -13989,7 +13983,7 @@ afhnitas,1
 capris,1
 fpiritibus,1
 dæmos,1
-puiflancefur,1
+puissancefur,1
 cupiditélafciue,1
 dilent,1
 pva,1
@@ -14816,7 +14810,7 @@ puilfance,1
 executeur,1
 cofeffonsla,1
 reuoquee,1
-lhiftoire,1
+lhistoire,1
 delafzme,1
 chágee,1
 areumér,1
@@ -15094,7 +15088,7 @@ cois,1
 ícript,1
 auoirveu,1
 preltresorcier,1
-difoitauoi,1
+disoitauoi,1
 copulatio,1
 plusde,1
 ansau,1
@@ -15145,7 +15139,7 @@ désle,1
 sathanluy,1
 follicita,1
 hcruillier,1
-cestehiftoirea,1
+cestehistoirea,1
 publice,1
 frefche,1
 enallemaigneau,1
@@ -15165,7 +15159,7 @@ rxv,1
 trouvaau,1
 damours,1
 entrouvevneautre,1
-hiftoiresulardin,1
+histoiresulardin,1
 toynede,1
 torquemede,1
 efpaignolen,1
@@ -15323,7 +15317,7 @@ appuyent,1
 isle,1
 méfles,1
 quilleurf,1
-cpuiflance,1
+cpuissance,1
 leurenfeigner,1
 faireay,1
 honorersenrichir,1
@@ -15413,7 +15407,7 @@ ansen,1
 doté,1
 douceur,1
 devie,1
-ceftchiftoire,1
+ceftchistoire,1
 côfide,1
 rable,1
 luti,1
@@ -15749,7 +15743,7 @@ pouríevengerdefonennemy,1
 addreffaà,1
 puisluy,1
 confa,1
-futbruflétout,1
+futbrûlétout,1
 lescinq,1
 ontfait,1
 auoirreceu,1
@@ -15963,7 +15957,7 @@ aueréquand,1
 ledifcours,1
 enà,1
 celleque,1
-hiftoired,1
+histoired,1
 ecotffe,1
 duffus,1
 eooffe,1
@@ -16127,7 +16121,7 @@ sre,1
 obvier,1
 céllerles,1
 eras,1
-hiftoiresnousapprennent,1
+histoiresnousapprennent,1
 uos,1
 nouuel,1
 cerit,1
@@ -16138,7 +16132,7 @@ cháldee,1
 palestine,1
 eftoiécinfeétées,1
 plusanciénes,1
-hiftoiresion,1
+histoiresion,1
 paysde,1
 iralie,1
 eftoientencores,1
@@ -16189,7 +16183,7 @@ oyét,1
 touslesphilofo,1
 confentemét,1
 condàné,1
-bruflerleslivres,1
+brûlerleslivres,1
 coóme,1
 cerere,1
 familie,1
@@ -17365,7 +17359,7 @@ reüffirvn,1
 dutouttontrairea,1
 quincfouftre,1
 aduiéen,1
-efcriptr,1
+escriptr,1
 profefhon,1
 deguerir,1
 elloient,1
@@ -17472,7 +17466,7 @@ liliic,1
 reult,1
 cci,1
 auili,1
-malingsiont,1
+malinsiont,1
 puants,1
 jall,1
 celllct,1
@@ -17807,7 +17801,6 @@ ouils,1
 entrerent,1
 iltonnaft,1
 iroit,1
-malingsesprits,1
 souffre,1
 regret,1
 charongne,1
@@ -17914,7 +17907,7 @@ jouiflance,1
 laícience,1
 recompéce,1
 essorcgcihe,1
-vnchiftoire,1
+vnchistoire,1
 defraifche,1
 scignalé,1
 lxxviraumoisdelanuier,1
@@ -17957,7 +17950,7 @@ tournoità,1
 queftios,1
 murailléàl,1
 marmorat,1
-difoitles,1
+disoitles,1
 cattes,1
 tll,1
 abodance,1
@@ -18118,7 +18111,7 @@ uoftédelaon,1
 euftafleuré,1
 oces,1
 desainéte,1
-bruflerroute,1
+brûlerroute,1
 elchappoit,1
 feulle,1
 comunique,1
@@ -18228,7 +18221,7 @@ efcou,1
 ecnuiftaussi,1
 bienleiour,1
 lanuiét,1
-puiflancelanuict,1
+puissancelanuict,1
 commeiltuaau,1
 aifnez,1
 ignifiéau,1
@@ -18409,7 +18402,7 @@ ufhen,1
 dendis,1
 ligandis,1
 barbedor,1
-quifutbruflée,1
+quifutbrûlée,1
 pararrefl,1
 sentence,1
 preuoftsain,1
@@ -18574,7 +18567,7 @@ ofterles,1
 offemans,1
 ioufte,1
 donnetelle,1
-puiflancea,1
+puissancea,1
 lacire,1
 catique,1
 enuoycla,1
@@ -18983,7 +18976,7 @@ pleinessmesmementen,1
 zicíme,1
 icunc,1
 cfclaue,1
-quidifoitles,1
+quidisoitles,1
 aduenture,1
 menfonges,1
 paulprefchoient,1
@@ -19260,7 +19253,7 @@ quiaduint,1
 confollent,1
 caplandl,1
 vndiable,1
-difoitl,1
+disoitl,1
 defun,1
 mifloit,1
 croyoit,1
@@ -19279,7 +19272,7 @@ auberi,1
 betthelemyfaye,1
 cofei,1
 parleméta,1
-efcriptl,1
+escriptl,1
 ouildi,1
 sapparutà,1
 priät,1
@@ -19782,7 +19775,7 @@ hylarion,1
 vneicune,1
 grauez,1
 affiegee,1
-difoitle,1
+disoitle,1
 euftofté,1
 cestelame,1
 eules,1
@@ -20054,7 +20047,7 @@ ennemysleurs,1
 demandentaux,1
 gueiritont,1
 lesfaict,1
-infinieshiftoires,1
+infinieshistoires,1
 chaftieles,1
 princessorciers,1
 magistrats,1
@@ -20348,7 +20341,7 @@ iugea,1
 eftoitcondamnee,1
 àmourir,1
 fcroit,1
-brufléetoute,1
+brûléetoute,1
 luyauoit,1
 ftonnalesiuges,1
 auoyéccondanée,1
@@ -20401,7 +20394,7 @@ fouftenirla,1
 quifaiët,1
 souventils,1
 manus,1
-fiftbrufler,1
+fiftbrûler,1
 varniferfurles,1
 marches,1
 lxxxx,1
@@ -21100,7 +21093,7 @@ meine,1
 bounin,1
 bally,1
 troisansen,1
-ftbrufler,1
+ftbrûler,1
 vnetoute,1
 filleaux,1
 reucla,1
@@ -22137,7 +22130,7 @@ vnnommé,1
 claudev,1
 morten,1
 catho,1
-cítébruflée,1
+cítébrûlée,1
 delaquellela,1
 condamneeparar,1
 bbbij,1
@@ -22725,7 +22718,7 @@ efleu,1
 cenaillé,1
 tenaillesarden,1
 puiseftrerompufurlaroüe,1
-apresbruflé,1
+apresbrûlé,1
 fouffroit,1
 pasce,1
 mérité,1
@@ -23149,7 +23142,7 @@ uiabufent,1
 pardonantles,1
 excecra,1
 mefchácetes,1
-quicaufe,1
+quicause,1
 fouffrons,1
 iefuis,1
 baillent,1
@@ -24545,7 +24538,7 @@ abole,1
 pani,1
 mage,1
 vedredy,1
-eftoitbruflétoutvif,1
+eftoitbrûlétoutvif,1
 angiers,1
 repentoit,1
 repentift,1
@@ -24629,7 +24622,7 @@ depuisfa,1
 tousleshabitans,1
 rigny,1
 beftailfonten,1
-quelacaufe,1
+quelacause,1
 principalle,1
 ceffantles,1
 dicuface,1
@@ -24659,7 +24652,7 @@ confeífa,1
 diableenguife,1
 ftature,1
 ellelauoit,1
-difoiteftrele,1
+disoiteftrele,1
 traicter,1
 heureufe,1
 nonca,1
@@ -24674,7 +24667,7 @@ thon,1
 apper,1
 ceuft,1
 grandesorciere,1
-labrufler,1
+labrûler,1
 rechapatt,1
 ordône,1
 auparauát,1
@@ -25221,11 +25214,10 @@ monítrás,1
 nains,1
 agricola,1
 aagealaitfé,1
-parefcript,1
+parescript,1
 valere,1
 parméfis,1
 oye,1
-histoires,1
 plineleieune,1
 epiftres,1
 flotus,1
