@@ -76,6 +76,7 @@ token_,count
 ('tant', 'plus', 'aussi'),4
 ('th', 'où', 'vient'),4
 ('où', 'vient', 'doncques'),4
+('ceste', 'cause', 'appellé'),4
 ('froid', 'fec', 'humide'),4
 ('peut', 'faire', 'fans'),4
 ('agent', 'foit', 'bon'),4
@@ -149,7 +150,7 @@ token_,count
 ('tant', 'foit', 'peu'),3
 ('bon', 'gré', 'mal'),3
 ('gré', 'mal', 'gré'),3
-('apres', 'cefte', 'cy'),3
+('apres', 'ceste', 'cy'),3
 ('long', 'temps', 'parauant'),3
 ('auec', 'grand', 'difficulté'),3
 ('pourquoy', 'nature', 'donné'),3
@@ -165,7 +166,7 @@ token_,count
 ('nature', 'uns', 'autres'),3
 ('quelques', 'fois', 'plus'),3
 ('ame', 'plus', 'moins'),3
-('ceste', 'cause', 'appellé'),3
+('toutes', 'fois', 'ceste'),3
 ('fans', 'organes', 'corporels'),3
 ('aist', 'plus', 'ame'),3
 ('corporelle', 'apres', 'elles'),3

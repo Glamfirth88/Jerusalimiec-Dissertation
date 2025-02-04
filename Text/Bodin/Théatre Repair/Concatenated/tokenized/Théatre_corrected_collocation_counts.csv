@@ -3,7 +3,7 @@ token_,count
 ('voilà', 'pourquoy'),55
 ('long', 'temps'),48
 ('grand', 'peine'),27
-('ceftuy', 'cy'),25
+('cestuy', 'cy'),26
 ('quelques', 'uns'),24
 ('cause', 'efficiente'),23
 ('entendement', 'agent'),23
@@ -86,6 +86,8 @@ token_,count
 ('haut', 'bas'),6
 ('ça', 'uoir'),6
 ('prin', 'cipe'),6
+('def', 'ia'),6
+('cest', 'argument'),6
 ('mouue', 'ment'),6
 ('enten', 'dre'),6
 ('diftin', 'ion'),6
@@ -139,6 +141,8 @@ token_,count
 ('fem', 'blable'),5
 ('hautes', 'montaignes'),5
 ('deux', 'fexes'),5
+('cestes', 'icy'),5
+('cest', 'aduis'),5
 ('vers', 'septentrion'),5
 ('compris', 'sous'),5
 ('beftes', 'brutes'),5
@@ -233,6 +237,7 @@ token_,count
 ('an', 'aage'),4
 ('estant', 'separée'),4
 ('my', 'sr'),4
+('eclipfes', 'soleil'),4
 ('corpo', 'relle'),4
 ('ames', 'hom'),4
 ('ames', 'humaines'),4
@@ -263,7 +268,7 @@ token_,count
 ('per', 'fonne'),3
 ('demon', 'ftrations'),3
 ('cours', 'ordinaire'),3
-('cest', 'argument'),3
+('confequence', 'cest'),3
 ('commun', 'accord'),3
 ('natu', 'relle'),3
 ('defpend', 'entierement'),3
@@ -274,7 +279,6 @@ token_,count
 ('viennent', 'ailleurs'),3
 ('enclos', 'capacité'),3
 ('nouuelles', 'formes'),3
-('ceft', 'argument'),3
 ('generation', 'corruption'),3
 ('fub', 'tance'),3
 ('anti', 'quité'),3
@@ -289,7 +293,6 @@ token_,count
 ('dif', 'ference'),3
 ('si', 'concedons'),3
 ('section', 'vl'),3
-('ceste', 'question'),3
 ('tay', 'toufiours'),3
 ('faut', 'ceflairement'),3
 ('accomply', 'matiere'),3
@@ -406,7 +409,6 @@ token_,count
 ('eau', 'glacée'),3
 ('fix', 'angles'),3
 ('fembla', 'bles'),3
-('cestes', 'icy'),3
 ('couleur', 'retire'),3
 ('couleur', 'verde'),3
 ('dy', 'moy'),3
@@ -451,7 +453,6 @@ token_,count
 ('fort', 'differents'),3
 ('nerf', 'odorat'),3
 ('iours', 'entiers'),3
-('ceft', 'animal'),3
 ('couleur', 'noire'),3
 ('tiré', 'nom'),3
 ('couleur', 'blanche'),3
@@ -467,7 +468,6 @@ token_,count
 ('vo', 'yons'),3
 ('fans', 'doubte'),3
 ('lu', 'miere'),3
-('cest', 'aduis'),3
 ('commune', 'routes'),3
 ('dou', 'ble'),3
 ('douleur', 'volupté'),3
