@@ -70,7 +70,7 @@ token_,count
 ('apres', 'mort', 'roy'),5
 ('henry', 'roy', 'angleterre'),5
 ('plus', 'grands', 'seigneurs'),5
-('file', 'prince', 'souverain'),5
+('si', 'prince', 'souverain'),5
 ('encores', 'plus', 'estrange'),5
 ('charles', 'roy', 'france'),5
 ('depuis', 'trois', 'cens'),5
@@ -229,6 +229,7 @@ token_,count
 ('quele', 'sujet', 'naturel'),3
 ('traitant', 'alliance', 'auec'),3
 ('uns', 'contre', 'lesautres'),3
+('contre', 'lesautres', 'si'),3
 ('france', 'seigneurs', 'ligues'),3
 ('auec', 'autres', 'princes'),3
 ('tout', 'empire', 'orient'),3
@@ -323,6 +324,7 @@ token_,count
 ('personnes', 'quelque', 'qualité'),3
 ('icy', 'peut', 'estre'),3
 ('bon', 'iuste', 'roy'),3
+('roy', 'agesi', 'laus'),3
 ('plus', 'fages', 'vertueux'),3
 ('fages', 'vertueux', 'princes'),3
 ('pren', 'dre', 'armes'),3
