@@ -12,6 +12,7 @@ veu,17
 esprits,17
 contre,15
 diable,14
+cause,14
 homme,13
 sorcieres,13
 cens,12
@@ -23,7 +24,6 @@ monde,11
 forme,10
 mort,10
 toute,10
-caufe,10
 cieux,10
 voit,10
 dire,10
@@ -38,6 +38,7 @@ noir,8
 entre,8
 chose,8
 mouvement,8
+malins,8
 actions,8
 naturelles,8
 fois,7
@@ -47,7 +48,7 @@ non,7
 peuples,7
 plutarque,7
 verité,7
-efcript,7
+escript,7
 esprit,7
 humain,7
 cinq,6
@@ -56,13 +57,13 @@ iour,6
 peines,6
 italie,6
 efté,6
+mesmes,6
 cent,6
 intelligences,6
 pourquoy,6
 premier,6
 terre,6
 peu,6
-malings,6
 sorciere,5
 combien,5
 ge,5
@@ -85,6 +86,7 @@ neantmoins,5
 ains,5
 accord,5
 ignorance,5
+histoires,5
 platon,5
 dernier,4
 merueilles,4
@@ -92,6 +94,7 @@ pres,4
 euft,4
 iufques,4
 mains,4
+trouvé,4
 tre,4
 aduis,4
 nóbre,4
@@ -106,7 +109,7 @@ sorcier,4
 lequel,4
 croire,4
 temps,4
-brufler,4
+brûler,4
 feft,4
 oeuvres,4
 charmes,4
@@ -115,7 +118,6 @@ foit,4
 academiques,4
 anges,4
 phyficien,4
-aufli,4
 guife,4
 quarante,4
 deuant,4
@@ -137,17 +139,15 @@ opinion,4
 uns,4
 corruption,4
 sorcelleries,4
-hiftoires,4
 preface,4
 void,4
-cause,4
 parlent,4
 cire,4
 celà,4
 demonftre,4
 conclud,3
 auquel,3
-perfonnes,3
+personnes,3
 mourir,3
 belles,3
 face,3
@@ -157,7 +157,6 @@ lors,3
 copulation,3
 meíme,3
 parlement,3
-trouué,3
 voyant,3
 faisant,3
 beaucoup,3
@@ -198,7 +197,7 @@ feul,3
 tel,3
 infiny,3
 eternité,3
-confefler,3
+confesser,3
 fcience,3
 elprits,3
 philofophe,3
@@ -227,10 +226,12 @@ certifié,3
 proces,3
 allemaigne,3
 infinis,3
+confessions,3
 ignorans,3
 parlé,3
 augustin,3
 veillant,3
+malin,3
 file,3
 donc,3
 difficile,3
@@ -319,7 +320,7 @@ theologie,2
 lanui,2
 ques,2
 faifi,2
-difoit,2
+disoit,2
 falloir,2
 laiffe,2
 empereurs,2
@@ -335,7 +336,7 @@ an,2
 appel,2
 vray,2
 diét,2
-mefmement,2
+mesmement,2
 cogneu,2
 maison,2
 bon,2
@@ -357,16 +358,15 @@ gin,2
 ph,2
 semblable,2
 meuuentles,2
-trouue,2
+trouve,2
 ordinaire,2
 long,2
 hiphialtes,2
-mefmelivre,2
-perfonne,2
-malins,2
+mesmelivre,2
+personne,2
 ily,2
 force,2
-puiflance,2
+puissance,2
 eftranges,2
 aquin,2
 abíurde,2
@@ -379,7 +379,7 @@ toutainsi,2
 quil,2
 grandeur,2
 infinie,2
-confefle,2
+confesse,2
 deraison,2
 pline,2
 pareil,2
@@ -448,7 +448,6 @@ lieues,2
 france,2
 confrontations,2
 conuictions,2
-confeflions,2
 saint,2
 grecs,2
 appellent,2
@@ -464,7 +463,7 @@ quela,2
 bie,2
 demeurét,2
 ordinairement,2
-malin,2
+histoire,2
 commeil,2
 caligula,2
 remus,2
@@ -557,7 +556,7 @@ natifuéde,1
 verbe,1
 compiegne,1
 accufee,1
-confefla,1
+confessa,1
 queftion,1
 torture,1
 prime,1
@@ -576,7 +575,7 @@ drap,1
 nt,1
 ellelauoit,1
 promife,1
-difoiteftrele,1
+disoiteftrele,1
 promet,1
 traicter,1
 heureufe,1
@@ -615,7 +614,7 @@ prefque,1
 paysans,1
 rauir,1
 juftice,1
-labrufler,1
+labrûler,1
 craignans,1
 rechapatt,1
 ordône,1
@@ -628,7 +627,6 @@ natiuité,1
 enquerir,1
 vie,1
 villages,1
-trouvé,1
 fouet,1
 pourle,1
 crime,1
@@ -654,7 +652,7 @@ commifes,1
 parauant,1
 confeffees,1
 perhilta,1
-confeflion,1
+confession,1
 auoitfaicte,1
 ietré,1
 poudres,1
@@ -699,12 +697,12 @@ etlors,1
 viendroir,1
 lhó,1
 mourut,1
-ecauffi,1
+ecaussi,1
 cott,1
 falla,1
 cacher,1
 grange,1
-trouuee,1
+trouvee,1
 ashiterent,1
 iugument,1
 merité,1
@@ -1061,7 +1059,7 @@ nóme,1
 thafius,1
 inceffam,1
 figure,1
-perfonnene,1
+personnene,1
 téps,1
 fräçois,1
 pic,1
@@ -1073,7 +1071,7 @@ dontils,1
 abuferent,1
 confef,1
 ferent,1
-bruflés,1
+brûlés,1
 pvnedes,1
 ifles,1
 eolus,1
@@ -1448,7 +1446,7 @@ mettreles,1
 actiós,1
 patfent,1
 efpric,1
-caufes,1
+causes,1
 droict,1
 repute,1
 roit,1
@@ -1499,7 +1497,7 @@ naturen,1
 âriftote,1
 etbi,1
 nico,1
-ctrouuant,1
+ctrouvant,1
 eftonné,1
 dontil,1
 fçauroit,1
@@ -1541,7 +1539,7 @@ deuins,1
 pithons,1
 exod,1
 fortes,1
-diuinations,1
+divinations,1
 fpecifiees,1
 leuit,1
 clquelles,1
@@ -1558,7 +1556,7 @@ chiens,1
 icfabel,1
 precipiter,1
 chateau,1
-aufliles,1
+aussiles,1
 sor,1
 nabum,1
 cz,1
@@ -1581,7 +1579,7 @@ imprecations,1
 abhominables,1
 portees,1
 parlesloix,1
-trouuent,1
+trouvent,1
 quelconques,1
 toto,1
 titu,1
@@ -1614,7 +1612,7 @@ eflongné,1
 malefi,1
 rapportez,1
 neminam,1
-confeflent,1
+confessent,1
 consentement,1
 ainf,1
 codi,1
@@ -1656,9 +1654,9 @@ romu,1
 higo,1
 flo,1
 riacenji,1
-fefttrouué,1
+fefttrouvé,1
 parinfniz,1
-trouuans,1
+trouvans,1
 tranfportez,1
 deleur,1
 maifon,1
@@ -1668,7 +1666,7 @@ etaufi,1
 toft,1
 aflemblee,1
 feuanoüilloit,1
-trouuez,1
+trouvez,1
 feuls,1
 retournez,1
 mailon,1
@@ -1705,7 +1703,7 @@ quece,1
 oppreffion,1
 delaquelle,1
 demeurent,1
-feroitaufliimpoflible,1
+feroitaussiimpoflible,1
 aduintaux,1
 eftrage,1
 depofent,1
@@ -1719,7 +1717,7 @@ nains,1
 georges,1
 agricola,1
 aagealaitfé,1
-parefcript,1
+parescript,1
 difons,1
 valere,1
 maxime,1
@@ -1731,7 +1729,6 @@ oye,1
 ese,1
 mauuais,1
 dæmon,1
-histoires,1
 plineleieune,1
 epiftres,1
 flotus,1
@@ -1746,7 +1743,6 @@ brutus,1
 femblables,1
 vi,1
 fions,1
-histoire,1
 atheno,1
 dore,1
 vision,1
@@ -1808,7 +1804,6 @@ cófefte,1
 feftoit,1
 apparu,1
 elleen,1
-hiftoire,1
 eltaduenuële,1
 fecond,1
 feurier,1
@@ -1840,7 +1835,6 @@ conuenance,1
 semblables,1
 fiecles,1
 rspportees,1
-confessions,1
 ll,1
 fopi,1
 niatrer,1
@@ -1853,7 +1847,7 @@ mefíme,1
 personnage,1
 furnom,1
 mé,1
-diuin,1
+divin,1
 quandil,1
 difcourir,1
 diligemment,1
@@ -2014,7 +2008,6 @@ clarté,1
 lcil,1
 difoyent,1
 eftimpolfible,1
-maling,1
 tran,1
 porte,1
 coní,1
@@ -2028,7 +2021,7 @@ mille,1
 lieue,1
 demonftreray,1
 disent,1
-confefleront,1
+confesseront,1
 doncques,1
 croi,1
 ltd,1
@@ -2255,7 +2248,7 @@ accidenta,1
 lement,1
 fouffrent,1
 consequent,1
-mefmetemps,1
+mesmetemps,1
 neceflité,1
 action,1
 paroittre,1
@@ -2342,7 +2335,7 @@ oeuure,1
 eípritz,1
 aflociation,1
 uec,1
-diuins,1
+divins,1
 fcauoirles,1
 oc,1
 cultes,1

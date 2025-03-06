@@ -1,5 +1,5 @@
 token_,count
-('malins', 'esprits'),15
+('malins', 'esprits'),18
 ('moyens', 'diaboliques'),9
 ('loy', 'dieu'),8
 ('cest', 'dire'),7
@@ -17,10 +17,10 @@ token_,count
 ('paruenir', 'chose'),4
 ('cas', 'pareil'),4
 ('parle', 'moyen'),4
+('causes', 'naturelles'),4
 ('face', 'face'),4
 ('cours', 'nature'),4
 ('moyens', 'illicites'),4
-('malings', 'esprits'),3
 ('maistre', 'sorcier'),3
 ('grand', 'leviathan'),3
 ('monde', 'elementaire'),3
@@ -37,7 +37,6 @@ token_,count
 ('delaloy', 'dieu'),3
 ('choses', 'occultes'),3
 ('elt', 'dire'),3
-('caufes', 'naturelles'),3
 ('louër', 'dieu'),3
 ('quand', 'void'),3
 ('lumieres', 'celestes'),3
