@@ -1,0 +1,24 @@
+token_,count
+('deniers', 'grains'),7
+('pieces', 'marc'),7
+('grains', 'poids'),7
+('faux', 'monnoyeurs'),4
+('deniers', 'fin'),4
+('deniers', 'douze'),4
+('douze', 'grains'),4
+('deniers', 'feize'),4
+('feize', 'grains'),4
+('argentle', 'roy'),4
+('onze', 'deniers'),4
+('grains', 'fin'),4
+('prix', 'choses'),3
+('quars', 'carat'),3
+('vnze', 'deniers'),3
+('peu', 'pres'),3
+('deniers', 'poids'),3
+('està', 'dire'),3
+('fix', 'deniers'),3
+('fix', 'grains'),3
+('mis', 'œuure'),3
+('poids', 'efgal'),3
+('maffe', 'efgale'),3
