@@ -1,2 +1,0 @@
-Bodin_stemmed.txt
-L'Hospital_stemmed.txt
