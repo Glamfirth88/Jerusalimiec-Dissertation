@@ -1,0 +1,170 @@
+0Théatre summary_corrected_stemmed.txt
+Discours des raisons_corrected_stemmed.txt
+Démonomanie I.1_corrected_stemmed.txt
+Démonomanie I.2_corrected_stemmed.txt
+Démonomanie I.3_corrected_stemmed.txt
+Démonomanie I.4_corrected_stemmed.txt
+Démonomanie I.5_corrected_stemmed.txt
+Démonomanie I.6_corrected_stemmed.txt
+Démonomanie I.7_corrected_stemmed.txt
+Démonomanie II.1_corrected_stemmed.txt
+Démonomanie II.2_corrected_stemmed.txt
+Démonomanie II.3_corrected_stemmed.txt
+Démonomanie II.4_corrected_stemmed.txt
+Démonomanie II.5_corrected_stemmed.txt
+Démonomanie II.6_corrected_stemmed.txt
+Démonomanie II.7_corrected_stemmed.txt
+Démonomanie II.8_corrected_stemmed.txt
+Démonomanie III.1_corrected_stemmed.txt
+Démonomanie III.2_corrected_stemmed.txt
+Démonomanie III.3_corrected_stemmed.txt
+Démonomanie III.4_corrected_stemmed.txt
+Démonomanie III.5_corrected_stemmed.txt
+Démonomanie III.6_corrected_stemmed.txt
+Démonomanie IV.1_corrected_stemmed.txt
+Démonomanie IV.2_corrected_stemmed.txt
+Démonomanie IV.3_corrected_stemmed.txt
+Démonomanie IV.4_corrected_stemmed.txt
+Démonomanie IV.5_corrected_stemmed.txt
+Démonomanie preface Repair_corrected_stemmed.txt
+Harangue - Fontainebleau_corrected_stemmed.txt
+Harangue - Orléans 2_corrected_stemmed.txt
+Harangue - Orléans_corrected_stemmed.txt
+Harangue - Poissy_corrected_stemmed.txt
+Harangue - Rouen_corrected_stemmed.txt
+Harangue - Saint Germain_corrected_stemmed.txt
+Harangue - lit de justice_corrected_stemmed.txt
+Harangue - ouverture de parlement_corrected_stemmed.txt
+Harangue - parlement 2_corrected_stemmed.txt
+Harangue - parlement 3_corrected_stemmed.txt
+Harangue - parlement_corrected_stemmed.txt
+Harangue - religion_corrected_stemmed.txt
+Harangue - septembre_corrected_stemmed.txt
+La réponse_corrected_stemmed.txt
+Le paradoxe_corrected_stemmed.txt
+Lettre_corrected_stemmed.txt
+Lit de justice_corrected_stemmed.txt
+Memoire - Namur_corrected_stemmed.txt
+Memoire - le but_corrected_stemmed.txt
+Memoire au roi_corrected_stemmed.txt
+Memoires d'État Refuge_corrected_stemmed.txt
+Memoires d'état_corrected_stemmed.txt
+Recueil_corrected_stemmed.txt
+Remonstrances - Royaume_corrected_stemmed.txt
+Remonstrances - parlement_corrected_stemmed.txt
+République I.1_corrected_stemmed.txt
+République I.2_corrected_stemmed.txt
+République I.3_corrected_stemmed.txt
+République I.4_corrected_stemmed.txt
+République I.5_corrected_stemmed.txt
+République I.6_corrected_stemmed.txt
+République I.7_corrected_stemmed.txt
+République I.8_corrected_stemmed.txt
+République I.910_corrected_stemmed.txt
+République I.911_corrected_stemmed.txt
+République I.9_corrected_stemmed.txt
+République II.1_corrected_stemmed.txt
+République II.2_corrected_stemmed.txt
+République II.3_corrected_stemmed.txt
+République II.4_corrected_stemmed.txt
+République II.5_corrected_stemmed.txt
+République II.6_corrected_stemmed.txt
+République II.7_corrected_stemmed.txt
+République III.1_corrected_stemmed.txt
+République III.2_corrected_stemmed.txt
+République III.3_corrected_stemmed.txt
+République III.4_corrected_stemmed.txt
+République III.5_corrected_stemmed.txt
+République III.6_corrected_stemmed.txt
+République III.7_corrected_stemmed.txt
+République IV.1_corrected_stemmed.txt
+République IV.2_corrected_stemmed.txt
+République IV.3_corrected_stemmed.txt
+République IV.4_corrected_stemmed.txt
+République IV.5_corrected_stemmed.txt
+République IV.6_corrected_stemmed.txt
+République IV.7_corrected_stemmed.txt
+République V.1_corrected_stemmed.txt
+République V.2_corrected_stemmed.txt
+République V.3_corrected_stemmed.txt
+République V.4_corrected_stemmed.txt
+République V.5_corrected_stemmed.txt
+République VI.1_corrected_stemmed.txt
+République VI.2_corrected_stemmed.txt
+République VI.3_corrected_stemmed.txt
+République VI.4_corrected_stemmed.txt
+République VI.5_corrected_stemmed.txt
+République VI.6_corrected_stemmed.txt
+République preface_corrected_stemmed.txt
+Théatre I.1_corrected_stemmed.txt
+Théatre I.2_corrected_stemmed.txt
+Théatre I.3_corrected_stemmed.txt
+Théatre I.4_corrected_stemmed.txt
+Théatre I.5_corrected_stemmed.txt
+Théatre I.6_corrected_stemmed.txt
+Théatre I.7_corrected_stemmed.txt
+Théatre I.8_corrected_stemmed.txt
+Théatre I.910_corrected_stemmed.txt
+Théatre I.911_corrected_stemmed.txt
+Théatre I.9_corrected_stemmed.txt
+Théatre II.1_corrected_stemmed.txt
+Théatre II.2_corrected_stemmed.txt
+Théatre II.3_corrected_stemmed.txt
+Théatre II.4_corrected_stemmed.txt
+Théatre II.5_corrected_stemmed.txt
+Théatre II.6_corrected_stemmed.txt
+Théatre II.7_corrected_stemmed.txt
+Théatre II.8_corrected_stemmed.txt
+Théatre II.910_corrected_stemmed.txt
+Théatre II.911_corrected_stemmed.txt
+Théatre II.9_corrected_stemmed.txt
+Théatre III.1_corrected_stemmed.txt
+Théatre III.2_corrected_stemmed.txt
+Théatre III.3_corrected_stemmed.txt
+Théatre III.4_corrected_stemmed.txt
+Théatre III.5_corrected_stemmed.txt
+Théatre III.6_corrected_stemmed.txt
+Théatre III.7_corrected_stemmed.txt
+Théatre III.8_corrected_stemmed.txt
+Théatre III.910_corrected_stemmed.txt
+Théatre III.911_corrected_stemmed.txt
+Théatre III.912_corrected_stemmed.txt
+Théatre III.913_corrected_stemmed.txt
+Théatre III.914_corrected_stemmed.txt
+Théatre III.915_corrected_stemmed.txt
+Théatre III.916_corrected_stemmed.txt
+Théatre III.9_corrected_stemmed.txt
+Théatre IV.1_corrected_stemmed.txt
+Théatre IV.2_corrected_stemmed.txt
+Théatre IV.3_corrected_stemmed.txt
+Théatre IV.4_corrected_stemmed.txt
+Théatre IV.5_corrected_stemmed.txt
+Théatre IV.6_corrected_stemmed.txt
+Théatre IV.7_corrected_stemmed.txt
+Théatre IV.8_corrected_stemmed.txt
+Théatre IV.910_corrected_stemmed.txt
+Théatre IV.911_corrected_stemmed.txt
+Théatre IV.912_corrected_stemmed.txt
+Théatre IV.913_corrected_stemmed.txt
+Théatre IV.914_corrected_stemmed.txt
+Théatre IV.915_corrected_stemmed.txt
+Théatre IV.9_corrected_stemmed.txt
+Théatre V.1_corrected_stemmed.txt
+Théatre V.2_corrected_stemmed.txt
+Théatre V.3_corrected_stemmed.txt
+Théatre V.4_corrected_stemmed.txt
+Théatre V.5_corrected_stemmed.txt
+Théatre V.6_corrected_stemmed.txt
+Théatre V.7_corrected_stemmed.txt
+Théatre V.8_corrected_stemmed.txt
+Théatre V.910_corrected_stemmed.txt
+Théatre V.911_corrected_stemmed.txt
+Théatre V.912_corrected_stemmed.txt
+Théatre V.9_corrected_stemmed.txt
+Traité Justice III_corrected_stemmed.txt
+Traité Justice II_corrected_stemmed.txt
+Traité Justice IV_corrected_stemmed.txt
+Traité Justice I_corrected_stemmed.txt
+Traité Justice VII_corrected_stemmed.txt
+Traité Justice VI_corrected_stemmed.txt
+Traité Justice V_corrected_stemmed.txt
