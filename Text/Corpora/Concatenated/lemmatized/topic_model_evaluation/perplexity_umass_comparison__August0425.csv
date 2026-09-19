@@ -1,0 +1,16 @@
+experiment,run_dir,topics,u_mass_coherence,u_mass_min,u_mass_max,u_mass_std,reconstructed_perplexity,documents,tokens,top_words
+August0425,/workspaces/Jerusalimiec-Dissertation/Text/Corpora/Concatenated/lemmatized/August0425/topics_4,4,0.6931471805599454,0.6931471805599454,0.6931471805599454,0.0,600.519373321548,2,90028,20
+August0425,/workspaces/Jerusalimiec-Dissertation/Text/Corpora/Concatenated/lemmatized/August0425/topics_5,5,0.6931471805599454,0.6931471805599454,0.6931471805599454,0.0,600.3337295005506,2,90028,20
+August0425,/workspaces/Jerusalimiec-Dissertation/Text/Corpora/Concatenated/lemmatized/August0425/topics_6,6,0.6931471805599454,0.6931471805599454,0.6931471805599454,0.0,600.5033317961123,2,90028,20
+August0425,/workspaces/Jerusalimiec-Dissertation/Text/Corpora/Concatenated/lemmatized/August0425/topics_7,7,0.6931471805599454,0.6931471805599454,0.6931471805599454,0.0,600.2455281825378,2,90028,20
+August0425,/workspaces/Jerusalimiec-Dissertation/Text/Corpora/Concatenated/lemmatized/August0425/topics_8,8,0.6931471805599454,0.6931471805599454,0.6931471805599454,0.0,600.2694826878271,2,90028,20
+August0425,/workspaces/Jerusalimiec-Dissertation/Text/Corpora/Concatenated/lemmatized/August0425/topics_9,9,0.6931471805599454,0.6931471805599454,0.6931471805599454,0.0,600.2223735240132,2,90028,20
+August0425,/workspaces/Jerusalimiec-Dissertation/Text/Corpora/Concatenated/lemmatized/August0425/topics_10,10,0.6931471805599454,0.6931471805599454,0.6931471805599454,0.0,600.3614183001944,2,90028,20
+August0425,/workspaces/Jerusalimiec-Dissertation/Text/Corpora/Concatenated/lemmatized/August0425/topics_11,11,0.6931471805599454,0.6931471805599454,0.6931471805599454,0.0,600.2436112193385,2,90028,20
+August0425,/workspaces/Jerusalimiec-Dissertation/Text/Corpora/Concatenated/lemmatized/August0425/topics_12,12,0.6931471805599454,0.6931471805599454,0.6931471805599454,0.0,600.2446925770937,2,90028,20
+August0425,/workspaces/Jerusalimiec-Dissertation/Text/Corpora/Concatenated/lemmatized/August0425/topics_13,13,0.6931471805599454,0.6931471805599454,0.6931471805599454,0.0,600.4135119521608,2,90028,20
+August0425,/workspaces/Jerusalimiec-Dissertation/Text/Corpora/Concatenated/lemmatized/August0425/topics_14,14,0.6931471805599454,0.6931471805599454,0.6931471805599454,0.0,600.4012400342477,2,90028,20
+August0425,/workspaces/Jerusalimiec-Dissertation/Text/Corpora/Concatenated/lemmatized/August0425/topics_15,15,0.6931471805599454,0.6931471805599454,0.6931471805599454,0.0,600.3483104029981,2,90028,20
+August0425,/workspaces/Jerusalimiec-Dissertation/Text/Corpora/Concatenated/lemmatized/August0425/topics_16,16,0.6931471805599454,0.6931471805599454,0.6931471805599454,0.0,600.2690666650466,2,90028,20
+August0425,/workspaces/Jerusalimiec-Dissertation/Text/Corpora/Concatenated/lemmatized/August0425/topics_17,17,0.6931471805599454,0.6931471805599454,0.6931471805599454,0.0,600.3378389284236,2,90028,20
+August0425,/workspaces/Jerusalimiec-Dissertation/Text/Corpora/Concatenated/lemmatized/August0425/topics_18,18,0.6931471805599454,0.6931471805599454,0.6931471805599454,0.0,600.362732994496,2,90028,20

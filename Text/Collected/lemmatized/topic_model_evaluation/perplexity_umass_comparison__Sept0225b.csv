@@ -1,0 +1,14 @@
+experiment,run_dir,topics,u_mass_coherence,u_mass_min,u_mass_max,reconstructed_perplexity,documents,tokens,top_words
+Sept0225b,/workspaces/Jerusalimiec-Dissertation/Text/Collected/lemmatized/Sept0225b/topics_4,4,-3.732496064112791,-7.509296224386451,-0.4765123506079892,778.0816855620619,36,146338,20
+Sept0225b,/workspaces/Jerusalimiec-Dissertation/Text/Collected/lemmatized/Sept0225b/topics_5,5,-1.9036117107602237,-5.753208604150779,-0.47073018066763084,686.3092473108328,36,146338,20
+Sept0225b,/workspaces/Jerusalimiec-Dissertation/Text/Collected/lemmatized/Sept0225b/topics_6,6,-2.1456133676401072,-8.216330913585223,-0.4765123506079892,650.1811678491287,36,146338,20
+Sept0225b,/workspaces/Jerusalimiec-Dissertation/Text/Collected/lemmatized/Sept0225b/topics_7,7,-2.421334431752588,-11.081674592086376,-0.45986984073520604,652.0554309173706,36,146338,20
+Sept0225b,/workspaces/Jerusalimiec-Dissertation/Text/Collected/lemmatized/Sept0225b/topics_8,8,-2.840279803745771,-9.29358165161433,-0.4095685390796476,623.9621664235888,36,146338,20
+Sept0225b,/workspaces/Jerusalimiec-Dissertation/Text/Collected/lemmatized/Sept0225b/topics_9,9,-1.7403337759048663,-7.374991286604908,-0.4038832263793544,602.8995786378088,36,146338,20
+Sept0225b,/workspaces/Jerusalimiec-Dissertation/Text/Collected/lemmatized/Sept0225b/topics_10,10,-1.2145993729910627,-4.457081503588927,-0.46263392628560107,612.8977635172735,36,146338,20
+Sept0225b,/workspaces/Jerusalimiec-Dissertation/Text/Collected/lemmatized/Sept0225b/topics_11,11,-1.6699507983386574,-7.379002550036734,-0.4575429882875658,594.6820256475821,36,146338,20
+Sept0225b,/workspaces/Jerusalimiec-Dissertation/Text/Collected/lemmatized/Sept0225b/topics_12,12,-1.9400039399166966,-7.765176924247475,-0.35642084047437395,597.478828906121,36,146338,20
+Sept0225b,/workspaces/Jerusalimiec-Dissertation/Text/Collected/lemmatized/Sept0225b/topics_13,13,-1.4071455307961667,-7.414563997386539,-0.3805643411093896,588.3102609605162,36,146338,20
+Sept0225b,/workspaces/Jerusalimiec-Dissertation/Text/Collected/lemmatized/Sept0225b/topics_14,14,-1.6343472303313453,-10.221033468325937,-0.3318451573629185,575.6587050495062,36,146338,20
+Sept0225b,/workspaces/Jerusalimiec-Dissertation/Text/Collected/lemmatized/Sept0225b/topics_15,15,-1.4921805383161955,-8.20696671456703,-0.30900597092268267,569.1935000082339,36,146338,20
+Sept0225b,/workspaces/Jerusalimiec-Dissertation/Text/Collected/lemmatized/Sept0225b/topics_16,16,-2.1140657619269496,-10.065843387276264,-0.40116408382646135,572.9474679496691,36,146338,20

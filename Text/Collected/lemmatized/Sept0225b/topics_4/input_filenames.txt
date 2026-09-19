@@ -1,0 +1,36 @@
+Discours des raisons_corrected_stemmed.txt
+Démonomanie Repair_corrected_stemmed.txt
+Harangue - Fontainebleau_corrected_stemmed.txt
+Harangue - Orléans 2_corrected_stemmed.txt
+Harangue - Orléans_corrected_stemmed.txt
+Harangue - Poissy_corrected_stemmed.txt
+Harangue - Rouen_corrected_stemmed.txt
+Harangue - Saint Germain_corrected_stemmed.txt
+Harangue - lit de justice_corrected_stemmed.txt
+Harangue - ouverture de parlement_corrected_stemmed.txt
+Harangue - parlement 2_corrected_stemmed.txt
+Harangue - parlement 3_corrected_stemmed.txt
+Harangue - parlement_corrected_stemmed.txt
+Harangue - religion_corrected_stemmed.txt
+Harangue - septembre_corrected_stemmed.txt
+La réponse_corrected_stemmed.txt
+Le paradoxe_corrected_stemmed.txt
+Lettre_corrected_stemmed.txt
+Lit de justice_corrected_stemmed.txt
+Memoire - Namur_corrected_stemmed.txt
+Memoire - le but_corrected_stemmed.txt
+Memoire au roi_corrected_stemmed.txt
+Memoires d'État Refuge_corrected_stemmed.txt
+Memoires d'état_corrected_stemmed.txt
+Recueil_corrected_stemmed.txt
+Remonstrances - Royaume_corrected_stemmed.txt
+Remonstrances - parlement_corrected_stemmed.txt
+République_corrected_stemmed.txt
+Théatre_corrected_stemmed.txt
+Traite Justice VII_corrected_stemmed.txt
+Traite Justice VI_corrected_stemmed.txt
+Traite Justice V_corrected_stemmed.txt
+Traité Justice III_corrected_stemmed.txt
+Traité Justice II_corrected_stemmed.txt
+Traité Justice IV_corrected_stemmed.txt
+Traité Justice I_corrected_stemmed.txt
