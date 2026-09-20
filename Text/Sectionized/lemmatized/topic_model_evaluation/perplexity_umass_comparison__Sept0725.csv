@@ -1,0 +1,14 @@
+experiment,run_dir,topics,u_mass_coherence,u_mass_min,u_mass_max,reconstructed_perplexity,documents,tokens,top_words
+Sept0725,/workspaces/Jerusalimiec-Dissertation/Text/Sectionized/lemmatized/Sept0725/topics_4,4,-3.7737989075052365,-8.47730831895828,-1.6196036119186883,453.0022435193699,170,85246,20
+Sept0725,/workspaces/Jerusalimiec-Dissertation/Text/Sectionized/lemmatized/Sept0725/topics_5,5,-5.3807635835077186,-9.257440773337247,-1.3814026984017067,417.8724214717297,170,85246,20
+Sept0725,/workspaces/Jerusalimiec-Dissertation/Text/Sectionized/lemmatized/Sept0725/topics_6,6,-6.168785964064394,-11.918066523999215,-1.3838936469956609,370.8995653445164,170,85246,20
+Sept0725,/workspaces/Jerusalimiec-Dissertation/Text/Sectionized/lemmatized/Sept0725/topics_7,7,-4.695228542530188,-9.361494486596577,-1.4610213174436981,330.7291161976595,170,85246,20
+Sept0725,/workspaces/Jerusalimiec-Dissertation/Text/Sectionized/lemmatized/Sept0725/topics_8,8,-5.096286929358523,-11.17352210932165,-1.2773250216319256,316.2394875547882,170,85246,20
+Sept0725,/workspaces/Jerusalimiec-Dissertation/Text/Sectionized/lemmatized/Sept0725/topics_9,9,-6.577417259132718,-12.868047844315068,-1.5742871256018582,293.1533417686013,170,85246,20
+Sept0725,/workspaces/Jerusalimiec-Dissertation/Text/Sectionized/lemmatized/Sept0725/topics_10,10,-5.115114475799675,-12.174353663064611,-1.308351301600561,272.5934619050982,170,85246,20
+Sept0725,/workspaces/Jerusalimiec-Dissertation/Text/Sectionized/lemmatized/Sept0725/topics_11,11,-5.194619730815132,-11.713703898844047,-1.259497905281894,256.5199977037666,170,85246,20
+Sept0725,/workspaces/Jerusalimiec-Dissertation/Text/Sectionized/lemmatized/Sept0725/topics_12,12,-5.768933683828785,-11.539071448294502,-1.2503413432929404,247.00847869527854,170,85246,20
+Sept0725,/workspaces/Jerusalimiec-Dissertation/Text/Sectionized/lemmatized/Sept0725/topics_13,13,-4.77002665913843,-13.134655004359923,-1.3723714749044964,231.07134915930462,170,85246,20
+Sept0725,/workspaces/Jerusalimiec-Dissertation/Text/Sectionized/lemmatized/Sept0725/topics_14,14,-4.867774894513425,-12.154419831796812,-1.2933660215173457,220.54989653389882,170,85246,20
+Sept0725,/workspaces/Jerusalimiec-Dissertation/Text/Sectionized/lemmatized/Sept0725/topics_15,15,-4.540487914444304,-13.818337144200125,-1.2690132904398506,210.06434236900355,170,85246,20
+Sept0725,/workspaces/Jerusalimiec-Dissertation/Text/Sectionized/lemmatized/Sept0725/topics_16,16,-5.473572896697472,-12.191697645381243,-1.27844231832825,211.85307066898537,170,85246,20

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model>
+<topic id='0' tokens='25829.0000' document_entropy='3.4511' word-length='5.8000' coherence='-315.4762' uniform_dist='2.2329' corpus_dist='0.7907' eff_num_words='127.6058' token-doc-diff='0.0119' rank_1_docs='0.8043' allocation_ratio='0.8222' allocation_count='0.8696' exclusivity='0.6990'>
+<word rank='1' count='823' prob='0.03186' cumulative='0.03186' docs='17' word-length='5.0000' coherence='0.0000' uniform_dist='0.1478' corpus_dist='0.0205' token-doc-diff='0.0014' exclusivity='0.5276'>estat</word>
+<word rank='2' count='758' prob='0.02935' cumulative='0.06121' docs='13' word-length='5.0000' coherence='-1.0322' uniform_dist='0.1337' corpus_dist='0.0347' token-doc-diff='0.0026' exclusivity='0.9995'>peupl</word>
+<word rank='3' count='735' prob='0.02846' cumulative='0.08967' docs='17' word-length='5.0000' coherence='-0.8801' uniform_dist='0.1288' corpus_dist='0.0207' token-doc-diff='0.0006' exclusivity='0.5795'>princ</word>
+<word rank='4' count='691' prob='0.02675' cumulative='0.11642' docs='16' word-length='3.0000' coherence='-1.7112' uniform_dist='0.1194' corpus_dist='0.0290' token-doc-diff='0.0006' exclusivity='0.8696'>loi</word>
+<word rank='5' count='671' prob='0.02598' cumulative='0.14240' docs='22' word-length='6.0000' coherence='-1.1514' uniform_dist='0.1152' corpus_dist='0.0268' token-doc-diff='0.0001' exclusivity='0.8071'>republ</word>
+<word rank='6' count='547' prob='0.02118' cumulative='0.16358' docs='13' word-length='9.0000' coherence='-1.1639' uniform_dist='0.0896' corpus_dist='0.0231' token-doc-diff='0.0004' exclusivity='0.8878'>magistrat</word>
+<word rank='7' count='542' prob='0.02098' cumulative='0.18456' docs='19' word-length='8.0000' coherence='-0.8882' uniform_dist='0.0886' corpus_dist='0.0240' token-doc-diff='0.0003' exclusivity='0.9461'>puissanc</word>
+<word rank='8' count='456' prob='0.01765' cumulative='0.20221' docs='14' word-length='4.0000' coherence='-2.4886' uniform_dist='0.0715' corpus_dist='-0.0014' token-doc-diff='0.0000' exclusivity='0.2360'>bien</word>
+<word rank='9' count='393' prob='0.01522' cumulative='0.21743' docs='13' word-length='5.0000' coherence='-1.8361' uniform_dist='0.0593' corpus_dist='0.0109' token-doc-diff='0.0001' exclusivity='0.5751'>sujet</word>
+<word rank='10' count='323' prob='0.01251' cumulative='0.22994' docs='15' word-length='9.0000' coherence='-1.0322' uniform_dist='0.0463' corpus_dist='0.0121' token-doc-diff='0.0013' exclusivity='0.7583'>souverain</word>
+<word rank='11' count='289' prob='0.01119' cumulative='0.24112' docs='10' word-length='8.0000' coherence='-2.6950' uniform_dist='0.0402' corpus_dist='0.0132' token-doc-diff='0.0001' exclusivity='0.9988'>populair</word>
+<word rank='12' count='253' prob='0.00980' cumulative='0.25092' docs='7' word-length='3.0000' coherence='-5.3959' uniform_dist='0.0339' corpus_dist='0.0052' token-doc-diff='0.0000' exclusivity='0.4643'>pay</word>
+<word rank='13' count='251' prob='0.00972' cumulative='0.26064' docs='8' word-length='5.0000' coherence='-4.4052' uniform_dist='0.0335' corpus_dist='0.0115' token-doc-diff='0.0000' exclusivity='0.9986'>senat</word>
+<word rank='14' count='233' prob='0.00902' cumulative='0.26966' docs='11' word-length='8.0000' coherence='-2.0425' uniform_dist='0.0305' corpus_dist='0.0048' token-doc-diff='0.0010' exclusivity='0.4641'>seigneur</word>
+<word rank='15' count='230' prob='0.00890' cumulative='0.27856' docs='6' word-length='6.0000' coherence='-5.3959' uniform_dist='0.0299' corpus_dist='0.0072' token-doc-diff='0.0001' exclusivity='0.6318'>argent</word>
+<word rank='16' count='216' prob='0.00836' cumulative='0.28693' docs='6' word-length='4.0000' coherence='-5.2249' uniform_dist='0.0276' corpus_dist='0.0042' token-doc-diff='0.0000' exclusivity='0.4432'>vill</word>
+<word rank='17' count='196' prob='0.00759' cumulative='0.29451' docs='7' word-length='5.0000' coherence='-2.5622' uniform_dist='0.0243' corpus_dist='0.0054' token-doc-diff='0.0001' exclusivity='0.5701'>guerr</word>
+<word rank='18' count='188' prob='0.00728' cumulative='0.30179' docs='8' word-length='6.0000' coherence='-2.0425' uniform_dist='0.0230' corpus_dist='0.0056' token-doc-diff='0.0005' exclusivity='0.6122'>romain</word>
+<word rank='19' count='173' prob='0.00670' cumulative='0.30849' docs='10' word-length='7.0000' coherence='-5.0922' uniform_dist='0.0206' corpus_dist='0.0079' token-doc-diff='0.0017' exclusivity='0.9980'>command</word>
+<word rank='20' count='171' prob='0.00662' cumulative='0.31511' docs='9' word-length='5.0000' coherence='-4.2530' uniform_dist='0.0203' corpus_dist='0.0052' token-doc-diff='0.0012' exclusivity='0.6117'>ordon</word>
+</topic>
+<topic id='1' tokens='17665.0000' document_entropy='3.9750' word-length='4.4500' coherence='-510.6903' uniform_dist='2.0999' corpus_dist='1.2123' eff_num_words='127.1513' token-doc-diff='0.0162' rank_1_docs='0.9412' allocation_ratio='0.9406' allocation_count='0.9412' exclusivity='0.8525'>
+<word rank='1' count='794' prob='0.04495' cumulative='0.04495' docs='25' word-length='4.0000' coherence='0.0000' uniform_dist='0.2239' corpus_dist='0.0607' token-doc-diff='0.0059' exclusivity='0.8289'>dieu</word>
+<word rank='2' count='622' prob='0.03521' cumulative='0.08016' docs='23' word-length='5.0000' coherence='-0.4443' uniform_dist='0.1668' corpus_dist='0.0550' token-doc-diff='0.0029' exclusivity='0.9997'>sorci</word>
+<word rank='3' count='587' prob='0.03323' cumulative='0.11339' docs='31' word-length='4.0000' coherence='-3.0562' uniform_dist='0.1555' corpus_dist='0.0519' token-doc-diff='0.0003' exclusivity='0.9996'>chos</word>
+<word rank='4' count='401' prob='0.02270' cumulative='0.13609' docs='25' word-length='4.0000' coherence='-2.4868' uniform_dist='0.0976' corpus_dist='0.0353' token-doc-diff='0.0000' exclusivity='0.9944'>corp</word>
+<word rank='5' count='280' prob='0.01585' cumulative='0.15194' docs='17' word-length='4.0000' coherence='-1.8102' uniform_dist='0.0624' corpus_dist='0.0096' token-doc-diff='0.0000' exclusivity='0.4154'>homm</word>
+<word rank='6' count='266' prob='0.01506' cumulative='0.16700' docs='21' word-length='5.0000' coherence='-3.3538' uniform_dist='0.0586' corpus_dist='0.0235' token-doc-diff='0.0005' exclusivity='0.9992'>diabl</word>
+<word rank='7' count='255' prob='0.01444' cumulative='0.18143' docs='25' word-length='5.0000' coherence='-2.3131' uniform_dist='0.0555' corpus_dist='0.0225' token-doc-diff='0.0017' exclusivity='0.9965'>natur</word>
+<word rank='8' count='236' prob='0.01336' cumulative='0.19479' docs='15' word-length='3.0000' coherence='-3.1393' uniform_dist='0.0503' corpus_dist='0.0209' token-doc-diff='0.0000' exclusivity='0.9991'>ame</word>
+<word rank='9' count='199' prob='0.01127' cumulative='0.20606' docs='13' word-length='6.0000' coherence='-2.3097' uniform_dist='0.0405' corpus_dist='0.0164' token-doc-diff='0.0000' exclusivity='0.9124'>esprit</word>
+<word rank='10' count='180' prob='0.01019' cumulative='0.21625' docs='11' word-length='4.0000' coherence='-3.0562' uniform_dist='0.0356' corpus_dist='0.0123' token-doc-diff='0.0000' exclusivity='0.7245'>mond</word>
+<word rank='11' count='162' prob='0.00917' cumulative='0.22542' docs='10' word-length='4.0000' coherence='-5.1608' uniform_dist='0.0311' corpus_dist='0.0090' token-doc-diff='0.0000' exclusivity='0.6494'>fort</word>
+<word rank='12' count='159' prob='0.00900' cumulative='0.23442' docs='12' word-length='3.0000' coherence='-5.5862' uniform_dist='0.0304' corpus_dist='0.0141' token-doc-diff='0.0002' exclusivity='0.9987'>eau</word>
+<word rank='13' count='152' prob='0.00860' cumulative='0.24302' docs='13' word-length='3.0000' coherence='-5.0185' uniform_dist='0.0286' corpus_dist='0.0124' token-doc-diff='0.0005' exclusivity='0.9159'>fin</word>
+<word rank='14' count='151' prob='0.00855' cumulative='0.25157' docs='9' word-length='4.0000' coherence='-5.6693' uniform_dist='0.0284' corpus_dist='0.0085' token-doc-diff='0.0000' exclusivity='0.5999'>terr</word>
+<word rank='15' count='148' prob='0.00838' cumulative='0.25995' docs='13' word-length='4.0000' coherence='-4.7582' uniform_dist='0.0277' corpus_dist='0.0123' token-doc-diff='0.0006' exclusivity='0.9337'>form</word>
+<word rank='16' count='147' prob='0.00832' cumulative='0.26827' docs='19' word-length='4.0000' coherence='-5.5862' uniform_dist='0.0274' corpus_dist='0.0116' token-doc-diff='0.0029' exclusivity='0.8868'>fois</word>
+<word rank='17' count='146' prob='0.00826' cumulative='0.27654' docs='9' word-length='4.0000' coherence='-5.5862' uniform_dist='0.0272' corpus_dist='0.0056' token-doc-diff='0.0000' exclusivity='0.4559'>caus</word>
+<word rank='18' count='140' prob='0.00793' cumulative='0.28446' docs='13' word-length='6.0000' coherence='-5.8837' uniform_dist='0.0257' corpus_dist='0.0124' token-doc-diff='0.0007' exclusivity='0.9985'>sathan</word>
+<word rank='19' count='129' prob='0.00730' cumulative='0.29176' docs='9' word-length='6.0000' coherence='-5.6693' uniform_dist='0.0231' corpus_dist='0.0114' token-doc-diff='0.0001' exclusivity='0.9984'>soleil</word>
+<word rank='20' count='121' prob='0.00685' cumulative='0.29861' docs='8' word-length='7.0000' coherence='-5.1608' uniform_dist='0.0212' corpus_dist='0.0081' token-doc-diff='0.0000' exclusivity='0.7426'>naturel</word>
+</topic>
+<topic id='2' tokens='20220.0000' document_entropy='2.3362' word-length='4.7500' coherence='-212.0222' uniform_dist='2.4581' corpus_dist='1.1592' eff_num_words='84.4211' token-doc-diff='0.0333' rank_1_docs='0.3846' allocation_ratio='0.3846' allocation_count='0.6154' exclusivity='0.7935'>
+<word rank='1' count='1159' prob='0.05732' cumulative='0.05732' docs='13' word-length='4.0000' coherence='0.0000' uniform_dist='0.2995' corpus_dist='0.0628' token-doc-diff='0.0085' exclusivity='0.7639'>bien</word>
+<word rank='2' count='1138' prob='0.05628' cumulative='0.11360' docs='14' word-length='6.0000' coherence='-0.3648' uniform_dist='0.2930' corpus_dist='0.0804' token-doc-diff='0.0068' exclusivity='0.9998'>justic</word>
+<word rank='3' count='651' prob='0.03220' cumulative='0.14580' docs='14' word-length='3.0000' coherence='-0.6134' uniform_dist='0.1497' corpus_dist='0.0437' token-doc-diff='0.0002' exclusivity='0.9220'>bon</word>
+<word rank='4' count='535' prob='0.02646' cumulative='0.17226' docs='15' word-length='3.0000' coherence='-1.1639' uniform_dist='0.1178' corpus_dist='0.0309' token-doc-diff='0.0001' exclusivity='0.8096'>jug</word>
+<word rank='5' count='450' prob='0.02226' cumulative='0.19451' docs='10' word-length='4.0000' coherence='-1.9783' uniform_dist='0.0952' corpus_dist='0.0210' token-doc-diff='0.0001' exclusivity='0.5844'>homm</word>
+<word rank='6' count='371' prob='0.01835' cumulative='0.21286' docs='7' word-length='6.0000' coherence='-1.5867' uniform_dist='0.0750' corpus_dist='0.0262' token-doc-diff='0.0004' exclusivity='0.9993'>réform</word>
+<word rank='7' count='317' prob='0.01568' cumulative='0.22854' docs='12' word-length='3.0000' coherence='-1.5867' uniform_dist='0.0616' corpus_dist='0.0205' token-doc-diff='0.0012' exclusivity='0.8707'>mal</word>
+<word rank='8' count='254' prob='0.01256' cumulative='0.24110' docs='7' word-length='5.0000' coherence='-1.9783' uniform_dist='0.0466' corpus_dist='0.0150' token-doc-diff='0.0001' exclusivity='0.7892'>vertu</word>
+<word rank='9' count='252' prob='0.01246' cumulative='0.25356' docs='7' word-length='4.0000' coherence='-1.8361' uniform_dist='0.0461' corpus_dist='0.0169' token-doc-diff='0.0001' exclusivity='0.9199'>temp</word>
+<word rank='10' count='228' prob='0.01128' cumulative='0.26484' docs='5' word-length='7.0000' coherence='-1.9783' uniform_dist='0.0406' corpus_dist='0.0141' token-doc-diff='0.0001' exclusivity='0.8650'>honneur</word>
+<word rank='11' count='216' prob='0.01068' cumulative='0.27552' docs='11' word-length='3.0000' coherence='-1.0872' uniform_dist='0.0379' corpus_dist='0.0136' token-doc-diff='0.0028' exclusivity='0.8863'>gen</word>
+<word rank='12' count='210' prob='0.01039' cumulative='0.28591' docs='9' word-length='4.0000' coherence='-1.7566' uniform_dist='0.0365' corpus_dist='0.0148' token-doc-diff='0.0014' exclusivity='0.9988'>proc</word>
+<word rank='13' count='203' prob='0.01004' cumulative='0.29594' docs='6' word-length='8.0000' coherence='-1.9783' uniform_dist='0.0350' corpus_dist='0.0143' token-doc-diff='0.0001' exclusivity='0.9988'>injustic</word>
+<word rank='14' count='195' prob='0.00964' cumulative='0.30559' docs='9' word-length='6.0000' coherence='-1.5867' uniform_dist='0.0332' corpus_dist='0.0118' token-doc-diff='0.0018' exclusivity='0.8486'>public</word>
+<word rank='15' count='187' prob='0.00925' cumulative='0.31484' docs='8' word-length='4.0000' coherence='-2.1238' uniform_dist='0.0315' corpus_dist='-0.0021' token-doc-diff='0.0013' exclusivity='0.1710'>dieu</word>
+<word rank='16' count='173' prob='0.00856' cumulative='0.32339' docs='4' word-length='4.0000' coherence='-2.0072' uniform_dist='0.0284' corpus_dist='0.0061' token-doc-diff='0.0000' exclusivity='0.4729'>caus</word>
+<word rank='17' count='171' prob='0.00846' cumulative='0.33185' docs='9' word-length='4.0000' coherence='-1.9783' uniform_dist='0.0280' corpus_dist='0.0121' token-doc-diff='0.0024' exclusivity='0.9985'>sort</word>
+<word rank='18' count='170' prob='0.00841' cumulative='0.34026' docs='11' word-length='7.0000' coherence='-2.4886' uniform_dist='0.0278' corpus_dist='0.0065' token-doc-diff='0.0044' exclusivity='0.5793'>conseil</word>
+<word rank='19' count='168' prob='0.00831' cumulative='0.34857' docs='6' word-length='5.0000' coherence='-4.5372' uniform_dist='0.0274' corpus_dist='0.0102' token-doc-diff='0.0005' exclusivity='0.8174'>party</word>
+<word rank='20' count='164' prob='0.00811' cumulative='0.35668' docs='2' word-length='5.0000' coherence='-4.5372' uniform_dist='0.0265' corpus_dist='0.0062' token-doc-diff='0.0010' exclusivity='0.5752'>charg</word>
+</topic>
+<topic id='3' tokens='20600.0000' document_entropy='2.2752' word-length='4.9000' coherence='-217.4030' uniform_dist='2.4578' corpus_dist='1.0766' eff_num_words='47.2582' token-doc-diff='0.0350' rank_1_docs='0.6111' allocation_ratio='0.6111' allocation_count='0.7500' exclusivity='0.7234'>
+<word rank='1' count='2659' prob='0.12908' cumulative='0.12908' docs='31' word-length='3.0000' coherence='0.0000' uniform_dist='0.7792' corpus_dist='0.1819' token-doc-diff='0.0138' exclusivity='0.9999'>roy</word>
+<word rank='2' count='589' prob='0.02859' cumulative='0.15767' docs='11' word-length='5.0000' coherence='-1.1256' uniform_dist='0.1295' corpus_dist='0.0153' token-doc-diff='0.0003' exclusivity='0.4722'>estat</word>
+<word rank='3' count='381' prob='0.01850' cumulative='0.17617' docs='6' word-length='3.0000' coherence='-1.8102' uniform_dist='0.0757' corpus_dist='0.0261' token-doc-diff='0.0007' exclusivity='0.9993'>duc</word>
+<word rank='4' count='355' prob='0.01723' cumulative='0.19340' docs='4' word-length='4.0000' coherence='-2.3097' uniform_dist='0.0693' corpus_dist='0.0243' token-doc-diff='0.0020' exclusivity='0.9993'>comt</word>
+<word rank='5' count='354' prob='0.01718' cumulative='0.21058' docs='8' word-length='5.0000' coherence='-1.4786' uniform_dist='0.0691' corpus_dist='0.0216' token-doc-diff='0.0000' exclusivity='0.8836'>franc</word>
+<word rank='6' count='329' prob='0.01597' cumulative='0.22655' docs='12' word-length='6.0000' coherence='-0.9447' uniform_dist='0.0630' corpus_dist='0.0199' token-doc-diff='0.0017' exclusivity='0.8625'>royaum</word>
+<word rank='7' count='301' prob='0.01461' cumulative='0.24117' docs='10' word-length='5.0000' coherence='-1.1256' uniform_dist='0.0564' corpus_dist='0.0009' token-doc-diff='0.0010' exclusivity='0.2968'>princ</word>
+<word rank='8' count='243' prob='0.01180' cumulative='0.25296' docs='6' word-length='5.0000' coherence='-1.8102' uniform_dist='0.0430' corpus_dist='0.0166' token-doc-diff='0.0000' exclusivity='0.9989'>charl</word>
+<word rank='9' count='232' prob='0.01126' cumulative='0.26422' docs='13' word-length='5.0000' coherence='-1.3247' uniform_dist='0.0405' corpus_dist='0.0047' token-doc-diff='0.0052' exclusivity='0.4246'>sujet</word>
+<word rank='10' count='218' prob='0.01058' cumulative='0.27481' docs='7' word-length='3.0000' coherence='-1.4786' uniform_dist='0.0374' corpus_dist='0.0064' token-doc-diff='0.0006' exclusivity='0.5003'>pay</word>
+<word rank='11' count='215' prob='0.01044' cumulative='0.28524' docs='9' word-length='8.0000' coherence='-1.2300' uniform_dist='0.0368' corpus_dist='0.0070' token-doc-diff='0.0019' exclusivity='0.5355'>seigneur</word>
+<word rank='12' count='209' prob='0.01015' cumulative='0.29539' docs='7' word-length='8.0000' coherence='-1.6702' uniform_dist='0.0354' corpus_dist='0.0090' token-doc-diff='0.0007' exclusivity='0.6205'>empereur</word>
+<word rank='13' count='209' prob='0.01015' cumulative='0.30553' docs='4' word-length='3.0000' coherence='-2.3227' uniform_dist='0.0354' corpus_dist='0.0143' token-doc-diff='0.0001' exclusivity='0.9988'>pap</word>
+<word rank='14' count='192' prob='0.00932' cumulative='0.31485' docs='6' word-length='5.0000' coherence='-1.8102' uniform_dist='0.0318' corpus_dist='0.0073' token-doc-diff='0.0004' exclusivity='0.5909'>droit</word>
+<word rank='15' count='179' prob='0.00869' cumulative='0.32354' docs='7' word-length='3.0000' coherence='-2.1238' uniform_dist='0.0290' corpus_dist='0.0065' token-doc-diff='0.0012' exclusivity='0.5709'>don</word>
+<word rank='16' count='163' prob='0.00791' cumulative='0.33146' docs='7' word-length='4.0000' coherence='-1.8752' uniform_dist='0.0257' corpus_dist='0.0086' token-doc-diff='0.0016' exclusivity='0.7688'>paix</word>
+<word rank='17' count='161' prob='0.00782' cumulative='0.33927' docs='6' word-length='4.0000' coherence='-1.8752' uniform_dist='0.0253' corpus_dist='0.0034' token-doc-diff='0.0009' exclusivity='0.4131'>vill</word>
+<word rank='18' count='155' prob='0.00752' cumulative='0.34680' docs='2' word-length='6.0000' coherence='-2.7013' uniform_dist='0.0240' corpus_dist='0.0106' token-doc-diff='0.0006' exclusivity='0.9983'>hommag</word>
+<word rank='19' count='141' prob='0.00684' cumulative='0.35364' docs='7' word-length='9.0000' coherence='-1.4786' uniform_dist='0.0212' corpus_dist='0.0096' token-doc-diff='0.0022' exclusivity='0.9926'>angleterr</word>
+<word rank='20' count='132' prob='0.00641' cumulative='0.36005' docs='3' word-length='4.0000' coherence='-5.0185' uniform_dist='0.0194' corpus_dist='0.0055' token-doc-diff='0.0000' exclusivity='0.5406'>jour</word>
+</topic>
+</model>
+
